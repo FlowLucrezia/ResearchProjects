@@ -1,0 +1,24 @@
+---
+tags:
+  - cognitive_performance
+  - motor_control
+  - motor_skill
+  - fractal_scaling
+  - task_performance
+  - physiology
+  - noise
+  - power_law
+  - report
+  - commentary
+  - methodology
+  - dynamics
+  - coordination
+  - complexity
+  - structure
+  - theory
+  - networks
+  - neural_dynamics
+  - interaction_dominant
+  - emergence
+---
+[Beltz, B. C., & Kello, C. T. (2006). On the intrinsic fluctuations of human behavior. Focus on cognitive psychology research, 25-41.](https://www.researchgate.net/profile/Christopher-Kello/publication/242081336_On_the_Intrinsic_Fluctuations_of_Human_Behavior/links/0a85e5321f9e9046a8000000/On-the-Intrinsic-Fluctuations-of-Human-Behavior.pdf)
