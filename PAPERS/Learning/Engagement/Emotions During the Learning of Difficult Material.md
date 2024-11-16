@@ -1,0 +1,43 @@
+---
+tags:
+  - learning
+  - emotion
+  - stability
+  - emotion_dynamics
+  - engagement
+  - boredom
+  - positive_emotions
+  - affect
+  - dynamics
+  - confusion
+  - frustration
+  - sense_making
+  - insight
+  - motivation
+  - AI
+  - HCI
+  - cognitive_performance
+  - decision_making
+  - enjoyment
+  - complexity
+  - memory
+  - development
+  - education
+  - flow
+  - mood
+  - AutoTutor
+  - conversation
+  - language
+  - interaction
+  - problem_solving
+  - experience
+  - experiment
+  - iSAT
+  - Fundamentals_of_CAS
+  - report
+  - facial_expressions
+  - behavior_coding
+  - mathematics
+  - postural_control
+---
+[Graesser, A. C., & D’Mello, S. (2012). Emotions during the learning of difficult material. In _Psychology of learning and motivation_ (Vol. 57, pp. 183-225). Academic Press.](https://www.sciencedirect.com/science/article/pii/B9780123942937000054?casa_token=S1ke2QU42VsAAAAA:azEWG_2FcomAF635vmdtwrAccwwQ3yXpjf7VG1PACwczzqdH90KpXTnZGQHoKrbpRf4kuEnwaA)
