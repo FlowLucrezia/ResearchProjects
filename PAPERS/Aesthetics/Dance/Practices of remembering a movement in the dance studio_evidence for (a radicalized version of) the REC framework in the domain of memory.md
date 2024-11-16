@@ -1,0 +1,52 @@
+---
+tags:
+  - memory
+  - affordances
+  - dance
+  - art
+  - aesthetics
+  - embodied
+  - enactivism
+  - philosophy
+  - theory
+  - emotion
+  - sense_making
+  - dynamics
+  - ecological_psychology
+  - ecological_dynamics
+  - 4E
+  - engagement
+  - skilled_intentionality
+  - cognitive_performance
+  - learning
+  - perceptual_judgement
+  - motor_skill
+  - motor_control
+  - kinesthetic
+  - complexity
+  - task_complexity
+  - sensorimotor_training
+  - semantics
+  - report
+  - commentary
+  - language
+  - imagery
+  - stimulus_response
+  - task_performance
+  - marking
+  - information
+  - attention
+  - attunement
+  - ballet
+  - adaptation
+  - aesthetic_emotions
+  - intersubjectivity
+  - coordination
+  - relationality
+  - regulation
+  - motion
+  - proprioception
+---
+10.1007/s11229-020-02949-w
+
+[Carmona, C. (2021). Practices of remembering a movement in the dance studio: evidence for (a radicalized version of) the REC framework in the domain of memory. _Synthese_, _199_(1), 3611-3643.](https://link.springer.com/article/10.1007/s11229-020-02949-w)
