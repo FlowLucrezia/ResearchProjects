@@ -1,0 +1,24 @@
+---
+tags:
+  - ABM
+  - reciprocality
+  - appreciation
+  - groups
+  - triads
+  - dyadic
+  - interaction
+  - leader_follower
+  - emergence
+  - cooperation
+  - collaboration
+  - Fundamentals_of_CAS
+  - report
+  - discourse_patterns
+  - communication
+  - agency
+  - centrality
+  - methodology
+  - theory
+  - sensitivity
+---
+[Koponen, I. T., & Nousiainen, M. (2016). Formation of reciprocal appreciation patterns in small groups: an agent-based model. _Complex Adaptive Systems Modeling_, _4_, 1-19.](https://link.springer.com/content/pdf/10.1186/s40294-016-0035-6.pdf)

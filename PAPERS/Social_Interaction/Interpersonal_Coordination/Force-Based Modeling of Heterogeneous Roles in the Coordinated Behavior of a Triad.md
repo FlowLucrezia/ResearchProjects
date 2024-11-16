@@ -1,0 +1,22 @@
+---
+tags:
+  - coupling
+  - coordination
+  - triads
+  - complexity
+  - dynamics
+  - roles
+  - structure
+  - task_performance
+  - motor_control
+  - groups
+  - interaction
+  - Fundamentals_of_CAS
+  - theory
+  - methodology
+  - motion
+  - team_composition
+  - experiment
+  - adaptation
+---
+[Ichikawa, J., & Fujii, K. (2024). Force-Based Modeling of Heterogeneous Roles in the Coordinated Behavior of a Triad. _New Generation Computing_, 1-13.](https://link.springer.com/article/10.1007/s00354-024-00277-y)

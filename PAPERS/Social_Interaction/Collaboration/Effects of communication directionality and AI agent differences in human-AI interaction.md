@@ -1,0 +1,26 @@
+---
+tags:
+  - communication
+  - dynamics
+  - games
+  - AI
+  - experience
+  - collaboration
+  - cooperation
+  - rapport
+  - affiliation
+  - leader_follower
+  - HCI
+  - reciprocality
+  - learning
+  - task_performance
+  - experiment
+  - Fundamentals_of_CAS
+  - theory
+  - dyadic
+  - groups
+  - interaction
+  - intersubjectivity
+  - iSAT
+---
+[Ashktorab, Z., Dugan, C., Johnson, J., Pan, Q., Zhang, W., Kumaravel, S., & Campbell, M. (2021, May). Effects of communication directionality and AI agent differences in human-AI interaction. In _Proceedings of the 2021 CHI conference on human factors in computing systems_ (pp. 1-15).](https://dl.acm.org/doi/pdf/10.1145/3411764.3445256?casa_token=yHWxGr-qfVAAAAAA:FbQ-uH3zdul5qhSheTPxihzM7Po8KiQ65PxIzwn8bD7oobgPLiBKvQrP0sSXVzX-QQ_eolebD7Pc)

@@ -1,0 +1,30 @@
+---
+tags:
+  - CPS
+  - collaboration
+  - cooperation
+  - iSAT
+  - interaction
+  - communication
+  - HCI
+  - AI
+  - WoZ
+  - problem_solving
+  - methodology
+  - theory
+  - cognitive_performance
+  - task_performance
+  - learning
+  - experiment
+  - team
+  - influence
+  - coordination
+  - behavior_coding
+  - speech
+  - utterances
+  - facial_expressions
+  - programming
+  - conversation
+  - process
+---
+[Sun, C., Shute, V. J., Stewart, A., Yonehiro, J., Duran, N., & D'Mello, S. (2020). Towards a generalized competency model of collaborative problem solving. _Computers & Education_, _143_, 103672.](https://pdf.sciencedirectassets.com/271849/1-s2.0-S0360131519X00135/1-s2.0-S0360131519302258/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJHMEUCIGgmV%2FSkbN4chOSwHlyrYy3sqvTl4mOjejqPJbaD0hsaAiEA6qBQ0CFzOalV%2F8b9dEwhBNY5eEYFY6CDFlTJ6SJv%2FQwqvAUIgf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKguihkZKybw27OvvSqQBZnzED4Q3sWkP3n8sDSE1HluWBDhunOinYAhSRU8RIbvK53gBhIkLNUub9FLyPMxOleAErbN8kvZ3vqSE7lgLHbI6kujzc07XnZAKuVrib6QA0kqsJIkT%2BaTNP6GTGrHraJvzEV5zKs6kiVFrH4JTFnVODdqXzAswbEb9PXY8F3TVxIDe9OKhGc1W9ls0BwIjz8cDj7JDBXKndnLD%2FFRqpWx4EjMLrBfPH1s1xHYwcN7h4S9eCuqE%2Fr4%2BJ2o%2BV0XBR3TGdpaq8KJCQcHDQ9w4YkF6U0t4wxvmVcVSwvnSuodk%2F6Tfro0K%2FCNi5WHqKgZ86uMqm8b1m79pwLKHFFsmlB3qgahsu5xRjzaWKr%2BMmQXoeOMpP4SO9EzfVXu4clnSNpLRRBMc1lM%2BhmpglwctseeqqugXC7Z9S79LfHeMk10UUgDwvBwmac9Cuea07bYY5Nba1meuQSinhp9KimM4Qdx5tfulEs6zjpLJFa%2FdcBcsybGqanGbGDyRBsv%2BVWEyZxArgcHj%2Fn16HitSKYhi2%2Fj908XMUd7r%2FHS%2Bg52yQOSn4U9ACrztOttjtz5%2FQ60AlQv89zcZPvR3kUbDj5fNbnrKmdCEJCmDe8eSl8VdpBUbQtCtmB8XLWodI6x3U0trL4ibBA1lg9dpXkkbQJASa9Fa%2BN%2FGqFUfdpra5pbBJSUPtzQBKu7BN8CVw4s6vtPO3Wx5T9js7yRgOsj%2FKOl6y0PKfjHFb%2BA9r9THgb3QDF4uelgOr9oFE%2F1kScZb%2FpwkeEurBP8K7WkNMUlFBuu89HCQ1M0MS9vvwbUf%2BGX5dZy2Rbye3v%2FW1V9ubXDRrUGDM68fTp9XyMyd4UGZ3LHJFEZBg9kpYRG7jmlO1HsnSK6MPWDi7kGOrEB4riwmfBAgGZugcbgjh%2BCuh6tCETiyy4Bp7hx62ov8gt1NjOBU2fabRdaRYdgNtx99318R8%2F01V55NyszkktNlC%2FAlE9gwVn%2FPlOvxKHeomPphUpykDb4LQJzgysAxEfAuO3SPNEGvHYHR0aUsjz%2BJhSPHEA%2FE%2FzeGRSSB5vqSpSoZtZBcIlGhTFi3Vs0wMc7zUhU%2FlsVlDtPbfv%2FYXYDz9M1R9PPG7qOyRGVwLWWw2b%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241031T004034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY66VSHLYM%2F20241031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1ee0406ee5f9f6b30a264f19f77eae2c37567df569e6bdbb0597cbe2f0dbfdd2&hash=b968fc5f6e725aa109fb0ec09bdf13649a1f45d8714244c6d670a86b73bfff38&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0360131519302258&tid=pdf-5ce185e6-bee4-4c24-9caa-c4df4b7c58d4&sid=1cc1122691bf934a5f7b0cd5b00b957fd7ecgxrqa&type=client)

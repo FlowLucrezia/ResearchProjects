@@ -1,0 +1,56 @@
+---
+tags:
+  - synchronization
+  - entrainment
+  - coupling
+  - interaction
+  - dyadic
+  - triads
+  - groups
+  - coherence
+  - experience
+  - physiology
+  - biology
+  - cooperation
+  - collaboration
+  - joint_attention
+  - joint_action
+  - emotion
+  - affect
+  - emotion_sharing
+  - affiliation
+  - attunement
+  - coordination
+  - embodied
+  - contagion
+  - empathy
+  - motion
+  - facial_expressions
+  - nervous_system
+  - neural_dynamics
+  - complexity
+  - personality
+  - psychopathology
+  - theory
+  - Fundamentals_of_CAS
+  - iSAT
+  - autism
+  - HCI
+  - robots
+  - anxiety
+  - children
+  - WoZ
+  - dynamics
+  - motor_control
+  - valence
+  - arousal
+  - stress
+  - AI
+  - report
+  - commentary
+  - coordination_dynamics
+  - interpersonal_coordination
+  - cognitive_performance
+---
+
+[Bieńkiewicz, M. M., Smykovskyi, A. P., Olugbade, T., Janaqi, S., Camurri, A., Bianchi-Berthouze, N., ... & Bardy, B. G. (2021). Bridging the gap between emotion and joint action. _Neuroscience & Biobehavioral Reviews_, _131_, 806-833.](https://www.sciencedirect.com/science/article/pii/S0149763421003572)

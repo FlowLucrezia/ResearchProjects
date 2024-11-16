@@ -1,0 +1,59 @@
+---
+tags:
+  - interpersonal_synchrony
+  - interpersonal_coordination
+  - synchronization
+  - context
+  - coherence
+  - flexibility
+  - task_performance
+  - process
+  - metastability
+  - coupling
+  - physiology
+  - iSAT
+  - team
+  - teams
+  - positive_emotions
+  - emotion
+  - affect
+  - adaptation
+  - facial_expressions
+  - neuroscience
+  - motion
+  - postural_control
+  - coordination
+  - groups
+  - cooperation
+  - dynamics
+  - structure
+  - collaboration
+  - personality
+  - dyadic
+  - Fundamentals_of_CAS
+  - valence
+  - arousal
+  - theory
+  - report
+  - commentary
+  - conflict
+  - affiliation
+  - stability
+  - GSR
+  - RSA
+  - attention
+  - empathy
+  - complexity
+  - wavelet_coherence
+  - RQA
+  - experiment
+  - frame_differencing
+  - motion_tracking
+  - coordination_dynamics
+  - CRQA
+  - fractal_scaling
+  - IBI
+---
+DOI: 10.31234/osf.io/9u7q8
+
+[Gordon, I., Tomashin, A., & Mayo, O. (2024). A theory of flexible multimodal synchrony. _Psychological Review_.](https://psycnet.apa.org/fulltext/2025-38770-001.pdf)

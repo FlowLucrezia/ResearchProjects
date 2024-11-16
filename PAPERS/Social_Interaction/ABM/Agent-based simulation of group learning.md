@@ -1,0 +1,27 @@
+---
+tags:
+  - groups
+  - team
+  - team_composition
+  - dynamics
+  - ABM
+  - agency
+  - learning
+  - information
+  - education
+  - structure
+  - collaboration
+  - insight
+  - motivation
+  - emotion
+  - affect
+  - Fundamentals_of_CAS
+  - complexity
+  - development
+  - achievement
+  - problem_solving
+  - report
+  - methodology
+  - interaction
+---
+[Spoelstra, M., & Sklar, E. (2007, May). Agent-based simulation of group learning. In _International Workshop on Multi-Agent Systems and Agent-Based Simulation_ (pp. 69-83). Berlin, Heidelberg: Springer Berlin Heidelberg.](https://www.sci.brooklyn.cuny.edu/~sklar/papers/spoelstra-sklar-mabs07.pdf)

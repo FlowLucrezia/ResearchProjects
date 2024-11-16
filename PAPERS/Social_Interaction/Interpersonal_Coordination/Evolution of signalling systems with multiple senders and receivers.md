@@ -1,0 +1,21 @@
+---
+tags:
+  - information
+  - communication
+  - decision_making
+  - groups
+  - dyadic
+  - triads
+  - Fundamentals_of_CAS
+  - team
+  - evolution
+  - learning
+  - dynamics
+  - interaction
+  - coordination
+  - games
+  - stability
+  - structure
+  - report
+---
+[Skyrms, B. (2009). Evolution of signalling systems with multiple senders and receivers. _Philosophical Transactions of the Royal Society B: Biological Sciences_, _364_(1518), 771-779.](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2008.0258)
