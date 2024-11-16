@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "OG iSAT Literature Review"
             }
+          },
+          {
+            "id": "066b9869b3d61820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAPERS/Theory_Methods/Toolkit/A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +202,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5693b281c7fb4a5d",
+  "active": "066b9869b3d61820",
   "lastOpenFiles": [
-    "PAPERS/ADD TAGS + SORT/Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series.md",
+    "PAPERS/Theory_Methods/Toolkit/Analyzing Multivariate Dynamics Using Cross-Recurrence Quantification Analysis (CRQA)....md",
+    "PAPERS/Sense_Making/An Alternative to Mapping a Word onto a Concept in Language Acquisition_Pragmatic Frames.md",
+    "PAPERS/Sense_Making/Language Comprehension in the Balance_The Robustness of the Action-Compatibility Effect (ACE).md",
+    "PAPERS/Theory_Methods/Toolkit/A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science.md",
+    "PAPERS/Theory_Methods/Toolkit/A sliding window approach to detrended fluctuation analysis of heart rate variability.md",
+    "PAPERS/Theory_Methods/Toolkit/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance.md",
     "PROJECTS/iSAT/OG iSAT Literature Review.md",
+    "PAPERS/ADD TAGS + SORT/Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series.md",
     "PAPERS/ADD TAGS + SORT/Heart rate variability as a potential indicator of positive valence system disturbance_A proof of concept investigation.md",
     "PAPERS/ADD TAGS + SORT/Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature.md",
     "PAPERS/ADD TAGS + SORT/Emotions and learning with auto tutor.md",
@@ -209,12 +230,6 @@
     "PAPERS/ADD TAGS + SORT/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
     "PAPERS/ADD TAGS + SORT/Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates.md",
     "PAPERS/ADD TAGS + SORT/Personality and charismatic leadership in context_The moderating role of situational stress.md",
-    "PAPERS/ADD TAGS + SORT/Insight and non-insight problem solving_A heart rate variability study.md",
-    "PAPERS/ADD TAGS + SORT/Robustness of physiological synchrony in wearable electrodermal activity and heart rate as a measure of attentional engagement to movie clips.md",
-    "PAPERS/ADD TAGS + SORT/Charismatic leadership_Eliciting and channeling follower emotions.md",
-    "PAPERS/ADD TAGS + SORT/Moving beyond the lab_investigating empathy through the Empirical 5E approach.md",
-    "PAPERS/ADD TAGS + SORT/Sharing the now in the social present_Duration of nonverbal synchrony is linked with personality.md",
-    "PAPERS/ADD TAGS + SORT/Sequential patterns in social interaction states for regulation in collaborative learning.md",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",

@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": false,
-  "basePath": "\"C:\\Users\\lucre\\Desktop\\Literature\\lucrePAPERS\\.git\"",
+  "basePath": "C:\\Users\\lucre\\Desktop\\Literature\\lucrePAPERS\\.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
