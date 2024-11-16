@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:PAPERS/Aesthetics  ",
+      "color": {
+        "a": 1,
+        "rgb": 15346218
+      }
+    },
+    {
+      "query": "path:PAPERS/Affect  ",
+      "color": {
+        "a": 1,
+        "rgb": 13393669
+      }
+    },
+    {
+      "query": "path:PAPERS/Metacognition  ",
+      "color": {
+        "a": 1,
+        "rgb": 16631560
+      }
+    },
+    {
+      "query": "path:PAPERS/Reading  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514821
+      }
+    },
+    {
+      "query": "path:PAPERS/Sense_Making  ",
+      "color": {
+        "a": 1,
+        "rgb": 2442269
+      }
+    },
+    {
+      "query": "path:PAPERS/Learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 1279638
+      }
+    },
+    {
+      "query": "path:PAPERS/Social_Interaction  ",
+      "color": {
+        "a": 1,
+        "rgb": 1381758
+      }
+    },
+    {
+      "query": "path:PAPERS/Fractals  ",
+      "color": {
+        "a": 1,
+        "rgb": 12918472
+      }
+    },
+    {
+      "query": "path:PAPERS/Motor_Control  ",
+      "color": {
+        "a": 1,
+        "rgb": 9457651
+      }
+    },
+    {
+      "query": "path:PAPERS/Theory_Methods  ",
+      "color": {
+        "a": 1,
+        "rgb": 3999323
+      }
+    },
+    {
+      "query": "path:PAPERS/Health  ",
+      "color": {
+        "a": 1,
+        "rgb": 9178497
+      }
+    },
+    {
+      "query": "path:PAPERS/Development  ",
+      "color": {
+        "a": 1,
+        "rgb": 13671400
+      }
+    },
+    {
+      "query": "path:PROJECTS  ",
+      "color": {
+        "a": 1,
+        "rgb": 6191561
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.31228373702422,
+  "lineSizeMultiplier": 0.464532871972318,
+  "collapse-forces": false,
+  "centerStrength": 0.295847750865052,
+  "repelStrength": 13.6678200692042,
+  "linkStrength": 0.416955017301038,
+  "linkDistance": 351,
+  "scale": 0.059326171875001305,
+  "close": false
+}

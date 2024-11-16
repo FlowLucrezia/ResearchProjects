@@ -1,0 +1,29 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "note header",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "ADMINISTRATIVE/templates/Note Header.md",
+      "cslStyle": "apa"
+    },
+    {
+      "name": "Lit Review",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "ADMINISTRATIVE/templates/Zotero Integration Code.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

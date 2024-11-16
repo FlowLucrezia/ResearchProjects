@@ -1,0 +1,11 @@
+{
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": []
+}
