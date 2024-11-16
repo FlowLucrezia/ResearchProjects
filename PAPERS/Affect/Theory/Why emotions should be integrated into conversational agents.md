@@ -1,0 +1,30 @@
+---
+tags:
+  - HAT
+  - AI
+  - CSCL
+  - conversation
+  - communication
+  - commentary
+  - report
+  - affect
+  - emotion
+  - emotion_sharing
+  - HCI
+  - robots
+  - coordination
+  - positive_emotions
+  - mood
+  - attention
+  - dynamics
+  - emotion_dynamics
+  - boredom
+  - emergence
+  - empathy
+  - cooperation
+  - iSAT
+  - theory
+  - methodology
+  - Fundamentals_of_CAS
+---
+[Becker, C., Kopp, S., & Wachsmuth, I. (2007). Why emotions should be integrated into conversational agents. _Conversational informatics: an engineering approach_, _3_, 49-68.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c535470c951217e18d0e6785ce164defc1b6015)

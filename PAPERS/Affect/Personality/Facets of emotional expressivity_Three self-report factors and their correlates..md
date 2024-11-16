@@ -1,0 +1,20 @@
+---
+tags:
+  - expressivity
+  - emotion
+  - emotion_sharing
+  - methodology
+  - Fundamentals_of_CAS
+  - personality
+  - affect
+  - embodied
+  - enactivism
+  - gender
+  - report
+  - experiment
+  - communication
+  - positive_emotions
+  - mood
+  - interaction
+---
+[Gross, J. J., & John, O. P. (1995). Facets of emotional expressivity: Three self-report factors and their correlates. _Personality and individual differences_, _19_(4), 555-568.](https://pdf.sciencedirectassets.com/271782/1-s2.0-S0191886900X00062/1-s2.0-019188699500055B/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJIMEYCIQCo%2B3mMfJGmpn6VUDxaeivNyk06MBsNU4DSgiw1YVwkZgIhAK8%2BHn%2Bt1iPAcPLDDfccY0wn2Pt%2FAVeP%2FLTPpOPHmtsVKrwFCID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igy7w%2B6A2r6R43amRjIqkAUfnyCW%2FsETp5A5bMICmSZK%2BrCHmaR8mtFyDmxtIFusPCKfMGB2GHC%2F1bh9Eju6mpc0kMZjfDIw0MeSQOws%2Bfv7MkHukyC3LON2pzkgr7lQ2kqZiSs0RAPkT4wlHki0zxx3Tur7SuLxWaLPMCGO7FyPKks506Qb2OOU5B59Hc3v3lx6kQEeYYqOG9gQu8iAaiNOtQcuG%2BFnFUMyu73Lfq8IFuNq6ZhBAPgCBbLDN4mcqht58OaV1CwqPVfZnpGI3VP4CbVUPa9DYi5j0vk30Ti1y8S9NlF%2FnpdcMHEgMnUd%2FTJD1aq4f3xlKATKGokHn8mzIJaY8Wdj%2BncqjpNcKlzBsyIlzP3C1MzDyQNpUM2XvgLN04ofWwmN7AI9%2BdV%2B66g1XDXWuXNQ2wTZkgJrJDNfusKlA10cBcty1FeO0Fd5pERDa25Jnit%2B1QU0Ln7gxytBcWXA6Q%2FL08AE7mEN%2FarIyApdwdmCldYyR5%2FGi%2FR6ofW%2BD6MjXdgQQ29cwIpAN8T5BPR7Pt4TV31LM5MwCMXJBoAo7ZBtdc%2BNgyb8k0HOOq751DnG5lSCNmF755%2F7wbpWBRoU09GTPdbzd%2B9%2Fe1TzVSv7WyDlWqulzjPhB1LcTVI8gMQDu0TvHhQiXdOFmFwDy%2FMha08ETfa%2F0dY4QLLs4qzF7iBqv5OB0z77QvCIMPAsdgbBLnwGMn7SWqQEe24uG6UMTa344VKRijAFMxevOUEp6x3kPBPtR9LM%2FDzeBjAt1rUh0MAPEhxOT36fAtruRajlj1wNQDflaYUd929Kt8n7GNlEA%2BvkgH9DoyxxiS6xVMYWFdeOAD24bXQVwB4GKXMWMb7OKDQg2bjXjZ3HphEIFjFuDETo8eAYnIoM9TCC%2F4q5BjqwAW0qKvW6c%2B7cDeBr0BE6EKlWKyySf60yAYqLTtI5UiiWnQ7BQgIFfGfJzVj0t4mpt49xYjbaO88JpYEXJrpt2J5k0j31U9pJIlCFRJshkSxceRGqNxCKNK3%2BZa6Hurdpzbw2YhyjlMRIaCG8OfzbaMq0A5OgVPpN1OUa5BkESre7EfweY6W7sKw92yAyY90DtGSmy0WljmGOTrZWLn7v8FuPYbRkWGMOcVzticpc5SNP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241031T001753Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTG2AYJSN%2F20241031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=62232a9cc3d13420c3963b924170d4ee40d2b9ac8b2c11af89811f61ad4a7099&hash=6f4c43df9d143415a5af820acf216d6e5e999bd3e79e7d37fe08d09b9d350b16&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=019188699500055B&tid=spdf-e3998c4f-aea5-4580-ab56-f5fa49c38442&sid=1cc1122691bf934a5f7b0cd5b00b957fd7ecgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=13115f020e0157520253&rr=8daf76f5cdf21b32&cc=us)

@@ -1,0 +1,44 @@
+---
+tags:
+  - dynamics
+  - temporally_distributed
+  - DOF
+  - control_problem
+  - motor_control
+  - socioemotional_development
+  - emotion
+  - emotion_dynamics
+  - affect
+  - synergy
+  - variability
+  - children
+  - learning
+  - self_organization
+  - facial_expressions
+  - relationality
+  - adaptation
+  - development
+  - emergence
+  - embodied
+  - enactivism
+  - motion
+  - attractors
+  - report
+  - commentary
+  - theory
+  - ecological_dynamics
+  - positive_emotions
+  - attention
+  - engagement
+  - enjoyment
+  - coupling
+  - complexity
+  - intersubjectivity
+  - regulation
+  - agency
+  - structure
+  - sensitivity
+---
+10.1016/j.dr.2005.10.002
+
+[Camras, L. A., & Witherington, D. C. (2005). Dynamical systems approaches to emotional development. Developmental Review, 25(3-4), 328-350.](https://www.sciencedirect.com/science/article/pii/S0273229705000250?casa_token=FFsqdgSkly0AAAAA:FTkLPEqs7OYXRjIy_9VR3OzjLTfpqmnRevAFHu88j_TNGj8QUg3Wl8zQ5ixlVAMVcC-uQLEAow)
