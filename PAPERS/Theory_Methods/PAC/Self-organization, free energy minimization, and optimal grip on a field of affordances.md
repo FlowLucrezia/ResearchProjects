@@ -1,0 +1,50 @@
+---
+tags:
+  - attunement
+  - synchronization
+  - free_energy
+  - active_inference
+  - skilled_intentionality
+  - autopoiesis
+  - ecological_dynamics
+  - ecological_psychology
+  - decision_making
+  - agency
+  - engagement
+  - experience
+  - philosophy
+  - theory
+  - report
+  - commentary
+  - 4E
+  - adaptation
+  - affordances
+  - complexity
+  - coordination
+  - coupling
+  - development
+  - dynamics
+  - embodied
+  - emergence
+  - enactivism
+  - entrainment
+  - exploratory
+  - exploitation
+  - interaction_dominant
+  - interaction
+  - life
+  - learning
+  - perceptual_judgement
+  - structure
+  - thermodynamics
+  - process
+  - self_organization
+  - niche_construction
+  - neural_dynamics
+  - mood
+  - psychopathology
+  - metastability
+---
+10.3389/fnhum.2014.00599
+
+[Bruineberg, J., & Rietveld, E. (2014). Self-organization, free energy minimization, and optimal grip on a field of affordances. Frontiers in human neuroscience, 8, 599.](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00599/full)

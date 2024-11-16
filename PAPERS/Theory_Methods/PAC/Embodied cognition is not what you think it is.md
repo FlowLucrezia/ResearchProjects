@@ -1,0 +1,31 @@
+---
+tags:
+  - embodied
+  - enactivism
+  - 4E
+  - MASTER_THESIS
+  - agency
+  - consciousness
+  - cognitive_performance
+  - attention
+  - memory
+  - engagement
+  - ecological_psychology
+  - control_problem
+  - dynamics
+  - coherence
+  - self_organization
+  - affordances
+  - language
+  - reading
+  - information
+  - complexity
+  - sense_making
+  - report
+  - philosophy
+  - theory
+  - commentary
+  - adaptation
+---
+
+[Wilson, A. D., & Golonka, S. (2013). Embodied cognition is not what you think it is. _Frontiers in psychology_, _4_, 58.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00058/full)

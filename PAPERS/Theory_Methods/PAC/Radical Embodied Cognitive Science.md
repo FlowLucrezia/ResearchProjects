@@ -1,0 +1,53 @@
+---
+tags:
+  - 4E
+  - affordances
+  - information
+  - perceptual_judgement
+  - dynamics
+  - ecological_dynamics
+  - ecological_psychology
+  - embodied
+  - enactivism
+  - philosophy
+  - neural_dynamics
+  - theory
+  - report
+  - commentary
+  - systems
+  - agency
+  - complexity
+  - self_organization
+  - Loopy_Minds
+  - temporally_distributed
+  - adaptation
+  - attention
+  - attunement
+  - coordination
+  - emergence
+  - consciousness
+  - coupling
+  - communication
+  - continuity
+  - control_problem
+  - motor_control
+  - interaction_dominant
+  - intersubjectivity
+  - synchronization
+  - metastability
+  - problem_solving
+  - decision_making
+  - coordination_mode
+  - cognitive_performance
+  - semantics
+  - entropy
+  - niche_construction
+  - dynamic_touch
+  - learning
+  - development
+  - exploratory
+---
+
+10.1037/a0032923
+
+[Chemero, A. (2013). Radical embodied cognitive science. Review of General Psychology, 17(2), 145-150.](https://d1wqtxts1xzle7.cloudfront.net/56702030/___Radical_Embodied_Cognitive_ScienceBookFi-libre.pdf?1527802386=&response-content-disposition=inline%3B+filename%3DRadical_Embodied_Cognitive_Science.pdf&Expires=1728853746&Signature=al87X0hpUg6mV5UhTN5FCDmksHXSuZ-~5i3JjJWPMzK89ik74cLpVwJKp-Yqzn88RmDC6XeCLsNn-AK8vJR5gDGAAE1jmqumiem3Y29r-QB-W8de7vGV8kUCl6ph1AFRWCf3UGIj9J0Hp6T-wKdwhcgWAVc5-Sya0Q5noIxIAPZfucoVQzXseb5NkyiuC40FWUBJEZc165UI~s-sg~6N0GxkAOku5IDe9mZ4hS-yVPCr03QfeuNT9DYhnrgr~Pbvt21nvxo14DHh-II4M58AlDIoW-4Ba8-qyH4SRgRadmr-n4cjzWmcLRB-MGf0Iy0JQkER2UDaaVH65JYJ44jBKw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)

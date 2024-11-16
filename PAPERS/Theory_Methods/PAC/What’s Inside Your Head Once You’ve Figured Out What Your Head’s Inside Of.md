@@ -1,0 +1,44 @@
+---
+tags:
+  - 4E
+  - active_inference
+  - affordances
+  - adaptation
+  - attunement
+  - agency
+  - cognitive_performance
+  - complexity
+  - coordination
+  - coupling
+  - decision_making
+  - ecological_dynamics
+  - embodied
+  - ecological_psychology
+  - emergence
+  - enactivism
+  - engagement
+  - entrainment
+  - experience
+  - exploitation
+  - exploratory
+  - free_energy
+  - niche_construction
+  - neural_dynamics
+  - metastability
+  - self_organization
+  - interaction
+  - structure
+  - theory
+  - philosophy
+  - perceptual_judgement
+  - process
+  - skilled_intentionality
+  - interaction_dominant
+  - learning
+  - dynamics
+  - commentary
+  - report
+---
+10.1080/10407413.2019.1615204
+
+[Bruineberg, J., & Rietveld, E. (2019). What’s inside your head once you’ve figured out what your head’s inside of. Ecological Psychology, 31(3), 198-217.](https://www.tandfonline.com/doi/pdf/10.1080/10407413.2019.1615204)

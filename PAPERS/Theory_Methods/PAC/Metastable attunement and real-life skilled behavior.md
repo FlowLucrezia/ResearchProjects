@@ -1,0 +1,47 @@
+---
+tags:
+  - skilled_intentionality
+  - agency
+  - engagement
+  - motor_skill
+  - motor_control
+  - ecological_dynamics
+  - self_organization
+  - affordances
+  - metastability
+  - perceptual_judgement
+  - active_inference
+  - attunement
+  - complexity
+  - coordination
+  - aesthetics
+  - task_performance
+  - cognitive_performance
+  - art
+  - niche_construction
+  - exploratory
+  - exploitation
+  - coupling
+  - 4E
+  - decision_making
+  - development
+  - adaptation
+  - emergence
+  - enactivism
+  - executive_function
+  - experience
+  - report
+  - commentary
+  - theory
+  - philosophy
+  - learning
+  - interaction
+  - interaction_dominant
+  - structure
+  - dynamics
+  - process
+  - regulation
+---
+10.1007/s11229-021-03355-6
+
+[Bruineberg, J., Seifert, L., Rietveld, E., & Kiverstein, J. (2021). Metastable attunement and real-life skilled behavior. Synthese, 199(5), 12819-12842.](https://link.springer.com/content/pdf/10.1007/s11229-021-03355-6.pdf)
