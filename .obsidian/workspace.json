@@ -22,8 +22,22 @@
               "icon": "lucide-file",
               "title": "OG iSAT Literature Review"
             }
+          },
+          {
+            "id": "8c4fe714eae97cda",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +201,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "646d825e13ea95a5",
+  "active": "8c4fe714eae97cda",
   "lastOpenFiles": [
+    "PAPERS/ADD TAGS + SORT/Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series.md",
     "PROJECTS/iSAT/OG iSAT Literature Review.md",
     "PAPERS/ADD TAGS + SORT/Heart rate variability as a potential indicator of positive valence system disturbance_A proof of concept investigation.md",
     "PAPERS/ADD TAGS + SORT/Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature.md",
@@ -214,7 +229,6 @@
     "PAPERS/ADD TAGS + SORT/Moving beyond the lab_investigating empathy through the Empirical 5E approach.md",
     "PAPERS/ADD TAGS + SORT/Sharing the now in the social present_Duration of nonverbal synchrony is linked with personality.md",
     "PAPERS/ADD TAGS + SORT/Sequential patterns in social interaction states for regulation in collaborative learning.md",
-    "PAPERS/ADD TAGS + SORT/Focused or stuck together_multimodal patterns reveal triads' performance in collaborative problem solving.md",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
