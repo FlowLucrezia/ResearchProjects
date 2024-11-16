@@ -1,0 +1,235 @@
+---
+aliases:
+  - iSATproject1
+tags:
+  - iSAT
+  - physiology
+  - GSR
+  - SCL
+  - SCR
+  - IBI
+  - HR
+  - cardiac_activity
+  - ECG
+  - team
+  - teams
+  - team_composition
+  - cooperation
+  - coordination
+  - interaction
+  - communication
+  - dynamics
+  - process
+  - collaboration
+  - ABM
+  - emotion
+  - affect
+  - emotion_sharing
+  - empathy
+  - personality
+  - temporally_distributed
+  - complexity
+  - task_performance
+  - CSCL
+  - emotion_dynamics
+  - motion
+  - achievement
+  - appreciation
+  - boredom
+  - problem_solving
+  - learning
+  - education
+  - leader_follower
+  - sense_making
+  - confusion
+  - AI
+  - HCI
+  - WoZ
+  - HST
+  - charisma
+  - networks
+  - centrality
+  - mood
+  - positive_emotions
+  - contagion
+  - coherence
+  - satisfaction
+  - rapport
+  - intersubjectivity
+---
+
+*highlighted papers = ADD into Zotero & Obsidian*
+
+---
+
+## To Annotate #1
+
+- [[Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving]]
+	- @avryExplicitSharingEmotions2021
+- [[Achievement appraisals, emotions and socio-cognitive processes_How they interplay in collaborative problem-solving]]
+	- @avryAchievementAppraisalsEmotions2020
+- [[Sharing Emotions Contributes to Regulating Collaborative Intentions in Group Problem-Solving]]
+	- @avrySharingEmotionsContributes2020
+- [[Centrality and charisma_Comparing how leader networks and attributions affect team performance.]]
+	- @balkundiCentralityCharismaComparing2011
+- [[A meta-analytic review and future research agenda of charismatic leadership]]
+	- @banksMetaanalyticReviewFuture2017
+- [[Interactions between dynamic team composition and coordination_an agent-based modeling approach]]
+	- @blanco-fernandezInteractionsDynamicTeam2024
+- [[Charisma, positive emotions and mood contagion]]
+	- @bonoCharismaPositiveEmotions2006
+- [[Unpacking socio-metacognitive sense-making patterns to support collaborative discourse]]
+	- @borgeUnpackingSocioMetacognitiveSenseMaking2019
+- [[Agent-Based Modeling of Emotion Contagion in Groups]]
+	- @bosseAgentBasedModelingEmotion2015
+- [[Dynamical systems approaches to emotional development]]
+	- @camrasDynamicalSystemsApproaches2005
+- [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
+	- @chanelAssessmentComputerSupportedCollaborative2013
+- [[Charisma Is Contagious_ The Effect of Leaders Charisma on Observers Affect]]
+	- @cherulnikCharismaContagiousEffect2001
+- [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
+	- @chikersalDeepStructuresCollaboration2017
+- [[Disequilibrium in the mind, disharmony in the body]]
+	- @dmelloDisequilibriumMindDisharmony2012
+- [[How do leaders promote cooperation_ The effects of charisma and procedural fairness.]]
+	- @decremerHowLeadersPromote2002
+- [[What does physiological synchrony reveal about metacognitive experiences and group performance]]
+	- @dindarWhatDoesPhysiological2020
+- [[Leaders and Followers Identified by Emotional Mimicry During Collaborative Learning_A Facial Expression Recognition Study on Emotional Valence]]
+	- @dindarLeadersFollowersIdentified2022
+- [[Emotional Contagion in Collaborative Virtual Reality Learning Experiences_An eSports Approach]]
+	- @dirinEmotionalContagionCollaborative2023
+- [[Exploration versus exploitation_Emotions and performance as antecedents and consequences of team decisions]]
+	- @dojbakhakonssonExplorationExploitationEmotions2016
+- [[Predicting followers preferences for charismatic leadership_ the influence of follower values and personality]]
+	- @ehrhartPredictingFollowersPreferences2001
+- [[Emotion understanding and performance during computer-supported collaboration]]
+	- @xolocotzineligioEmotionUnderstandingPerformance2012
+- [[Stirring the hearts of followers_Charismatic leadership as the transferal of affect]]
+	- @erezStirringHeartsFollowers2008
+- [[Focusing on the Complexity of Emotion Issues in Academic Learning_A Dynamical Component Systems Approach]]
+	- @eyndeFocusingComplexityEmotion2006
+- [[Moving together_social motor synchrony in autistic peer partners depends on partner and activity type]]
+	- @glassMovingTogetherSocial2023
+- [[Studying the dynamics of autonomic activity during emotional experience]]
+	- @gollandStudyingDynamicsAutonomic2014
+- [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
+	- @gordonGrouplevelPhysiologicalSynchrony2021
+- [[AutoTutor_A tutor with dialogue in natural language]]
+	- @graesserAutoTutorTutorDialogue2004
+- [[Emotions and learning with auto tutor]]
+	- @graesserEmotionsLearningAutoTutor2007
+- [[Heart rate variability as a potential indicator of positive valence system disturbance_A proof of concept investigation]]
+	- @gruberHeartRateVariability2015
+- [[Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature]]
+	- @gullettHeartRateVariability2023
+- [[A Nonlinear Dynamical Systems Approach to Emotional Arousal Attractor States during Media Viewing]]
+	- @hanNonlinearDynamicalSystems
+- [[Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations]]
+	- @harrisonValidationNovelMeasure2023
+
+---
+## To Import #1
+
+- ==Hazy, J. K., & Boyatzis, R. E. (2015). Emotional contagion and proto-organizing in human interaction dynamics. Frontiers in psychology, 6, 806.==
+- ==Jaswal, P., & Behera, B. (2024). Measuring Peer Collaboration Among Secondary School Students: Instrument Development And Validation. MIER Journal of Educational Studies Trends and Practices, 132-150.== 
+- ==Jehn, K., Rispens, S., Jonsen, K., & Greer, L. (2013). Conflict contagion: a temporal perspective on the development of conflict within teams. International Journal of Conflict Management, 24(4), 352-373.==
+- ==Joosse, P. (2014). Becoming a God: Max Weber and the social construction of charisma. Journal of Classical Sociology, 14(3), 266-283.==
+- ==Järvelä, S., Malmberg, J., Haataja, E., Sobocinski, M., & Kirschner, P. A. (2021). What multimodal data can tell us about the students’ regulation of their learning process?. Learning and Instruction, 72, 101203.==
+- ==Järvenoja, H., Malmberg, J., Törmänen, T., Mänty, K., Haataja, E., Ahola, S., & Järvelä, S. (2020, July). A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom. In Frontiers in Education (Vol. 5, p. 111). Frontiers Media SA.==
+- ==Kaltwasser, L., Rost, N., Ardizzi, M., Calbi, M., Settembrino, L., Fingerhut, J., ... & Gallese, V. (2019). Sharing the filmic experience-The physiology of socio-emotional processes in the cinema. PloS one, 14(10), e0223259.==
+- ==Kazemitabar, M., Lajoie, S. P., & Doleck, T. (2024). Emotion regulation in teamwork during a challenging hackathon: Comparison of best and worst teams. Journal of Computers in Education, 11(3), 879-899.==
+
+---
+
+## To Annotate #2
+
+- [[Team physiological dynamics_A critical review]]
+	- @kaziTeamPhysiologicalDynamics2021
+- [[Capturing team dynamics in the wild_The communication analysis tool]]
+	- @klonekCapturingTeamDynamics2020
+- [[Time to go wild_How to conceptualize and measure process dynamics in real teams with high-resolution]]
+	- @klonekCapturingTeamDynamics2020
+- [[The enchantment of the charismatic leader_Charisma reconsidered as aesthetic encounter]]
+	- @ladkinEnchantmentCharismaticLeader2006
+- [[Understanding the empathetic reactivity of conversational agents_Measure development and validation]]
+	- @leeUnderstandingEmpatheticReactivity2024
+- [[Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning]]
+	- @lamsaLearnersLinguisticAlignment2024
+- [[What you say vs what you do_ Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams]]
+	- @mallickWhatYouSay2024
+- [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
+	- @mayoInterpersonalAutonomicNervous2021
+- [[Do charismatic people produce charismatic speech_On the relationship between the Big Five personality traits and prosodic features of speaker charisma in female speakers]]
+	- @michalskyCharismaticPeopleProduce2020
+- [[Emotion Feedback During Computer-mediated Collaboration_Effects on Self-Reported Emotions and Perceived Interaction]]
+	- @molinariEmotionFeedbackComputerMediated2013
+- [[Recognizing film aesthetics, spectators' affect and aesthetic emotions from multimodal signals]]
+	- @mszynskiRecognizingFilmAesthetics2018
+- [[Socio-emotional interaction in collaborative learning_Combining individual emotional experiences and group-level emotion regulation]]
+	- @mantySocioemotionalInteractionCollaborative2020
+- [[The sequential composition of collaborative groups’ emotion regulation in negative socio-emotional interactions]]
+	- @mantySequentialCompositionCollaborative2023
+- [[Physiological evidence of interpersonal dynamics in a cooperative production task]]
+	- @monsterPhysiologicalEvidenceInterpersonal2016
+- [[Personality and charismatic leadership in context_The moderating role of situational stress]]
+	- @oregPersonalityCharismaticLeadership2015
+- [[Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates]]
+	- @oveisEmotionRegulationContagion2020
+
+---
+## To Import #2
+
+- ==Paul, J., Costley, D. L., Howell, J. P., & Dorfman, P. W. (2002). The mutability of charisma in leadership research. Management Decision, 40(2), 192-200.==
+- ==Pfaff, M. S., & McNeese, M. D. (2010). Effects of mood and stress on distributed team cognition. Theoretical Issues in Ergonomics Science, 11(4), 321-339.==
+- ==Pijeira-Díaz, H. J., Drachsler, H., Järvelä, S., & Kirschner, P. A. (2019). Sympathetic arousal commonalities and arousal contagion during collaborative learning: How attuned are triad members?. Computers in Human Behavior, 92, 188-197.==
+- ==Politis, J., & Houtz, J. C. (2015). Effects of Positive mood on generative and evaluative thinking in creative problem solving. SAGE Open, 5(2), 2158244015592679.==
+- ==Reh, S., Van Quaquebeke, N., & Giessner, S. R. (2017). The aura of charisma: A review on the embodiment perspective as signaling. The Leadership Quarterly, 28(4), 486-507.==
+- ==Rojas, M., Nussbaum, M., Guerrero, O., Chiuminatto, P., Greiff, S., Del Rio, R., & Alvares, D. (2022). Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving. International Journal of Computer-Supported Collaborative Learning, 17(1), 135-168.==
+- ==Rosenberg, A., & Hirschberg, J. (2009). Charisma perception from text and speech. Speech communication, 51(7), 640-655.==
+- ==Salonen, R. V., Haataja, E. S. H., Sherwell, C., Chan, M. C. E., & Cunnington, R. Physiological Synchrony in Interpersonal Agency: A Case Study on Collaborative Problem Solving of a Group of Year 7 Students. Available at SSRN 4711173.==
+- ==Sassenus, S., Van den Bossche, P., & Poels, K. (2022). When stress becomes shared: exploring the emergence of team stress. Cognition, Technology & Work, 24(4), 537-556.==
+- ==Shepherd, D., Mulgrew, J., & Hautus, M. J. (2015). Exploring the autonomic correlates of personality. Autonomic Neuroscience, 193, 127-131.==
+
+---
+## To Annotate #3
+
+- [[The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach]]
+	- @steenbeekSociallySituatedDynamics2017
+- [[Robustness of physiological synchrony in wearable electrodermal activity and heart rate as a measure of attentional engagement to movie clips]]
+	- @stuldreherRobustnessPhysiologicalSynchrony2023
+- [[Insight and non-insight problem solving_A heart rate variability study]]
+	- @stuyckInsightNoninsightProblem2024
+- [[Towards a generalized competency model of collaborative problem solving]]
+	- @sunGeneralizedCompetencyModel2020
+- [[Charismatic leadership_Eliciting and channeling follower emotions]]
+	- @syCharismaticLeadershipEliciting2018
+- [[The role of physiological cues during remote collaboration]]
+	- @tanRolePhysiologicalCues2014
+- [[Interpersonal physiological synchrony predicts group cohesion]]
+	- @tomashinInterpersonalPhysiologicalSynchrony2022
+- [[Moving beyond the lab_investigating empathy through the Empirical 5E approach]]
+	- @troncosoMovingLabInvestigating2023
+- [[Sharing the now in the social present_Duration of nonverbal synchrony is linked with personality]]
+	- @tschacherSharingNowSocial2018
+- [[Affective states and regulation of learning during socio‐emotional interactions in secondary school collaborative groups]]
+	- @tormanenAffectiveStatesRegulation2023
+- [[The double-edged sword of leader charisma_Understanding the curvilinear relationship between charismatic personality and leader effectiveness]]
+	- @vergauweDoubleedgedSwordLeader2018
+- [[Focused or stuck together_multimodal patterns reveal triads' performance in collaborative problem solving]]
+	- @vrzakovaFocusedStuckTogether2020
+- [[Sequential patterns in social interaction states for regulation in collaborative learning]]
+	- @vuorenmaaSequentialPatternsSocial2023
+- [[Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series]]
+	- @wallotMultidimensionalRecurrenceQuantification2016
+- [[Dynamical social psychology_ Complexity and coherence in human experience]]
+	- @wieseDynamicalSocialPsychology2010
+- [[Heart rate variability and self-control—A meta-analysis]]
+	- @zahnHeartRateVariability2016
+- [[Heart rate variability moderates the between- and within-person associations between daily stress and negative affect]]
+	- @daestrelaHeartRateVariability2021
+- [[Empirical validation of an agent-based model of emotion contagion]]
+	- @vanhaeringenEmpiricalValidationAgentBased2024
+- [[Emotional influence in groups_the dynamic nexus of affect, cognition, and behavior]]
+	- @vankleefEmotionalInfluenceGroups2017

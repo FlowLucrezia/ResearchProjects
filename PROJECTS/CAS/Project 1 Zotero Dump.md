@@ -1,0 +1,27 @@
+---
+aliases:
+  - casproject1
+---
+
+- @ashktorabEffectsCommunicationDirectionality2021
+- @beckerWhyEmotionsShould2007
+- @bienkiewiczBridgingGapEmotion2021
+- @bosseModellingCollectiveDecision2013a
+- @bosseAgentBasedModelingEmotion2015
+- @gouDynamicModelCollaboration2021a
+- @graesserEmotionsLearningDifficult2012
+- @grossFacetsEmotionalExpressivity1995
+- @ichikawaAnalysisGroupBehavior2022
+- @ichikawaForceBasedModelingHeterogeneous2024
+- @jolliffeDevelopmentValidationBasic2006
+- @koponenFormationReciprocalAppreciation2016a
+- @koponenAgentBasedModelDiscourse2018a
+- @marengoMetaanalysisIndividualDifferences2021
+- @skyrmsEvolutionSignallingSystems2009
+- @spoelstraAgentBasedSimulationGroup2008
+- @steelRefiningRelationshipPersonality2008
+- @sunGeneralizedCompetencyModel2020
+- @vanhaeringenIntegratingValenceArousal2021a
+- @vanhaeringenEmpiricalValidationAgentBased2024
+- @zhaoDyadicComputationalModel2014
+- [[Zijlstra+2021]]

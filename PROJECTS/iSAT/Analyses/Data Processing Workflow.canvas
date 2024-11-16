@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"c2edbe1b78e0f93b","type":"group","x":-1920,"y":80,"width":3120,"height":1160,"label":"EDA"},
+		{"id":"b082f63483de9481","type":"group","x":-1920,"y":-1680,"width":3040,"height":1040,"label":"ECG"},
+		{"id":"7b43c7365115a6e1","type":"file","file":"PROJECTS/iSAT/Analyses/Outlier Detection for ECG.md","x":-840,"y":-1160,"width":400,"height":400,"color":"2"},
+		{"id":"b8358316080ed2ae","type":"text","text":"Check ECG data! \n\nPlot different sections and look for abnormalities.\n","x":-1880,"y":-1460,"width":280,"height":120,"color":"1"},
+		{"id":"b641370b706abebd","type":"file","file":"PROJECTS/iSAT/Analyses/Downsampling and data trimming for ECG.md","x":-1400,"y":-1340,"width":400,"height":400,"color":"2"},
+		{"id":"4d3a4e07f0f2440b","type":"text","text":"# **Data Processing**\n","x":-1100,"y":-320,"width":300,"height":80,"color":"1"},
+		{"id":"02693e4b35dbffb2","type":"file","file":"PROJECTS/iSAT/Analyses/Peak detection for ECG.md","x":230,"y":-1600,"width":610,"height":900,"color":"2"},
+		{"id":"a53792d3dc061667","type":"text","text":"RESOURCES\n- https://support.empatica.com/hc/en-us/articles/202872739-Recommended-tools-for-signal-processing-and-data-analysis\n- https://support.empatica.com/hc/en-us/articles/360030048131-E4-data-EDA-Expected-signal\n- https://edaguidelines.github.io/analysis/\n- https://github.com/iankleckner/EDAQA/tree/master/EDAQA-2019.02.11","x":-405,"y":-440,"width":550,"height":320},
+		{"id":"647d09d6c12841a2","type":"file","file":"PROJECTS/iSAT/Analyses/Signal Decomposition into Tonic and Phasic components.md","x":40,"y":172,"width":695,"height":458,"color":"4"},
+		{"id":"8b5e33bda63b6fb5","type":"text","text":"Check EDA data! \n\nPlot different sections and look for abnormalities.\n\nClassify type of EDA based on extent of tonic vs phasic activity.\n","x":-1847,"y":281,"width":280,"height":240,"color":"1"},
+		{"id":"68a8827185029976","type":"file","file":"PROJECTS/iSAT/Analyses/Downsampling, filtering and data trimming for EDA.md","x":-1457,"y":642,"width":515,"height":478,"color":"4"},
+		{"id":"4c669803b73457fe","type":"file","file":"PROJECTS/iSAT/Analyses/Outlier Detection for EDA.md","x":-800,"y":361,"width":400,"height":160,"color":"4"},
+		{"id":"2d0f5658b94011fd","type":"file","file":"PROJECTS/iSAT/Analyses/Interpolation procedure for missing values in EDA.md","x":-400,"y":739,"width":440,"height":241,"color":"4"},
+		{"id":"5889d735400d5986","type":"file","file":"PROJECTS/iSAT/Analyses/Peak detection for EDA (SCR).md","x":230,"y":860,"width":810,"height":241,"color":"4"},
+		{"id":"d463e40db39ff1bd","type":"file","file":"PROJECTS/iSAT/Analyses/Interpolation procedure for missing values in ECG.md","x":-330,"y":-1550,"width":400,"height":590,"color":"2"}
+	],
+	"edges":[
+		{"id":"224fe553b28e27a4","fromNode":"7b43c7365115a6e1","fromSide":"right","toNode":"d463e40db39ff1bd","toSide":"left"},
+		{"id":"56a95d5b6a22fd3f","fromNode":"b8358316080ed2ae","fromSide":"right","toNode":"b641370b706abebd","toSide":"left"},
+		{"id":"293a9fc3a88141ed","fromNode":"b641370b706abebd","fromSide":"right","toNode":"7b43c7365115a6e1","toSide":"left"},
+		{"id":"a6aca86047e9f34d","fromNode":"d463e40db39ff1bd","fromSide":"right","toNode":"02693e4b35dbffb2","toSide":"left"},
+		{"id":"722a8fc8a1852f60","fromNode":"8b5e33bda63b6fb5","fromSide":"right","toNode":"68a8827185029976","toSide":"left"},
+		{"id":"a49e79e21fa36164","fromNode":"68a8827185029976","fromSide":"right","toNode":"4c669803b73457fe","toSide":"left"},
+		{"id":"4eccc22ff87b0485","fromNode":"4c669803b73457fe","fromSide":"right","toNode":"2d0f5658b94011fd","toSide":"left"},
+		{"id":"30fa27e9946c5582","fromNode":"4d3a4e07f0f2440b","fromSide":"right","toNode":"a53792d3dc061667","toSide":"left"},
+		{"id":"e8608f755f36a803","fromNode":"4d3a4e07f0f2440b","fromSide":"top","toNode":"b082f63483de9481","toSide":"bottom"},
+		{"id":"246f475c25cab447","fromNode":"4d3a4e07f0f2440b","fromSide":"bottom","toNode":"c2edbe1b78e0f93b","toSide":"top"},
+		{"id":"3e760c29387dd83b","fromNode":"2d0f5658b94011fd","fromSide":"top","toNode":"647d09d6c12841a2","toSide":"left"},
+		{"id":"62693e54d1d7538a","fromNode":"647d09d6c12841a2","fromSide":"bottom","toNode":"5889d735400d5986","toSide":"top"}
+	]
+}
