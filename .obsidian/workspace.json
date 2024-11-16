@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "d036121cf647a866",
+    "type": "split",
+    "children": [
+      {
+        "id": "87217eec4c3538e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "646d825e13ea95a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/iSAT/OG iSAT Literature Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "OG iSAT Literature Review"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcbc2d0f0b5b3bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa27f95466bfc001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c90f6f94ff45d7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0304df1d59963ef5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ad9c18e9a339cb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ec929a0c85335db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d477e8addf7e5cc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f040f4fef5ff532",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cafcb3f448d20fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PROJECTS/CAS/CAS Fundamentals Project - Citations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CAS Fundamentals Project - Citations"
+            }
+          },
+          {
+            "id": "5d8a5b6c06c940a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PROJECTS/CAS/CAS Fundamentals Project - Citations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CAS Fundamentals Project - Citations"
+            }
+          },
+          {
+            "id": "cf7fa5277271d349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8609056abb84c4d6",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {},
+              "icon": "ReferenceMapIconScroll",
+              "title": "Reference Map"
+            }
+          },
+          {
+            "id": "5693b281c7fb4a5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zotero-sync-client:Sync with Zotero": false,
+      "templater-obsidian:Templater": false,
+      "reference-map:Reference Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "646d825e13ea95a5",
+  "lastOpenFiles": [
+    "PROJECTS/iSAT/OG iSAT Literature Review.md",
+    "PAPERS/ADD TAGS + SORT/Heart rate variability as a potential indicator of positive valence system disturbance_A proof of concept investigation.md",
+    "PAPERS/ADD TAGS + SORT/Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature.md",
+    "PAPERS/ADD TAGS + SORT/Emotions and learning with auto tutor.md",
+    "PAPERS/ADD TAGS + SORT/AutoTutor_A tutor with dialogue in natural language.md",
+    "PAPERS/ADD TAGS + SORT/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
+    "PAPERS/ADD TAGS + SORT/Studying the dynamics of autonomic activity during emotional experience.md",
+    "PAPERS/ADD TAGS + SORT/Moving together_social motor synchrony in autistic peer partners depends on partner and activity type.md",
+    "PAPERS/ADD TAGS + SORT/Team physiological dynamics_A critical review.md",
+    "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
+    "PAPERS/ADD TAGS + SORT/Understanding the empathetic reactivity of conversational agents_Measure development and validation.md",
+    "PAPERS/ADD TAGS + SORT/The enchantment of the charismatic leader_Charisma reconsidered as aesthetic encounter.md",
+    "PAPERS/ADD TAGS + SORT/The sequential composition of collaborative groups’ emotion regulation in negative socio-emotional interactions.md",
+    "PAPERS/ADD TAGS + SORT/Socio-emotional interaction in collaborative learning_Combining individual emotional experiences and group-level emotion regulation.md",
+    "PAPERS/ADD TAGS + SORT/Recognizing film aesthetics, spectators' affect and aesthetic emotions from multimodal signals.md",
+    "PAPERS/ADD TAGS + SORT/Do charismatic people produce charismatic speech_On the relationship between the Big Five personality traits and prosodic features of speaker charisma in female speakers.md",
+    "PAPERS/ADD TAGS + SORT/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
+    "PAPERS/ADD TAGS + SORT/Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates.md",
+    "PAPERS/ADD TAGS + SORT/Personality and charismatic leadership in context_The moderating role of situational stress.md",
+    "PAPERS/ADD TAGS + SORT/Insight and non-insight problem solving_A heart rate variability study.md",
+    "PAPERS/ADD TAGS + SORT/Robustness of physiological synchrony in wearable electrodermal activity and heart rate as a measure of attentional engagement to movie clips.md",
+    "PAPERS/ADD TAGS + SORT/Charismatic leadership_Eliciting and channeling follower emotions.md",
+    "PAPERS/ADD TAGS + SORT/Moving beyond the lab_investigating empathy through the Empirical 5E approach.md",
+    "PAPERS/ADD TAGS + SORT/Sharing the now in the social present_Duration of nonverbal synchrony is linked with personality.md",
+    "PAPERS/ADD TAGS + SORT/Sequential patterns in social interaction states for regulation in collaborative learning.md",
+    "PAPERS/ADD TAGS + SORT/Focused or stuck together_multimodal patterns reveal triads' performance in collaborative problem solving.md",
+    "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
+    "PAPERS/Health/Mental_Health",
+    "PAPERS/Health/ADHD",
+    "PAPERS/Development/Childhood",
+    "PAPERS/Health",
+    "PAPERS/Untitled.canvas",
+    "PAPERS/Reading/Fluency",
+    "PROJECTS/Research Topics.canvas",
+    "PAPERS/Affect/Personality",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination",
+    "PAPERS/Reading/Strategy",
+    "PAPERS/Reading/Comprehension",
+    "PAPERS/ADD TAGS + SORT",
+    "Untitled.canvas",
+    "Research Topics & Literature.canvas"
+  ]
+}
