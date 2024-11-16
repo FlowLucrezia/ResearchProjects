@@ -1,0 +1,47 @@
+---
+tags:
+  - pragmatism
+  - language
+  - learning
+  - cooperation
+  - children
+  - development
+  - report
+  - memory
+  - socioemotional_development
+  - communication
+  - information
+  - adaptation
+  - language_games
+  - MASTER_THESIS
+  - theory
+  - sense_making
+  - dynamics
+  - interaction
+  - coupling
+  - problem_solving
+  - process
+  - commentary
+  - coordination
+  - collaboration
+  - emotion
+  - syntax
+  - semantics
+  - joint_attention
+  - joint_action
+  - scaffolds
+  - speech
+  - experience
+  - cognitive_performance
+  - complexity
+  - emergence
+  - education
+  - reciprocality
+  - leader_follower
+  - HCI
+  - robots
+  - gestures
+---
+10.3389/fpsyg.2016.00470
+
+[Rohlfing, K. J., Wrede, B., Vollmer, A. L., & Oudeyer, P. Y. (2016). An alternative to mapping a word onto a concept in language acquisition: Pragmatic frames. _Frontiers in psychology_, _7_, 470.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00470/pdf)

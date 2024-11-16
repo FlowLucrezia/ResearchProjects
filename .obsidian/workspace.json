@@ -22,22 +22,8 @@
               "icon": "lucide-file",
               "title": "OG iSAT Literature Review"
             }
-          },
-          {
-            "id": "8c4fe714eae97cda",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c4fe714eae97cda",
+  "active": "5693b281c7fb4a5d",
   "lastOpenFiles": [
     "PAPERS/ADD TAGS + SORT/Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series.md",
     "PROJECTS/iSAT/OG iSAT Literature Review.md",
