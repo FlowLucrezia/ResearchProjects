@@ -1,0 +1,9 @@
+[🇿](zotero://select/library/items/NXPKJA4X)
+
+[[People/Fred Hasselman]] [[People/Luciënne Den Uil]] [[People/Renske Koordeman]] [[People/Peter De Looff]] [[People/Roy Otten]] 
+# The geometry of synchronization: quantifying the coupling direction of physiological signals of stress between individuals using inter-system recurrence networks (2023)
+
+COME BACK TO THIS!!
+
+Future studies should explore whether imposing temporal constraints on the recurrence networks, i.e., turning them into directed networks (Hasselman, 2022) can provide more detailed information about temporal precedence in coupling dynamics. In regular directed networks, cross-clustering coefficients can be calculated to represent different types of connected triples, such as cycles, fanning in, fanning out and middleman patterns (Fagiolo, 2007). It is also possible to create weighted (and/or directed) recurrence networks (Hasselman and Bosman, 2020), for example, by keeping the distance values of the points that fall below the recurrence threshold ε in the matrix. Another option is to use recurrence times to give more weight to triangles representing states that will recur sooner rather than later in the calculation of the cross-clustering coefficient. To summarize, the inter-system recurrence network approach to the analysis of coupled, multivariate systems produces estimates of coupling direction that are interpretable relative to the measurement context and provide insights into complex dependencies between different variables. These initial results suggest that IRN measures can at least inform posthoc evaluations of interaction dynamics, which, in the present context, could occur as soon as the Empatica4 data become available. More research is required to determine whether the method can eventually be used to inform decisions related to intervention/prevention of behavior during real-time process monitoring of physiological and/or psychological variables.
+
