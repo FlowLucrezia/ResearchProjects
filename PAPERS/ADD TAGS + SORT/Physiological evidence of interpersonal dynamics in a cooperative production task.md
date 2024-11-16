@@ -1,0 +1,2 @@
+
+[Mønster, D., Håkonsson, D. D., Eskildsen, J. K., & Wallot, S. (2016). Physiological evidence of interpersonal dynamics in a cooperative production task. _Physiology & behavior_, _156_, 24-34.](https://www.sciencedirect.com/science/article/pii/S003193841630004X?casa_token=DUrsAS78w3oAAAAA:qQuCpTArhEYreUbhxwghvuuvGLvEl6TdqkAvyiYH-MceyisdjJDWehD2OTDsaP6muQZ7DdziEw)

@@ -1,0 +1,2 @@
+
+[Troncoso, A., Soto, V., Gomila, A., & Martínez-Pernía, D. (2023). Moving beyond the lab: investigating empathy through the Empirical 5E approach. Frontiers in Psychology, 14, 1119469.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1119469/full)

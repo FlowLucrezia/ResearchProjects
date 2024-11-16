@@ -1,0 +1,2 @@
+
+[Kazi, S., Khaleghzadegan, S., Dinh, J. V., Shelhamer, M. J., Sapirstein, A., Goeddel, L. A., ... & Rosen, M. A. (2021). Team physiological dynamics: A critical review. _Human factors_, _63_(1), 32-65.](https://journals.sagepub.com/doi/pdf/10.1177/0018720819874160)

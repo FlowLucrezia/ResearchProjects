@@ -1,0 +1,2 @@
+
+[Chikersal, P., Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017, February). Deep structures of collaboration: Physiological correlates of collective intelligence and group satisfaction. In _Proceedings of the 2017 ACM conference on computer supported cooperative work and social computing_ (pp. 873-888).](https://dl.acm.org/doi/pdf/10.1145/2998181.2998250)

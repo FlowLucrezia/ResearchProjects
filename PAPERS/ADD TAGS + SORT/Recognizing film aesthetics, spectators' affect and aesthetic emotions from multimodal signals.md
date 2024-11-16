@@ -1,0 +1,2 @@
+
+[Muszynski, M. (2018). _Recognizing film aesthetics, spectators' affect and aesthetic emotions from multimodal signals_ (Doctoral dissertation, éditeur non identifié).](https://scholar.googleusercontent.com/scholar?q=cache:p5wV5XZt5wsJ:scholar.google.com/+Recognizing+film+aesthetics,+spectators%27+affect+and+aesthetic+emotions+from+multimodal+signals+&hl=en&as_sdt=0,3)

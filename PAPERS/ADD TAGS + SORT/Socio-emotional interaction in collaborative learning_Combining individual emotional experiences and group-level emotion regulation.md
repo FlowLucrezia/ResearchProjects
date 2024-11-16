@@ -1,0 +1,2 @@
+
+[Mänty, K., Järvenoja, H., & Törmänen, T. (2020). Socio-emotional interaction in collaborative learning: Combining individual emotional experiences and group-level emotion regulation. _International Journal of Educational Research_, _102_, 101589.](https://www.sciencedirect.com/science/article/pii/S0883035520303785)
