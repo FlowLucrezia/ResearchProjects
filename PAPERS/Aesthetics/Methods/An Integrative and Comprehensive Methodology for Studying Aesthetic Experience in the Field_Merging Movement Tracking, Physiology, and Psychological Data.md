@@ -23,6 +23,7 @@ tags:
   - SCL
   - SCR
   - experiment
+  - skin_conductance
 ---
 10.1177/0013916512453839
 

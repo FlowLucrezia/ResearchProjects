@@ -4,6 +4,7 @@ tags:
   - physiology
   - iSAT
   - GSR
+  - skin_conductance
 ---
 
 - ask whether or not this is necessary for our particular case... (downsampling from 200Hz)

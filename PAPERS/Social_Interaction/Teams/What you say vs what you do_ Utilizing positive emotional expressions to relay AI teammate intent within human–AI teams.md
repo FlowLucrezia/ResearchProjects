@@ -1,0 +1,41 @@
+---
+tags:
+  - iSAT
+  - positive_emotions
+  - methodology
+  - report
+  - experiment
+  - HST
+  - feedback
+  - emotion
+  - affect
+  - HCI
+  - communication
+  - dyadic
+  - joint_action
+  - interaction
+  - team
+  - teams
+  - valence
+  - arousal
+  - risk
+  - decision_making
+  - problem_solving
+  - trust
+  - AI
+  - dynamics
+  - adaptation
+  - engagement
+  - influence
+  - WoZ
+  - NRC_lexicon
+  - PANAS
+  - interview
+  - enjoyment
+  - attention
+  - expressivity
+  - task_performance
+---
+https://doi.org/10.1016/j.ijhcs.2024.103355
+
+[Mallick, R., Flathmann, C., Duan, W., Schelble, B. G., & McNeese, N. J. (2024). What you say vs what you do: Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams. _International Journal of Human-Computer Studies_, _192_, 103355.](https://www.sciencedirect.com/science/article/pii/S1071581924001381?casa_token=Sy0z-eT781QAAAAA:PIyw5C2QILMLSBeUh_whd5_HgipaRIBsAfhLZ1w9A-HBqHk4arwtObF-2HX8Xk9DMpVmORq7QQ)

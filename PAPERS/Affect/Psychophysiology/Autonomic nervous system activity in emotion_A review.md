@@ -24,6 +24,7 @@ tags:
   - dynamics
   - methodology
   - physiology
+  - skin_conductance
 ---
 
 10.1016/j.biopsycho.2010.03.010

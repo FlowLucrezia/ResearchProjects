@@ -27,6 +27,7 @@ tags:
   - SCL
   - HRV
   - problem_solving
+  - skin_conductance
 ---
 10.1016/j.entcom.2019.100319
 

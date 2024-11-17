@@ -1,2 +1,0 @@
-
-[Mallick, R., Flathmann, C., Duan, W., Schelble, B. G., & McNeese, N. J. (2024). What you say vs what you do: Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams. _International Journal of Human-Computer Studies_, _192_, 103355.](https://www.sciencedirect.com/science/article/pii/S1071581924001381?casa_token=Sy0z-eT781QAAAAA:PIyw5C2QILMLSBeUh_whd5_HgipaRIBsAfhLZ1w9A-HBqHk4arwtObF-2HX8Xk9DMpVmORq7QQ)

@@ -22,6 +22,7 @@ tags:
   - report
   - experiment
   - experience
+  - skin_conductance
 ---
 10.3389/fpsyg.2016.01093
 

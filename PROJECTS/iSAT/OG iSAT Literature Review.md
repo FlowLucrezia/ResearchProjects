@@ -56,6 +56,7 @@ tags:
   - satisfaction
   - rapport
   - intersubjectivity
+  - skin_conductance
 ---
 
 *highlighted papers = ADD into Zotero & Obsidian*

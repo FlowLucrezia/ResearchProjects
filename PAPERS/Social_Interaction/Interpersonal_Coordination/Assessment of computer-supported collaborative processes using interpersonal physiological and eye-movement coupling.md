@@ -1,0 +1,42 @@
+---
+tags:
+  - eye_movement
+  - CSCL
+  - iSAT
+  - collaboration
+  - process
+  - dynamics
+  - interpersonal_synchrony
+  - interpersonal_coordination
+  - physiology
+  - gaze_steps
+  - coupling
+  - learning
+  - information
+  - groups
+  - task_performance
+  - methodology
+  - theory
+  - experiment
+  - report
+  - emotion
+  - attention
+  - arousal
+  - ECG
+  - HR
+  - IBI
+  - SCR
+  - GSR
+  - CRQA
+  - multimodal
+  - HF_HRV
+  - conflict
+  - coordination
+  - synchronization
+  - empathy
+  - joint_action
+  - skin_conductance
+---
+DOI 10.1109/ACII.2013.26
+
+[Chanel, G., Bétrancourt, M., Pun, T., Cereghetti, D., & Molinari, G. (2013, September). Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling. In _2013 Humaine Association Conference on Affective Computing and Intelligent Interaction_ (pp. 116-122). IEEE.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6681417&casa_token=9UIq6AohMaYAAAAA:HVMKaewKXLacad-iBXFscedQHa5nJnc7r61BwSYDkPWyOyfJ7hfglSJrVur1QweLl2i_OnLa&tag=1)

@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "OG iSAT Literature Review"
             }
-          },
-          {
-            "id": "066b9869b3d61820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAPERS/Theory_Methods/Toolkit/A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,35 +187,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "066b9869b3d61820",
+  "active": "5693b281c7fb4a5d",
   "lastOpenFiles": [
-    "PAPERS/Theory_Methods/Toolkit/Analyzing Multivariate Dynamics Using Cross-Recurrence Quantification Analysis (CRQA)....md",
-    "PAPERS/Sense_Making/An Alternative to Mapping a Word onto a Concept in Language Acquisition_Pragmatic Frames.md",
-    "PAPERS/Sense_Making/Language Comprehension in the Balance_The Robustness of the Action-Compatibility Effect (ACE).md",
-    "PAPERS/Theory_Methods/Toolkit/A Tutorial on Multifractality, Cascades, and Interactivity for Empirical Time Series in Ecological Science.md",
-    "PAPERS/Theory_Methods/Toolkit/A sliding window approach to detrended fluctuation analysis of heart rate variability.md",
-    "PAPERS/Theory_Methods/Toolkit/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance.md",
-    "PROJECTS/iSAT/OG iSAT Literature Review.md",
-    "PAPERS/ADD TAGS + SORT/Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series.md",
-    "PAPERS/ADD TAGS + SORT/Heart rate variability as a potential indicator of positive valence system disturbance_A proof of concept investigation.md",
-    "PAPERS/ADD TAGS + SORT/Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature.md",
-    "PAPERS/ADD TAGS + SORT/Emotions and learning with auto tutor.md",
-    "PAPERS/ADD TAGS + SORT/AutoTutor_A tutor with dialogue in natural language.md",
-    "PAPERS/ADD TAGS + SORT/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
-    "PAPERS/ADD TAGS + SORT/Studying the dynamics of autonomic activity during emotional experience.md",
-    "PAPERS/ADD TAGS + SORT/Moving together_social motor synchrony in autistic peer partners depends on partner and activity type.md",
-    "PAPERS/ADD TAGS + SORT/Team physiological dynamics_A critical review.md",
-    "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
-    "PAPERS/ADD TAGS + SORT/Understanding the empathetic reactivity of conversational agents_Measure development and validation.md",
-    "PAPERS/ADD TAGS + SORT/The enchantment of the charismatic leader_Charisma reconsidered as aesthetic encounter.md",
-    "PAPERS/ADD TAGS + SORT/The sequential composition of collaborative groups’ emotion regulation in negative socio-emotional interactions.md",
-    "PAPERS/ADD TAGS + SORT/Socio-emotional interaction in collaborative learning_Combining individual emotional experiences and group-level emotion regulation.md",
-    "PAPERS/ADD TAGS + SORT/Recognizing film aesthetics, spectators' affect and aesthetic emotions from multimodal signals.md",
-    "PAPERS/ADD TAGS + SORT/Do charismatic people produce charismatic speech_On the relationship between the Big Five personality traits and prosodic features of speaker charisma in female speakers.md",
-    "PAPERS/ADD TAGS + SORT/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
-    "PAPERS/ADD TAGS + SORT/Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates.md",
-    "PAPERS/ADD TAGS + SORT/Personality and charismatic leadership in context_The moderating role of situational stress.md",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Signal Decomposition into Tonic and Phasic components.md",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Peak detection for EDA (SCR).md",
+    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Peak detection for ECG.md",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Outlier Detection for EDA.md",
+    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Outlier Detection for ECG.md",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Interpolation procedure for missing values in EDA.md",
+    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Interpolation procedure for missing values in ECG.md",
+    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Downsampling and data trimming for ECG.md",
+    "PROJECTS/iSAT/OG iSAT Literature Review.md",
+    "PAPERS/ADD TAGS + SORT/Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations.md",
+    "PAPERS/ADD TAGS + SORT/Time to go wild_How to conceptualize and measure process dynamics in real teams with high-resolution.md",
+    "PAPERS/Theory_Methods/Toolkit/Understanding the empathetic reactivity of conversational agents_Measure development and validation.md",
+    "PAPERS/Social_Interaction/Collaboration/Unpacking socio-metacognitive sense-making patterns to support collaborative discourse.md",
+    "PAPERS/Learning/AutoTutor_A tutor with dialogue in natural language.md",
+    "PAPERS/Aesthetics/Music/“Beauty Is How You Feel Inside”_Aesthetic Judgments Are Related to Emotional Responses to Contemporary Music.md",
+    "PAPERS/Affect/Psychophysiology/A Nonlinear Dynamical Systems Approach to Emotional Arousal Attractor States during Media Viewing.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/A Theory of Flexible Multimodal Synchrony.md",
+    "PAPERS/Learning/Engagement/Advanced, Analytic, Automated (AAA) Measurement of Engagement During Learning.md",
+    "PAPERS/Aesthetics/Philosophy_Theory/Aesthetic Chills_Knowledge-Acquisition, Meaning-Making, and Aesthetic Emotions.md",
+    "PAPERS/Social_Interaction/Collaboration/Affective states and regulation of learning during socio‐emotional interactions in secondary school collaborative groups.md",
+    "PAPERS/Social_Interaction/Collaboration/An affective serious game for collaboration between humans and robots.md",
+    "PAPERS/Aesthetics/Methods/An Integrative and Comprehensive Methodology for Studying Aesthetic Experience in the Field_Merging Movement Tracking, Physiology, and Psychological Data.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling.md",
+    "PAPERS/Affect/Psychophysiology/Autonomic nervous system activity in emotion_A review.md",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Downsampling, filtering and data trimming for EDA.md",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
     "PAPERS/Development/Childhood",

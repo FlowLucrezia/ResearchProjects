@@ -6,6 +6,7 @@ tags:
   - physiology
   - SCR
   - SCL
+  - skin_conductance
 ---
 
 Skin conductance level vs skin conductance response

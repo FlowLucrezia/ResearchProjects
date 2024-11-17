@@ -32,6 +32,7 @@ tags:
   - coordination
   - conversation
   - cooperation
+  - skin_conductance
 ---
 10.1111/bjep.12525
 

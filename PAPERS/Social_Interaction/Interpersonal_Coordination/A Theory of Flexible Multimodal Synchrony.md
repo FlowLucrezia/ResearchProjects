@@ -53,6 +53,7 @@ tags:
   - CRQA
   - fractal_scaling
   - IBI
+  - skin_conductance
 ---
 DOI: 10.31234/osf.io/9u7q8
 
