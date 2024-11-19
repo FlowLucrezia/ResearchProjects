@@ -63,7 +63,6 @@ tags:
 
 ---
 
-## To Annotate #1
 
 - [[Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving]]
 	- @avryExplicitSharingEmotions2021
@@ -129,23 +128,22 @@ tags:
 	- @hanNonlinearDynamicalSystems
 - [[Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations]]
 	- @harrisonValidationNovelMeasure2023
-
----
-## To Import #1
-
-- ==Hazy, J. K., & Boyatzis, R. E. (2015). Emotional contagion and proto-organizing in human interaction dynamics. Frontiers in psychology, 6, 806.==
-- ==Jaswal, P., & Behera, B. (2024). Measuring Peer Collaboration Among Secondary School Students: Instrument Development And Validation. MIER Journal of Educational Studies Trends and Practices, 132-150.== 
-- ==Jehn, K., Rispens, S., Jonsen, K., & Greer, L. (2013). Conflict contagion: a temporal perspective on the development of conflict within teams. International Journal of Conflict Management, 24(4), 352-373.==
-- ==Joosse, P. (2014). Becoming a God: Max Weber and the social construction of charisma. Journal of Classical Sociology, 14(3), 266-283.==
-- ==Järvelä, S., Malmberg, J., Haataja, E., Sobocinski, M., & Kirschner, P. A. (2021). What multimodal data can tell us about the students’ regulation of their learning process?. Learning and Instruction, 72, 101203.==
-- ==Järvenoja, H., Malmberg, J., Törmänen, T., Mänty, K., Haataja, E., Ahola, S., & Järvelä, S. (2020, July). A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom. In Frontiers in Education (Vol. 5, p. 111). Frontiers Media SA.==
-- ==Kaltwasser, L., Rost, N., Ardizzi, M., Calbi, M., Settembrino, L., Fingerhut, J., ... & Gallese, V. (2019). Sharing the filmic experience-The physiology of socio-emotional processes in the cinema. PloS one, 14(10), e0223259.==
-- ==Kazemitabar, M., Lajoie, S. P., & Doleck, T. (2024). Emotion regulation in teamwork during a challenging hackathon: Comparison of best and worst teams. Journal of Computers in Education, 11(3), 879-899.==
-
----
-
-## To Annotate #2
-
+- [[Emotional contagion and proto-organizing in human interaction dynamics]]
+	- @hazyEmotionalContagionProtoorganizing2015
+- [[Measuring Peer Collaboration Among Secondary School Students_ Instrument Development And Validation]]
+	- @jaswalMeasuringPeerCollaboration2024
+- [[Conflict contagion_a temporal perspective on the development of conflict within teams]]
+	- @jehnConflictContagionTemporal2013
+- [[Becoming a God_Max Weber and the social construction of charisma]]
+	- @joosseBecomingGodMax2014
+- [[What multimodal data can tell us about the students’ regulation of their learning process]]
+	- @jarvelaWhatMultimodalData2021
+- [[A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom]]
+	- @jarvenojaCollaborativeLearningDesign2020
+- [[Sharing the filmic experience-The physiology of socio-emotional processes in the cinema]]
+	- @kaltwasserSharingFilmicExperience2019
+- ==[[Emotion regulation in teamwork during a challenging hackathon_Comparison of best and worst teams]]
+	- ==NEED TO GET FROM LIBRARY
 - [[Team physiological dynamics_A critical review]]
 	- @kaziTeamPhysiologicalDynamics2021
 - [[Capturing team dynamics in the wild_The communication analysis tool]]
@@ -178,24 +176,26 @@ tags:
 	- @oregPersonalityCharismaticLeadership2015
 - [[Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates]]
 	- @oveisEmotionRegulationContagion2020
-
----
-## To Import #2
-
-- ==Paul, J., Costley, D. L., Howell, J. P., & Dorfman, P. W. (2002). The mutability of charisma in leadership research. Management Decision, 40(2), 192-200.==
-- ==Pfaff, M. S., & McNeese, M. D. (2010). Effects of mood and stress on distributed team cognition. Theoretical Issues in Ergonomics Science, 11(4), 321-339.==
-- ==Pijeira-Díaz, H. J., Drachsler, H., Järvelä, S., & Kirschner, P. A. (2019). Sympathetic arousal commonalities and arousal contagion during collaborative learning: How attuned are triad members?. Computers in Human Behavior, 92, 188-197.==
-- ==Politis, J., & Houtz, J. C. (2015). Effects of Positive mood on generative and evaluative thinking in creative problem solving. SAGE Open, 5(2), 2158244015592679.==
-- ==Reh, S., Van Quaquebeke, N., & Giessner, S. R. (2017). The aura of charisma: A review on the embodiment perspective as signaling. The Leadership Quarterly, 28(4), 486-507.==
-- ==Rojas, M., Nussbaum, M., Guerrero, O., Chiuminatto, P., Greiff, S., Del Rio, R., & Alvares, D. (2022). Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving. International Journal of Computer-Supported Collaborative Learning, 17(1), 135-168.==
-- ==Rosenberg, A., & Hirschberg, J. (2009). Charisma perception from text and speech. Speech communication, 51(7), 640-655.==
-- ==Salonen, R. V., Haataja, E. S. H., Sherwell, C., Chan, M. C. E., & Cunnington, R. Physiological Synchrony in Interpersonal Agency: A Case Study on Collaborative Problem Solving of a Group of Year 7 Students. Available at SSRN 4711173.==
-- ==Sassenus, S., Van den Bossche, P., & Poels, K. (2022). When stress becomes shared: exploring the emergence of team stress. Cognition, Technology & Work, 24(4), 537-556.==
-- ==Shepherd, D., Mulgrew, J., & Hautus, M. J. (2015). Exploring the autonomic correlates of personality. Autonomic Neuroscience, 193, 127-131.==
-
----
-## To Annotate #3
-
+- [[The mutability of charisma in leadership research]]
+	- @paulMutabilityCharismaLeadership2002
+- [[Effects of mood and stress on distributed team cognition]]
+	- @pfaffEffectsMoodStress2010
+- [[Sympathetic arousal commonalities and arousal contagion during collaborative learning_How attuned are triad members]]
+	- @pijeira-diazSympatheticArousalCommonalities2019
+- [[Effects of Positive mood on generative and evaluative thinking in creative problem solving]]
+	- @politisEffectsPositiveMood2015
+- [[The aura of charisma_A review on the embodiment perspective as signaling]]
+	- @rehAuraCharismaReview2017
+- [[Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving]]
+	- @rojasIntegratingCollaborationScript2022
+- [[Charisma perception from text and speech]]
+	- @rosenbergCharismaPerceptionText2009
+- [[Physiological Synchrony in Interpersonal Agency_A Case Study on Collaborative Problem Solving of a Group of Year 7 Students]]
+	- @salonenPhysiologicalSynchronyInterpersonal2024
+- [[When stress becomes shared_exploring the emergence of team stress]]
+	- @sassenusWhenStressBecomes2022
+- [[Exploring the autonomic correlates of personality]]
+	- @shepherdExploringAutonomicCorrelates2015
 - [[The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach]]
 	- @steenbeekSociallySituatedDynamics2017
 - [[Robustness of physiological synchrony in wearable electrodermal activity and heart rate as a measure of attentional engagement to movie clips]]
@@ -224,7 +224,7 @@ tags:
 	- @vuorenmaaSequentialPatternsSocial2023
 - [[Multidimensional Recurrence Quantification Analysis (MdRQA) for the analysis of multidimensional time-series]]
 	- @wallotMultidimensionalRecurrenceQuantification2016
-- [[Dynamical social psychology_ Complexity and coherence in human experience]]
+- [[Dynamical social psychology_Complexity and coherence in human experience]]
 	- @wieseDynamicalSocialPsychology2010
 - [[Heart rate variability and self-control—A meta-analysis]]
 	- @zahnHeartRateVariability2016

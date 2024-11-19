@@ -1,0 +1,2 @@
+
+[Salonen, R. V., Haataja, E. S. H., Sherwell, C., Chan, M. C. E., & Cunnington, R. Physiological Synchrony in Interpersonal Agency: A Case Study on Collaborative Problem Solving of a Group of Year 7 Students. _Available at SSRN 4711173_.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4711173)

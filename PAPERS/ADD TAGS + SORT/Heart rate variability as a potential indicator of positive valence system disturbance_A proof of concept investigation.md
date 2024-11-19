@@ -1,2 +1,0 @@
-
-[Gruber, J., Mennin, D. S., Fields, A., Purcell, A., & Murray, G. (2015). Heart rate variability as a potential indicator of positive valence system disturbance: A proof of concept investigation. _International Journal of Psychophysiology_, _98_(2), 240-248.](https://www.sciencedirect.com/science/article/pii/S0167876015300210?casa_token=OrJ_3n2kcSAAAAAA:BfqC57aARZGSkEuSoaYP07-e2vI01Q3ppmTIzvSjGG02wR-lVPSwkpzGVaYrbzb_SOn6-wGOWg)

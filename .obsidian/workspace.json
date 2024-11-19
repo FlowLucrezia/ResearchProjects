@@ -8,37 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "646d825e13ea95a5",
+            "id": "c5db7e248ebe802b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/iSAT/OG iSAT Literature Review.md",
+                "file": "PROJECTS/iSAT/Analyses/Procedure.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "OG iSAT Literature Review"
+              "title": "Procedure"
             }
           },
           {
-            "id": "5404573a752a344e",
+            "id": "584c649d0d034e8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/iSAT/Review of iSAT Literature.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Review of iSAT Literature"
+            }
+          },
+          {
+            "id": "9ea08b7f05683693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
+                "file": "PROJECTS/iSAT/Analyses/Procedure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning"
+              "title": "Procedure"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,42 +218,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5693b281c7fb4a5d",
+  "active": "9ea08b7f05683693",
   "lastOpenFiles": [
-    "PAPERS/Social_Interaction/Collaboration/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
-    "PAPERS/Social_Interaction/Collaboration/Focused or stuck together_multimodal patterns reveal triads' performance in collaborative problem solving.md",
-    "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
-    "PAPERS/ADD TAGS + SORT/Studying the dynamics of autonomic activity during emotional experience.md",
-    "PAPERS/Social_Interaction/Collaboration/The role of physiological cues during remote collaboration.md",
-    "PAPERS/Social_Interaction/Teams/Team physiological dynamics_A critical review.md",
-    "PAPERS/Social_Interaction/Collaboration/The sequential composition of collaborative groups’ emotion regulation in negative socio-emotional interactions.md",
-    "PAPERS/Social_Interaction/Charisma/The enchantment of the charismatic leader_Charisma reconsidered as aesthetic encounter.md",
-    "PAPERS/Social_Interaction/Charisma/The double-edged sword of leader charisma_Understanding the curvilinear relationship between charismatic personality and leader effectiveness.md",
-    "PAPERS/Learning/The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach.md",
-    "PAPERS/Social_Interaction/Teams/Time to go wild_How to conceptualize and measure process dynamics in real teams with high-resolution.md",
-    "PAPERS/Social_Interaction/Teams/Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations.md",
-    "PROJECTS/iSAT/OG iSAT Literature Review.md",
-    "PROJECTS/Masters_Thesis/Citation Dump.md",
-    "PAPERS/Social_Interaction/Charisma/Charismatic leadership_Eliciting and channeling follower emotions.md",
-    "PAPERS/Social_Interaction/Teams/Capturing team dynamics in the wild_The communication analysis tool.md",
-    "README.md",
+    "PROJECTS/iSAT/Review of iSAT Literature.md",
+    "PROJECTS/Research Topics.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
-    "PROJECTS/iSAT/Analyses/EDA_GSR/Signal Decomposition into Tonic and Phasic components.md",
-    "PROJECTS/iSAT/Analyses/EDA_GSR/Peak detection for EDA (SCR).md",
-    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Peak detection for ECG.md",
-    "PROJECTS/iSAT/Analyses/EDA_GSR/Outlier Detection for EDA.md",
-    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Outlier Detection for ECG.md",
-    "PROJECTS/iSAT/Analyses/EDA_GSR/Interpolation procedure for missing values in EDA.md",
-    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Interpolation procedure for missing values in ECG.md",
-    "PROJECTS/iSAT/Analyses/Cardiac_Activity/Downsampling and data trimming for ECG.md",
-    "PAPERS/Theory_Methods/Toolkit/Understanding the empathetic reactivity of conversational agents_Measure development and validation.md",
+    "PROJECTS/CAS/Project 1 Zotero Dump.md",
+    "PROJECTS/CAS/CAS Fundamentals Project.md",
+    "PROJECTS/FYP/Relationships to be explored.md",
+    "PROJECTS/FYP/Physiological synchrony, entrainment, and coordination.md",
+    "PROJECTS/iSAT/Analyses/Procedure.md",
+    "PAPERS/ADD TAGS + SORT/Exploring the autonomic correlates of personality.md",
+    "PAPERS/ADD TAGS + SORT/Charisma perception from text and speech.md",
+    "PAPERS/ADD TAGS + SORT/Physiological Synchrony in Interpersonal Agency_A Case Study on Collaborative Problem Solving of a Group of Year 7 Students.md",
+    "PAPERS/ADD TAGS + SORT/When stress becomes shared_exploring the emergence of team stress.md",
+    "PAPERS/ADD TAGS + SORT/Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving.md",
+    "PAPERS/ADD TAGS + SORT/The aura of charisma_A review on the embodiment perspective as signaling.md",
+    "PAPERS/ADD TAGS + SORT/Effects of Positive mood on generative and evaluative thinking in creative problem solving.md",
+    "PAPERS/ADD TAGS + SORT/Sympathetic arousal commonalities and arousal contagion during collaborative learning_How attuned are triad members.md",
+    "PAPERS/ADD TAGS + SORT/Effects of mood and stress on distributed team cognition.md",
+    "PAPERS/ADD TAGS + SORT/The mutability of charisma in leadership research.md",
+    "PAPERS/ADD TAGS + SORT/Measuring Peer Collaboration Among Secondary School Students_ Instrument Development And Validation.md",
+    "PAPERS/ADD TAGS + SORT/Sharing the filmic experience-The physiology of socio-emotional processes in the cinema.md",
+    "PAPERS/ADD TAGS + SORT/Emotion regulation in teamwork during a challenging hackathon_Comparison of best and worst teams.md",
+    "PAPERS/ADD TAGS + SORT/A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom.md",
+    "PAPERS/ADD TAGS + SORT/What multimodal data can tell us about the students’ regulation of their learning process.md",
+    "PAPERS/ADD TAGS + SORT/Becoming a God_Max Weber and the social construction of charisma.md",
+    "PAPERS/ADD TAGS + SORT/Conflict contagion_a temporal perspective on the development of conflict within teams.md",
+    "PAPERS/ADD TAGS + SORT/Emotional contagion and proto-organizing in human interaction dynamics.md",
+    "README.md",
+    "PROJECTS/iSAT/Analyses/Pasted image 20241119113555.png",
+    "PROJECTS/iSAT/Analyses/Pasted image 20241119113620.png",
+    "PROJECTS/iSAT/Analyses/Pasted image 20241119113258.png",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
     "PAPERS/Development/Childhood",
     "PAPERS/Health",
     "PAPERS/Untitled.canvas",
     "PAPERS/Reading/Fluency",
-    "PROJECTS/Research Topics.canvas",
     "PAPERS/Affect/Personality",
     "PAPERS/Social_Interaction/Interpersonal_Coordination",
     "PAPERS/Reading/Strategy",
