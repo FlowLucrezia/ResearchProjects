@@ -1,3 +1,3 @@
 # Obsidian Research Repository
 
-References and Project notes updated weekly.
+References/Papers and Project notes updated weekly.
