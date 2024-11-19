@@ -1,0 +1,29 @@
+---
+tags:
+  - groups
+  - positive_emotions
+  - decision_making
+  - anxiety
+  - physiology
+  - synchronization
+  - interpersonal_synchrony
+  - affect
+  - emotion
+  - dyadic
+  - GSR
+  - skin_conductance
+  - HR
+  - MdRQA
+  - methodology
+  - iSAT
+  - theory
+  - experiment
+  - report
+  - ECG
+  - IBI
+  - HRV
+  - joint_action
+---
+DOI: 10.1111/psyp.13857
+
+[Gordon, I., Wallot, S., & Berson, Y. (2021). Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task. _Psychophysiology_, _58_(9), e13857.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psyp.13857)

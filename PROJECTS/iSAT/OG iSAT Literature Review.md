@@ -59,7 +59,7 @@ tags:
   - skin_conductance
 ---
 
-*highlighted papers = ADD into Zotero & Obsidian*
+*highlighted papers = IMPORT into Zotero & Obsidian*
 
 ---
 

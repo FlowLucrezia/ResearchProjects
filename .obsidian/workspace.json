@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "OG iSAT Literature Review"
             }
+          },
+          {
+            "id": "5404573a752a344e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/CAS/CAS Fundamentals Project - Citations.md"
+                "file": "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CAS Fundamentals Project - Citations"
+              "title": "Outline of Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning"
             }
           },
           {
@@ -171,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +204,22 @@
   },
   "active": "5693b281c7fb4a5d",
   "lastOpenFiles": [
+    "PAPERS/Social_Interaction/Collaboration/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
+    "PAPERS/Social_Interaction/Collaboration/Focused or stuck together_multimodal patterns reveal triads' performance in collaborative problem solving.md",
+    "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md",
+    "PAPERS/ADD TAGS + SORT/Studying the dynamics of autonomic activity during emotional experience.md",
+    "PAPERS/Social_Interaction/Collaboration/The role of physiological cues during remote collaboration.md",
+    "PAPERS/Social_Interaction/Teams/Team physiological dynamics_A critical review.md",
+    "PAPERS/Social_Interaction/Collaboration/The sequential composition of collaborative groups’ emotion regulation in negative socio-emotional interactions.md",
+    "PAPERS/Social_Interaction/Charisma/The enchantment of the charismatic leader_Charisma reconsidered as aesthetic encounter.md",
+    "PAPERS/Social_Interaction/Charisma/The double-edged sword of leader charisma_Understanding the curvilinear relationship between charismatic personality and leader effectiveness.md",
+    "PAPERS/Learning/The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach.md",
+    "PAPERS/Social_Interaction/Teams/Time to go wild_How to conceptualize and measure process dynamics in real teams with high-resolution.md",
+    "PAPERS/Social_Interaction/Teams/Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations.md",
+    "PROJECTS/iSAT/OG iSAT Literature Review.md",
+    "PROJECTS/Masters_Thesis/Citation Dump.md",
+    "PAPERS/Social_Interaction/Charisma/Charismatic leadership_Eliciting and channeling follower emotions.md",
+    "PAPERS/Social_Interaction/Teams/Capturing team dynamics in the wild_The communication analysis tool.md",
     "README.md",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PROJECTS/iSAT/Analyses/EDA_GSR/Signal Decomposition into Tonic and Phasic components.md",
@@ -199,23 +230,7 @@
     "PROJECTS/iSAT/Analyses/EDA_GSR/Interpolation procedure for missing values in EDA.md",
     "PROJECTS/iSAT/Analyses/Cardiac_Activity/Interpolation procedure for missing values in ECG.md",
     "PROJECTS/iSAT/Analyses/Cardiac_Activity/Downsampling and data trimming for ECG.md",
-    "PROJECTS/iSAT/OG iSAT Literature Review.md",
-    "PAPERS/ADD TAGS + SORT/Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations.md",
-    "PAPERS/ADD TAGS + SORT/Time to go wild_How to conceptualize and measure process dynamics in real teams with high-resolution.md",
     "PAPERS/Theory_Methods/Toolkit/Understanding the empathetic reactivity of conversational agents_Measure development and validation.md",
-    "PAPERS/Social_Interaction/Collaboration/Unpacking socio-metacognitive sense-making patterns to support collaborative discourse.md",
-    "PAPERS/Learning/AutoTutor_A tutor with dialogue in natural language.md",
-    "PAPERS/Aesthetics/Music/“Beauty Is How You Feel Inside”_Aesthetic Judgments Are Related to Emotional Responses to Contemporary Music.md",
-    "PAPERS/Affect/Psychophysiology/A Nonlinear Dynamical Systems Approach to Emotional Arousal Attractor States during Media Viewing.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/A Theory of Flexible Multimodal Synchrony.md",
-    "PAPERS/Learning/Engagement/Advanced, Analytic, Automated (AAA) Measurement of Engagement During Learning.md",
-    "PAPERS/Aesthetics/Philosophy_Theory/Aesthetic Chills_Knowledge-Acquisition, Meaning-Making, and Aesthetic Emotions.md",
-    "PAPERS/Social_Interaction/Collaboration/Affective states and regulation of learning during socio‐emotional interactions in secondary school collaborative groups.md",
-    "PAPERS/Social_Interaction/Collaboration/An affective serious game for collaboration between humans and robots.md",
-    "PAPERS/Aesthetics/Methods/An Integrative and Comprehensive Methodology for Studying Aesthetic Experience in the Field_Merging Movement Tracking, Physiology, and Psychological Data.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling.md",
-    "PAPERS/Affect/Psychophysiology/Autonomic nervous system activity in emotion_A review.md",
-    "PROJECTS/iSAT/Analyses/EDA_GSR/Downsampling, filtering and data trimming for EDA.md",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
     "PAPERS/Development/Childhood",

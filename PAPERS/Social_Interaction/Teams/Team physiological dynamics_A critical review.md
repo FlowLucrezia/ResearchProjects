@@ -1,0 +1,52 @@
+---
+tags:
+  - iSAT
+  - physiology
+  - report
+  - theory
+  - methodology
+  - dynamics
+  - process
+  - teams
+  - team
+  - team_composition
+  - emergence
+  - dyadic
+  - triads
+  - groups
+  - structure
+  - leader_follower
+  - reactivity
+  - resilience
+  - task_performance
+  - synchronization
+  - GSR
+  - skin_conductance
+  - EEG
+  - arousal
+  - stability
+  - EMG
+  - cardiac_activity
+  - facial_expressions
+  - CRQA
+  - task_complexity
+  - entropy
+  - joint_action
+  - collaboration
+  - cooperation
+  - turn_taking
+  - affect
+  - emotion
+  - emotion_sharing
+  - emotion_dynamics
+  - communication
+  - conversation
+  - coherence
+  - interaction
+  - coupling
+  - adaptation
+  - coordination
+---
+DOI: 10.1177/0018720819874160
+
+[Kazi, S., Khaleghzadegan, S., Dinh, J. V., Shelhamer, M. J., Sapirstein, A., Goeddel, L. A., ... & Rosen, M. A. (2021). Team physiological dynamics: A critical review. _Human factors_, _63_(1), 32-65.](https://journals.sagepub.com/doi/pdf/10.1177/0018720819874160)
