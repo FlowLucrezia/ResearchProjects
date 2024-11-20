@@ -40,6 +40,8 @@ Resources:
 - [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
 - [[Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning]]
+- [[Physiological Synchrony in Interpersonal Agency_A Case Study on Collaborative Problem Solving of a Group of Year 7 Students]]
+- [[Physiological evidence of interpersonal dynamics in a cooperative production task]]
 - [[The role of physiological cues during remote collaboration]]
 - [[What does physiological synchrony reveal about metacognitive experiences and group performance]]
 

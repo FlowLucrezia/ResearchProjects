@@ -1,3 +1,31 @@
+---
+tags:
+  - film
+  - emotion
+  - arousal
+  - GSR
+  - HR
+  - RSA
+  - enjoyment
+  - emotion_sharing
+  - empathy
+  - autonomic
+  - flexibility
+  - polyvagal
+  - valence
+  - ECG
+  - SCL
+  - methodology
+  - aesthetics
+  - art
+  - cardiac_activity
+  - physiology
+  - interaction
+  - engagement
+  - experiment
+  - experience
+  - dynamics
+---
 
 https://doi.org/10.1371/journal.pone.0223259
 
