@@ -27,13 +27,14 @@
 	1. frequency 1, order 5
 4. *PEAK DETECTION* - SCL vs SCR
 	1. Continuous decomposition analysis
-		1. Ledalab?
-		2. threshold of 0.05 μS
+		1. Ledalab commonly used for analyses, e.g., @jarvenojaCollaborativeLearningDesign2020
+		2. Threshold of 0.05 μS
 	2. Trough-to-Peak method
-		1. minimum amplitude of .05 μS
+		1. Minimum amplitude of .05 μS
 
 
 Resources:
+- [[A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom]]
 - [[Affective states and regulation of learning during socio‐emotional interactions in secondary school collaborative groups]]
 - [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
 - [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]

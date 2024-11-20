@@ -1,3 +1,17 @@
+---
+tags:
+  - charisma
+  - report
+  - theory
+  - commentary
+  - philosophy
+  - social_constructionism
+  - dominance
+  - religion
+  - process
+  - identity
+  - personality
+---
 
 10.1177/1468795X14536652
 

@@ -1,3 +1,30 @@
+---
+tags:
+  - conflict
+  - team
+  - teams
+  - contagion
+  - groups
+  - team_composition
+  - task_performance
+  - theory
+  - satisfaction
+  - creativity
+  - dyadic
+  - interaction
+  - emotion
+  - affect
+  - emotion_sharing
+  - emotion_dynamics
+  - dynamics
+  - collaboration
+  - cooperation
+  - regulation
+  - empathy
+  - iSAT
+  - report
+  - temporally_distributed
+---
 
 10.1108/IJCMA-05-2011-0039
 

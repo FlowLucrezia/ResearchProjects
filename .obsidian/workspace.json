@@ -38,23 +38,9 @@
               "icon": "lucide-file",
               "title": "Review of iSAT Literature"
             }
-          },
-          {
-            "id": "9ea08b7f05683693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/iSAT/Analyses/Procedure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Procedure"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,35 +204,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ea08b7f05683693",
+  "active": "584c649d0d034e8f",
   "lastOpenFiles": [
+    "PAPERS/ADD TAGS + SORT/Sharing the filmic experience-The physiology of socio-emotional processes in the cinema.md",
+    "PAPERS/ADD TAGS + SORT/Robustness of physiological synchrony in wearable electrodermal activity and heart rate as a measure of attentional engagement to movie clips.md",
+    "PAPERS/ADD TAGS + SORT/Sequential patterns in social interaction states for regulation in collaborative learning.md",
+    "PAPERS/Aesthetics/Visual_Arts/Recognizing film aesthetics, spectators' affect and aesthetic emotions from multimodal signals.md",
+    "PAPERS/Social_Interaction/Charisma/The aura of charisma_A review on the embodiment perspective as signaling.md",
+    "PAPERS/Social_Interaction/Charisma/The mutability of charisma in leadership research.md",
     "PROJECTS/iSAT/Review of iSAT Literature.md",
+    "PAPERS/Learning/The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach.md",
+    "PAPERS/Learning/The whats and whens of sleep-dependent memory consolidation.md",
+    "PAPERS/Learning/Engagement/What multimodal data can tell us about the students’ regulation of their learning process.md",
+    "PAPERS/Learning/Engagement/Multimodal semi-automated affect detection from conversational cues, gross body language, and facial features.md",
+    "PAPERS/Social_Interaction/Teams/When stress becomes shared_exploring the emergence of team stress.md",
+    "PAPERS/Social_Interaction/Teams/Conflict contagion_a temporal perspective on the development of conflict within teams.md",
+    "PAPERS/Social_Interaction/Charisma/Charisma perception from text and speech.md",
+    "PAPERS/Social_Interaction/Charisma/Becoming a God_Max Weber and the social construction of charisma.md",
+    "PROJECTS/iSAT/Analyses/Procedure.md",
+    "PAPERS/Social_Interaction/Collaboration/A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom.md",
     "PROJECTS/Research Topics.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PROJECTS/CAS/Project 1 Zotero Dump.md",
     "PROJECTS/CAS/CAS Fundamentals Project.md",
     "PROJECTS/FYP/Relationships to be explored.md",
     "PROJECTS/FYP/Physiological synchrony, entrainment, and coordination.md",
-    "PROJECTS/iSAT/Analyses/Procedure.md",
     "PAPERS/ADD TAGS + SORT/Exploring the autonomic correlates of personality.md",
-    "PAPERS/ADD TAGS + SORT/Charisma perception from text and speech.md",
     "PAPERS/ADD TAGS + SORT/Physiological Synchrony in Interpersonal Agency_A Case Study on Collaborative Problem Solving of a Group of Year 7 Students.md",
-    "PAPERS/ADD TAGS + SORT/When stress becomes shared_exploring the emergence of team stress.md",
     "PAPERS/ADD TAGS + SORT/Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving.md",
-    "PAPERS/ADD TAGS + SORT/The aura of charisma_A review on the embodiment perspective as signaling.md",
     "PAPERS/ADD TAGS + SORT/Effects of Positive mood on generative and evaluative thinking in creative problem solving.md",
     "PAPERS/ADD TAGS + SORT/Sympathetic arousal commonalities and arousal contagion during collaborative learning_How attuned are triad members.md",
-    "PAPERS/ADD TAGS + SORT/Effects of mood and stress on distributed team cognition.md",
-    "PAPERS/ADD TAGS + SORT/The mutability of charisma in leadership research.md",
-    "PAPERS/ADD TAGS + SORT/Measuring Peer Collaboration Among Secondary School Students_ Instrument Development And Validation.md",
-    "PAPERS/ADD TAGS + SORT/Sharing the filmic experience-The physiology of socio-emotional processes in the cinema.md",
-    "PAPERS/ADD TAGS + SORT/Emotion regulation in teamwork during a challenging hackathon_Comparison of best and worst teams.md",
-    "PAPERS/ADD TAGS + SORT/A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom.md",
-    "PAPERS/ADD TAGS + SORT/What multimodal data can tell us about the students’ regulation of their learning process.md",
-    "PAPERS/ADD TAGS + SORT/Becoming a God_Max Weber and the social construction of charisma.md",
-    "PAPERS/ADD TAGS + SORT/Conflict contagion_a temporal perspective on the development of conflict within teams.md",
-    "PAPERS/ADD TAGS + SORT/Emotional contagion and proto-organizing in human interaction dynamics.md",
-    "README.md",
     "PROJECTS/iSAT/Analyses/Pasted image 20241119113555.png",
     "PROJECTS/iSAT/Analyses/Pasted image 20241119113620.png",
     "PROJECTS/iSAT/Analyses/Pasted image 20241119113258.png",
