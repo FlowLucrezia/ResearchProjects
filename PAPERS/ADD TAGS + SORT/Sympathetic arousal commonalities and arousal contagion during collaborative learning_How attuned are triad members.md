@@ -1,2 +1,0 @@
-
-[Pijeira-Díaz, H. J., Drachsler, H., Järvelä, S., & Kirschner, P. A. (2019). Sympathetic arousal commonalities and arousal contagion during collaborative learning: How attuned are triad members?. _Computers in Human Behavior_, _92_, 188-197.](https://www.sciencedirect.com/science/article/pii/S0747563218305442?casa_token=ngxdMxFuTWgAAAAA:hbU2RtgxSIV3q_nQgQZ0V50DWFtsLdaBhhuCed_ycLBhO4l8TaHeo95_0M59QlD-y27HRP1bEw)

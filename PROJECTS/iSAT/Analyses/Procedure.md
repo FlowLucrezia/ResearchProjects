@@ -42,8 +42,10 @@ Resources:
 - [[Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning]]
 - [[Physiological Synchrony in Interpersonal Agency_A Case Study on Collaborative Problem Solving of a Group of Year 7 Students]]
 - [[Physiological evidence of interpersonal dynamics in a cooperative production task]]
+- [[Sympathetic arousal commonalities and arousal contagion during collaborative learning_How attuned are triad members]]
 - [[The role of physiological cues during remote collaboration]]
 - [[What does physiological synchrony reveal about metacognitive experiences and group performance]]
+- [[What multimodal data can tell us about the students’ regulation of their learning process]]
 
 #### Cardiac Activity
 
@@ -62,6 +64,7 @@ Resources:
 Resources:
 - [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
 - [[Autonomic nervous system activity in emotion_A review]]
+- [[Bridging the gap between emotion and joint action]]
 - [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
 - [[Engaged or Frustrated_Disambiguating Emotional State in Search]]
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]

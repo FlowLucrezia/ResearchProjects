@@ -1,3 +1,13 @@
+---
+tags:
+  - iSAT
+  - mood
+  - positive_emotions
+  - emotion
+  - affect
+  - creativity
+  - problem_solving
+---
 
 DOI: 10.1177/2158244015592679
 

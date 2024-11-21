@@ -1,3 +1,14 @@
+---
+tags:
+  - nervous_system
+  - personality
+  - emotion
+  - mood
+  - affect
+  - autonomic
+  - theory
+  - exploratory
+---
 
 http://dx.doi.org/10.1016/j.autneu.2015.05.004
 

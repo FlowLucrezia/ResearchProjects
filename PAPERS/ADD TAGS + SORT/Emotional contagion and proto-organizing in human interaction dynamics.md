@@ -1,3 +1,14 @@
+---
+tags:
+  - self_organization
+  - interaction
+  - dynamics
+  - emotion
+  - affect
+  - contagion
+  - emotion_sharing
+  - iSAT
+---
 
 [https://doi.org/10.3389/fpsyg.2015.00806](https://doi.org/10.3389/fpsyg.2015.00806)
 

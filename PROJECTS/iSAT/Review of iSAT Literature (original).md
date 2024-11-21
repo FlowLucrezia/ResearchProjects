@@ -59,10 +59,24 @@ tags:
   - skin_conductance
 ---
 
-*highlighted papers = IMPORT into Zotero & Obsidian*
+*highlighted papers -> IMPORT into Zotero & Obsidian*
+
+## To Import:
+
+- ==Arimoto, Y., & Okanoya, K. (2014, September). Emotional synchrony and covariation of behavioral/physiological reactions between interlocutors. In 2014 17th Oriental Chapter of the International Committee for the Co-ordination and Standardization of Speech Databases and Assessment Techniques (COCOSDA) (pp. 1-6). IEEE. doi: 10.1109/ICSDA.2014.7051428.==
+- ==Behrens, F., Snijdewint, J. A., Moulder, R. G., Prochazkova, E., Sjak-Shie, E. E., Boker, S. M., & Kret, M. E. (2020). Physiological synchrony is associated with cooperative success in real-life interactions. Scientific reports, 10(1), 19609.==
+- ==Dindar, M., Järvelä, S., Nguyen, A., Haataja, E., & Çini, A. (2022). Detecting shared physiological arousal events in collaborative problem solving. Contemporary Educational Psychology, 69, 102050.==
+- ==Gordon, I., Gilboa, A., Cohen, S., Milstein, N., Haimovich, N., Pinhasi, S., & Siegman, S. (2020). Physiological and behavioral synchrony predict group cohesion and performance. Scientific reports, 10(1), 8484.==
+- ==Haataja, E., Malmberg, J., & Järvelä, S. (2018). Monitoring in collaborative learning: Co-occurrence of observed behavior and physiological synchrony explored. Computers in Human Behavior, 87, 337-347.==
+- ==Mallick, R., Flathmann, C., Lancaster, C., Hauptman, A., McNeese, N., & Freeman, G. (2023). The pursuit of happiness: the power and influence of AI teammate emotion in human-AI teamwork. Behaviour & Information Technology, 1-25.==
+- ==Palumbo, R. V., Marraccini, M. E., Weyandt, L. L., Wilder-Smith, O., McGee, H. A., Liu, S., & Goodwin, M. S. (2017). Interpersonal autonomic physiology: A systematic review of the literature. Personality and social psychology review, 21(2), 99-141.==
+- ==Reddy, G. R., Eloy, L., Dickler, R., Reitman, J. G., Pugh, S. L., Foltz, P. W., ... & Hirshfield, L. (2023, October). Synerg-eye-zing: Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Teams. In Proceedings of the 25th International Conference on Multimodal Interaction (pp. 545-554).==
+- ==Reitman, J. G., Harrison, J. L., Gorman, J. C., Lieber, R., & D'Mello, S. K. (2024). Communicative influence: A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment. Journal of Educational Psychology.==
+- ==Zhang, R., Duan, W., Flathmann, C., McNeese, N., Freeman, G., & Williams, A. (2023). Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork. Proceedings of the ACM on Human-Computer Interaction, 7(CSCW2), 1-31.==
 
 ---
 
+## To Sort:
 
 - [[Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving]]
 	- @avryExplicitSharingEmotions2021
