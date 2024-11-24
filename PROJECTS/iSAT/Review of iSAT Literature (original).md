@@ -63,21 +63,14 @@ tags:
 
 ## To Import:
 
-- ==Arimoto, Y., & Okanoya, K. (2014, September). Emotional synchrony and covariation of behavioral/physiological reactions between interlocutors. In 2014 17th Oriental Chapter of the International Committee for the Co-ordination and Standardization of Speech Databases and Assessment Techniques (COCOSDA) (pp. 1-6). IEEE. doi: 10.1109/ICSDA.2014.7051428.==
-- ==Behrens, F., Snijdewint, J. A., Moulder, R. G., Prochazkova, E., Sjak-Shie, E. E., Boker, S. M., & Kret, M. E. (2020). Physiological synchrony is associated with cooperative success in real-life interactions. Scientific reports, 10(1), 19609.==
-- ==Dindar, M., Järvelä, S., Nguyen, A., Haataja, E., & Çini, A. (2022). Detecting shared physiological arousal events in collaborative problem solving. Contemporary Educational Psychology, 69, 102050.==
-- ==Gordon, I., Gilboa, A., Cohen, S., Milstein, N., Haimovich, N., Pinhasi, S., & Siegman, S. (2020). Physiological and behavioral synchrony predict group cohesion and performance. Scientific reports, 10(1), 8484.==
-- ==Haataja, E., Malmberg, J., & Järvelä, S. (2018). Monitoring in collaborative learning: Co-occurrence of observed behavior and physiological synchrony explored. Computers in Human Behavior, 87, 337-347.==
-- ==Mallick, R., Flathmann, C., Lancaster, C., Hauptman, A., McNeese, N., & Freeman, G. (2023). The pursuit of happiness: the power and influence of AI teammate emotion in human-AI teamwork. Behaviour & Information Technology, 1-25.==
-- ==Palumbo, R. V., Marraccini, M. E., Weyandt, L. L., Wilder-Smith, O., McGee, H. A., Liu, S., & Goodwin, M. S. (2017). Interpersonal autonomic physiology: A systematic review of the literature. Personality and social psychology review, 21(2), 99-141.==
-- ==Reddy, G. R., Eloy, L., Dickler, R., Reitman, J. G., Pugh, S. L., Foltz, P. W., ... & Hirshfield, L. (2023, October). Synerg-eye-zing: Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Teams. In Proceedings of the 25th International Conference on Multimodal Interaction (pp. 545-554).==
-- ==Reitman, J. G., Harrison, J. L., Gorman, J. C., Lieber, R., & D'Mello, S. K. (2024). Communicative influence: A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment. Journal of Educational Psychology.==
-- ==Zhang, R., Duan, W., Flathmann, C., McNeese, N., Freeman, G., & Williams, A. (2023). Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork. Proceedings of the ACM on Human-Computer Interaction, 7(CSCW2), 1-31.==
+N/A
 
 ---
 
 ## To Sort:
 
+- [[Emotional synchrony and covariation of behavioral_physiological reactions between interlocutors]]
+	- @arimotoEmotionalSynchronyCovariation2014
 - [[Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving]]
 	- @avryExplicitSharingEmotions2021
 - [[Achievement appraisals, emotions and socio-cognitive processes_How they interplay in collaborative problem-solving]]
@@ -88,6 +81,8 @@ tags:
 	- @balkundiCentralityCharismaComparing2011
 - [[A meta-analytic review and future research agenda of charismatic leadership]]
 	- @banksMetaanalyticReviewFuture2017
+- [[Physiological synchrony is associated with cooperative success in real-life interactions]]
+	- @behrensPhysiologicalSynchronyAssociated2020
 - [[Interactions between dynamic team composition and coordination_an agent-based modeling approach]]
 	- @blanco-fernandezInteractionsDynamicTeam2024
 - [[Charisma, positive emotions and mood contagion]]
@@ -110,6 +105,8 @@ tags:
 	- @decremerHowLeadersPromote2002
 - [[What does physiological synchrony reveal about metacognitive experiences and group performance]]
 	- @dindarWhatDoesPhysiological2020
+- [[Detecting shared physiological arousal events in collaborative problem solving]]
+	- @dindarDetectingSharedPhysiological2022
 - [[Leaders and Followers Identified by Emotional Mimicry During Collaborative Learning_A Facial Expression Recognition Study on Emotional Valence]]
 	- @dindarLeadersFollowersIdentified2022
 - [[Emotional Contagion in Collaborative Virtual Reality Learning Experiences_An eSports Approach]]
@@ -128,6 +125,8 @@ tags:
 	- @glassMovingTogetherSocial2023
 - [[Studying the dynamics of autonomic activity during emotional experience]]
 	- @gollandStudyingDynamicsAutonomic2014
+- [[Physiological and behavioral synchrony predict group cohesion and performance]]
+	- @gordonPhysiologicalBehavioralSynchrony2020
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
 	- @gordonGrouplevelPhysiologicalSynchrony2021
 - [[AutoTutor_A tutor with dialogue in natural language]]
@@ -142,6 +141,8 @@ tags:
 	- @hanNonlinearDynamicalSystems
 - [[Toward the Validation of a Novel Measure of Individuals’ Influence During Team Collaborations]]
 	- @harrisonValidationNovelMeasure2023
+- [[Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored]]
+	- @haatajaMonitoringCollaborativeLearning2018
 - [[Emotional contagion and proto-organizing in human interaction dynamics]]
 	- @hazyEmotionalContagionProtoorganizing2015
 - [[Measuring Peer Collaboration Among Secondary School Students_ Instrument Development And Validation]]
@@ -170,7 +171,9 @@ tags:
 	- @leeUnderstandingEmpatheticReactivity2024
 - [[Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning]]
 	- @lamsaLearnersLinguisticAlignment2024
-- [[What you say vs what you do_ Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams]]
+- [[The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork]]
+	- @mallickPursuitHappinessPower2024
+- [[What you say vs what you do_Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams]]
 	- @mallickWhatYouSay2024
 - [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
 	- @mayoInterpersonalAutonomicNervous2021
@@ -190,6 +193,8 @@ tags:
 	- @oregPersonalityCharismaticLeadership2015
 - [[Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates]]
 	- @oveisEmotionRegulationContagion2020
+- [[Interpersonal autonomic physiology_A systematic review of the literature]]
+	- @palumboInterpersonalAutonomicPhysiology2017
 - [[The mutability of charisma in leadership research]]
 	- @paulMutabilityCharismaLeadership2002
 - [[Effects of mood and stress on distributed team cognition]]
@@ -198,8 +203,12 @@ tags:
 	- @pijeira-diazSympatheticArousalCommonalities2019
 - [[Effects of Positive mood on generative and evaluative thinking in creative problem solving]]
 	- @politisEffectsPositiveMood2015
+- [[Synerg-eye-zing_Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Team]]
+	- @reddySynergeyezingDecodingNonlinear2023
 - [[The aura of charisma_A review on the embodiment perspective as signaling]]
 	- @rehAuraCharismaReview2017
+- [[Communicative influence_A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment]]
+	- @reitmanCommunicativeInfluenceNovel2024
 - [[Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving]]
 	- @rojasIntegratingCollaborationScript2022
 - [[Charisma perception from text and speech]]
@@ -248,3 +257,5 @@ tags:
 	- @vanhaeringenEmpiricalValidationAgentBased2024
 - [[Emotional influence in groups_the dynamic nexus of affect, cognition, and behavior]]
 	- @vankleefEmotionalInfluenceGroups2017
+- [[Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork]]
+	- @zhangInvestigatingAITeammate2023

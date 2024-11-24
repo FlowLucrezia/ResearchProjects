@@ -1,0 +1,2 @@
+
+[Dindar, M., Järvelä, S., Nguyen, A., Haataja, E., & Çini, A. (2022). Detecting shared physiological arousal events in collaborative problem solving. _Contemporary Educational Psychology_, _69_, 102050.](https://www.sciencedirect.com/science/article/pii/S0361476X22000091)

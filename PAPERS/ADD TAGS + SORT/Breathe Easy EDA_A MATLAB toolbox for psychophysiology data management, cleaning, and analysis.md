@@ -1,2 +1,0 @@
-
-[Ksander, J. C., Kark, S. M., & Madan, C. R. (2018). Breathe Easy EDA: A MATLAB toolbox for psychophysiology data management, cleaning, and analysis. _F1000Research_, _7_.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6317497/)

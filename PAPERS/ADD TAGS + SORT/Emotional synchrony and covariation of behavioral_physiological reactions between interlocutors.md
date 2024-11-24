@@ -1,0 +1,2 @@
+
+[Arimoto, Y., & Okanoya, K. (2014, September). Emotional synchrony and covariation of behavioral/physiological reactions between interlocutors. In _2014 17th Oriental Chapter of the International Committee for the Co-ordination and Standardization of Speech Databases and Assessment Techniques (COCOSDA)_ (pp. 1-6). IEEE.](https://ieeexplore.ieee.org/abstract/document/7051428)

@@ -33,10 +33,11 @@
 		1. Minimum amplitude of .05 μS
 
 
-Resources:
+##### EDA Resources:
 - [[A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom]]
 - [[Affective states and regulation of learning during socio‐emotional interactions in secondary school collaborative groups]]
 - [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
+- [[Breathe Easy EDA_A MATLAB toolbox for psychophysiology data management, cleaning, and analysis]]
 - [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
 - [[Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning]]
@@ -61,7 +62,7 @@ Resources:
 	1. PanTompkins algorithm
 6. IBI calculation and alignment
 
-Resources:
+##### HR Resources:
 - [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
 - [[Autonomic nervous system activity in emotion_A review]]
 - [[Bridging the gap between emotion and joint action]]
@@ -69,6 +70,8 @@ Resources:
 - [[Engaged or Frustrated_Disambiguating Emotional State in Search]]
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
 - [[Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature]]
+- [[Interpersonal physiological synchrony predicts group cohesion]]
+- [[Insight and non-insight problem solving_A heart rate variability study]]
 - [[Multifractal Analysis of Heart Rate Dynamics as a Predictor of Teammate Trust in Human-Machine Teams]]
 
 ## Synchronization
@@ -84,6 +87,7 @@ Resources:
 	- DL = average length of adjacent recurrence time points
 	- MDL =length of longest adjacent time points with recurrence
 
-Resources:
+##### Analysis Resources:
 - [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
+- [[Interpersonal physiological synchrony predicts group cohesion]]
 - [[What does physiological synchrony reveal about metacognitive experiences and group performance]]

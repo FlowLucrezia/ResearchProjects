@@ -1,0 +1,31 @@
+---
+tags:
+  - communication
+  - influence
+  - education
+  - learning
+  - team
+  - teams
+  - collaboration
+  - problem_solving
+  - CPS
+  - dynamics
+  - feedback
+  - task_performance
+  - interaction
+  - groups
+  - process
+  - CSCL
+  - AMI
+  - team_composition
+  - speech
+  - conversation
+  - iSAT
+  - methodology
+  - theory
+  - systems
+  - experiment
+  - report
+---
+
+[Reitman, J. G., Harrison, J. L., Gorman, J. C., Lieber, R., & D'Mello, S. K. (2024). Communicative influence: A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment. _Journal of Educational Psychology_.](https://psycnet.apa.org/record/2025-24652-001)

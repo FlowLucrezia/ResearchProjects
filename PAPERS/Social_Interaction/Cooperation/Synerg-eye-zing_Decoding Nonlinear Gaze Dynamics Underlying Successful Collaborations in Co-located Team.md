@@ -1,0 +1,33 @@
+---
+tags:
+  - team
+  - teams
+  - dynamics
+  - iSAT
+  - synergy
+  - synchronization
+  - CPS
+  - problem_solving
+  - collaboration
+  - AOI
+  - gaze_steps
+  - RQA
+  - joint_attention
+  - HCI
+  - CSCL
+  - attention
+  - arousal
+  - trust
+  - CRQA
+  - coherence
+  - valence
+  - emotion
+  - affect
+  - stability
+  - MdRQA
+  - dyadic
+  - triads
+  - experiment
+---
+
+[Reddy, G. R., Eloy, L., Dickler, R., Reitman, J. G., Pugh, S. L., Foltz, P. W., ... & Hirshfield, L. (2023, October). Synerg-eye-zing: Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Teams. In _Proceedings of the 25th International Conference on Multimodal Interaction_ (pp. 545-554).](https://dl.acm.org/doi/pdf/10.1145/3577190.3614104)
