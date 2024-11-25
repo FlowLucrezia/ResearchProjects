@@ -8,19 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5db7e248ebe802b",
+            "id": "b39d7292130aeaa0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/iSAT/Analyses/Procedure.md",
+                "file": "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Procedure"
+              "title": "Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored"
             }
           }
         ]
@@ -79,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ec929a0c85335db",
@@ -128,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning.md"
+                "file": "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Learners’ Linguistic Alignment and Physiological Synchrony_Identifying Trigger Events that Invite Socially Shared Regulation of Learning"
+              "title": "Outline of Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored"
             }
           },
           {
@@ -188,9 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5db7e248ebe802b",
+  "active": "b39d7292130aeaa0",
   "lastOpenFiles": [
     "PROJECTS/iSAT/Analyses/Procedure.md",
+    "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
+    "PAPERS/ADD TAGS + SORT/The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic physiology_A systematic review of the literature.md",
+    "PAPERS/Social_Interaction/Cooperation/Detecting shared physiological arousal events in collaborative problem solving.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Physiological and behavioral synchrony predict group cohesion and performance.md",
+    "PAPERS/Social_Interaction/Cooperation/Physiological synchrony is associated with cooperative success in real-life interactions.md",
+    "PROJECTS/CAS/Project 1 Zotero Dump.md",
     "PROJECTS/CAS/Project Description.md",
     "Pasted image 20241124140306.png",
     "Pasted image 20241124140232.png",
@@ -207,13 +211,7 @@
     "PAPERS/Social_Interaction/Teams/Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork.md",
     "PAPERS/ADD TAGS + SORT/Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving.md",
     "PAPERS/ADD TAGS + SORT/Emotional synchrony and covariation of behavioral_physiological reactions between interlocutors.md",
-    "PAPERS/ADD TAGS + SORT/Physiological synchrony is associated with cooperative success in real-life interactions.md",
-    "PAPERS/ADD TAGS + SORT/Detecting shared physiological arousal events in collaborative problem solving.md",
-    "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
-    "PAPERS/ADD TAGS + SORT/Physiological and behavioral synchrony predict group cohesion and performance.md",
     "PAPERS/Theory_Methods/Toolkit/A continuous measure of phasic electrodermal activity.md",
-    "PAPERS/ADD TAGS + SORT/The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork.md",
-    "PAPERS/ADD TAGS + SORT/Interpersonal autonomic physiology_A systematic review of the literature.md",
     "PAPERS/Theory_Methods/Toolkit/Decomposition of skin conductance data by means of nonnegative deconvolution.md",
     "PAPERS/Theory_Methods/Toolkit/Breathe Easy EDA_A MATLAB toolbox for psychophysiology data management, cleaning, and analysis.md",
     "PAPERS/Social_Interaction/Cooperation/Synerg-eye-zing_Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Team.md",
