@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "87217eec4c3538e5",
+        "id": "d0dea9ea85b3297e",
         "type": "tabs",
         "children": [
           {
-            "id": "b39d7292130aeaa0",
+            "id": "2d53d0a27cdbc8f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
-                "mode": "source",
-                "source": false
+                "file": "PROJECTS/CAS/Netlogo.canvas",
+                "viewState": {
+                  "x": 255,
+                  "y": -245,
+                  "zoom": -0.3374410942586868
+                }
               },
-              "icon": "lucide-file",
-              "title": "Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored"
+              "icon": "lucide-layout-dashboard",
+              "title": "Netlogo"
             }
           }
         ]
@@ -125,10 +128,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md"
+                "file": "PROJECTS/CAS/Netlogo.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored"
+              "title": "Outline of Netlogo"
             }
           },
           {
@@ -185,28 +188,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b39d7292130aeaa0",
+  "active": "1c90f6f94ff45d7b",
   "lastOpenFiles": [
+    "PROJECTS/CAS/Project Description.md",
+    "PROJECTS/CAS/CAS Fundamentals Project.md",
+    "PAPERS/Social_Interaction/Teams/The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork.md",
+    "PAPERS/Social_Interaction/Cooperation/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
+    "PROJECTS/CAS/Netlogo.canvas",
+    "PROJECTS/CAS/Images/Pasted image 20241124140306.png",
+    "PROJECTS/CAS/Images/Pasted image 20241124132627.png",
+    "PROJECTS/CAS/Images/Pasted image 20241124134513.png",
+    "PROJECTS/CAS/Images/netlogo model (1).png",
+    "PROJECTS/CAS/Images/netlogo model.png",
+    "PROJECTS/CAS/Images",
+    "PROJECTS/CAS/Images/Pasted image 20241124140009.png",
     "PROJECTS/iSAT/Analyses/Procedure.md",
-    "PAPERS/ADD TAGS + SORT/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
-    "PAPERS/ADD TAGS + SORT/The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork.md",
     "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic physiology_A systematic review of the literature.md",
     "PAPERS/Social_Interaction/Cooperation/Detecting shared physiological arousal events in collaborative problem solving.md",
     "PAPERS/Social_Interaction/Interpersonal_Coordination/Physiological and behavioral synchrony predict group cohesion and performance.md",
     "PAPERS/Social_Interaction/Cooperation/Physiological synchrony is associated with cooperative success in real-life interactions.md",
     "PROJECTS/CAS/Project 1 Zotero Dump.md",
-    "PROJECTS/CAS/Project Description.md",
-    "Pasted image 20241124140306.png",
-    "Pasted image 20241124140232.png",
-    "Pasted image 20241124140211.png",
-    "Pasted image 20241124140144.png",
-    "Pasted image 20241124140120.png",
-    "Pasted image 20241124140106.png",
-    "Pasted image 20241124140031.png",
-    "Pasted image 20241124140009.png",
-    "Pasted image 20241124135946.png",
-    "Pasted image 20241124135932.png",
-    "PROJECTS/CAS/CAS Fundamentals Project.md",
+    "PROJECTS/CAS/Images/Pasted image 20241124140232.png",
+    "PROJECTS/CAS/Images/Pasted image 20241124140211.png",
+    "PROJECTS/CAS/Images/Pasted image 20241124140144.png",
+    "PROJECTS/CAS/Images/Pasted image 20241124140120.png",
     "PROJECTS/iSAT/Review of iSAT Literature (original).md",
     "PAPERS/Social_Interaction/Teams/Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork.md",
     "PAPERS/ADD TAGS + SORT/Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving.md",
@@ -222,7 +227,6 @@
     "PAPERS/Social_Interaction/Cooperation/Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving.md",
     "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal physiological synchrony predicts group cohesion.md",
     "PAPERS/Social_Interaction/Cooperation/Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction.md",
-    "PROJECTS/iSAT/Original Proposal.md",
     "PROJECTS/Research Topics.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PAPERS/Health/Mental_Health",
@@ -235,7 +239,6 @@
     "PAPERS/Social_Interaction/Interpersonal_Coordination",
     "PAPERS/Reading/Strategy",
     "PAPERS/Reading/Comprehension",
-    "PAPERS/ADD TAGS + SORT",
     "Untitled.canvas",
     "Research Topics & Literature.canvas"
   ]

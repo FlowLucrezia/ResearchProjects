@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"667cc1f54d9959b9","x":-340,"y":-260,"width":250,"height":60,"type":"text","text":"global variables"},
+		{"id":"cb508dde9b030741","x":-340,"y":-140,"width":250,"height":60,"type":"text","text":"teammates-own variables"},
+		{"id":"b47e3001ab9bacff","x":-340,"y":-380,"width":250,"height":60,"type":"text","text":"Setup Procedure"},
+		{"id":"1d024360df00b6b8","x":600,"y":-380,"width":250,"height":60,"type":"text","text":"Outputs & Display"},
+		{"id":"457892aac8b1305d","x":120,"y":-410,"width":250,"height":60,"type":"text","text":"Go Procedure"}
+	],
+	"edges":[]
+}

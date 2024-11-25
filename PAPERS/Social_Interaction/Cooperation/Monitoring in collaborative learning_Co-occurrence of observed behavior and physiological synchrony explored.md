@@ -1,0 +1,35 @@
+---
+tags:
+  - synchronization
+  - interpersonal_synchrony
+  - collaboration
+  - learning
+  - education
+  - physiology
+  - groups
+  - triads
+  - attention
+  - engagement
+  - sense_making
+  - regulation
+  - task_performance
+  - nervous_system
+  - arousal
+  - affect
+  - emotion
+  - valence
+  - autonomic
+  - GSR
+  - skin_conductance
+  - CSCL
+  - motivation
+  - methodology
+  - iSAT
+  - theory
+  - experiment
+  - report
+  - process
+  - dynamics
+---
+
+[Haataja, E., Malmberg, J., & Järvelä, S. (2018). Monitoring in collaborative learning: Co-occurrence of observed behavior and physiological synchrony explored. _Computers in Human Behavior_, _87_, 337-347.](https://www.sciencedirect.com/science/article/pii/S074756321830284X?casa_token=aMePwAI1hqAAAAAA:sYESan_PHqGCmzB0scndaf6xArXZobeNL2T3NlaYmC1qvUEvSHrrE4UEEgauq21rTphfvxmUXg)
