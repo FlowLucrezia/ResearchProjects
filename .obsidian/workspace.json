@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d0dea9ea85b3297e",
+        "id": "4167c9e8871bfd1c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d53d0a27cdbc8f6",
+            "id": "04fbb06c27717709",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "PROJECTS/CAS/Netlogo.canvas",
                 "viewState": {
-                  "x": 255,
-                  "y": -245,
-                  "zoom": -0.3374410942586868
+                  "x": 4128.285162409616,
+                  "y": 569.2291754132183,
+                  "zoom": -3.2327518388977516
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -55,10 +55,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "investigat",
+                "query": "exploring the autonom",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -188,13 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c90f6f94ff45d7b",
+  "active": "04fbb06c27717709",
   "lastOpenFiles": [
-    "PROJECTS/CAS/Project Description.md",
     "PROJECTS/CAS/CAS Fundamentals Project.md",
+    "PROJECTS/CAS/Netlogo.canvas",
+    "PROJECTS/CAS/Project Description.md",
+    "PROJECTS/CAS/Project 1 Zotero Dump.md",
+    "PAPERS/Learning/AutoTutor_A tutor with dialogue in natural language.md",
+    "PAPERS/Learning/Emotions and learning with auto tutor.md",
+    "PROJECTS/iSAT/Review of iSAT Literature (original).md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Emotional synchrony and covariation of behavioral_physiological reactions between interlocutors.md",
+    "PAPERS/Affect/Theory/Emotional influence in groups_the dynamic nexus of affect, cognition, and behavior.md",
+    "PAPERS/Social_Interaction/Cooperation/Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving.md",
+    "PAPERS/Affect/Personality/Exploring the autonomic correlates of personality.md",
+    "PAPERS/Affect/Theory/Emotional contagion and proto-organizing in human interaction dynamics.md",
+    "PAPERS/Social_Interaction/Teams/Emotion regulation in teamwork during a challenging hackathon_Comparison of best and worst teams.md",
+    "PAPERS/Social_Interaction/Teams/Emotion regulation contagion_Stress reappraisal promotes challenge responses in teammates.md",
+    "PAPERS/Social_Interaction/Teams/Effects of mood and stress on distributed team cognition.md",
+    "PAPERS/Sense_Making/Effects of Positive mood on generative and evaluative thinking in creative problem solving.md",
+    "PAPERS/Social_Interaction/Cooperation/Emotion Feedback During Computer-mediated Collaboration_Effects on Self-Reported Emotions and Perceived Interaction.md",
     "PAPERS/Social_Interaction/Teams/The pursuit of happiness_the power and influence of AI teammate emotion in human-AI teamwork.md",
     "PAPERS/Social_Interaction/Cooperation/Monitoring in collaborative learning_Co-occurrence of observed behavior and physiological synchrony explored.md",
-    "PROJECTS/CAS/Netlogo.canvas",
     "PROJECTS/CAS/Images/Pasted image 20241124140306.png",
     "PROJECTS/CAS/Images/Pasted image 20241124132627.png",
     "PROJECTS/CAS/Images/Pasted image 20241124134513.png",
@@ -207,26 +221,12 @@
     "PAPERS/Social_Interaction/Cooperation/Detecting shared physiological arousal events in collaborative problem solving.md",
     "PAPERS/Social_Interaction/Interpersonal_Coordination/Physiological and behavioral synchrony predict group cohesion and performance.md",
     "PAPERS/Social_Interaction/Cooperation/Physiological synchrony is associated with cooperative success in real-life interactions.md",
-    "PROJECTS/CAS/Project 1 Zotero Dump.md",
     "PROJECTS/CAS/Images/Pasted image 20241124140232.png",
     "PROJECTS/CAS/Images/Pasted image 20241124140211.png",
     "PROJECTS/CAS/Images/Pasted image 20241124140144.png",
     "PROJECTS/CAS/Images/Pasted image 20241124140120.png",
-    "PROJECTS/iSAT/Review of iSAT Literature (original).md",
     "PAPERS/Social_Interaction/Teams/Investigating AI teammate communication strategies and their impact in human-AI teams for effective teamwork.md",
-    "PAPERS/ADD TAGS + SORT/Explicit sharing of emotions improves the relationship of groups with lower dispositions to regulate emotions in collaborative problem-solving.md",
-    "PAPERS/ADD TAGS + SORT/Emotional synchrony and covariation of behavioral_physiological reactions between interlocutors.md",
     "PAPERS/Theory_Methods/Toolkit/A continuous measure of phasic electrodermal activity.md",
-    "PAPERS/Theory_Methods/Toolkit/Decomposition of skin conductance data by means of nonnegative deconvolution.md",
-    "PAPERS/Theory_Methods/Toolkit/Breathe Easy EDA_A MATLAB toolbox for psychophysiology data management, cleaning, and analysis.md",
-    "PAPERS/Social_Interaction/Cooperation/Synerg-eye-zing_Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Team.md",
-    "PAPERS/Social_Interaction/Teams/What you say vs what you do_Utilizing positive emotional expressions to relay AI teammate intent within human–AI teams.md",
-    "PAPERS/Social_Interaction/Teams/Communicative influence_A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment.md",
-    "PAPERS/Sense_Making/Insight and non-insight problem solving_A heart rate variability study.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
-    "PAPERS/Social_Interaction/Cooperation/Integrating a collaboration script and group awareness to support group regulation and emotions towards collaborative problem solving.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal physiological synchrony predicts group cohesion.md",
-    "PAPERS/Social_Interaction/Cooperation/Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction.md",
     "PROJECTS/Research Topics.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PAPERS/Health/Mental_Health",

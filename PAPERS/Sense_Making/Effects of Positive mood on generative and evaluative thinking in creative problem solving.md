@@ -7,6 +7,15 @@ tags:
   - affect
   - creativity
   - problem_solving
+  - CPS
+  - collaboration
+  - experiment
+  - PANAS
+  - engagement
+  - experience
+  - process
+  - decision_making
+  - theory
 ---
 
 DOI: 10.1177/2158244015592679

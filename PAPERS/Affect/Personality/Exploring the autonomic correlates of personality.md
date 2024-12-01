@@ -8,6 +8,21 @@ tags:
   - autonomic
   - theory
   - exploratory
+  - HRV
+  - biology
+  - iSAT
+  - anxiety
+  - HF_HRV
+  - executive_function
+  - attention
+  - arousal
+  - motivation
+  - dynamics
+  - regulation
+  - ECG
+  - stress
+  - reactivity
+  - resilience
 ---
 
 http://dx.doi.org/10.1016/j.autneu.2015.05.004

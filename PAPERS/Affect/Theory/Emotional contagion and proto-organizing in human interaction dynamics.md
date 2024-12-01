@@ -8,6 +8,32 @@ tags:
   - contagion
   - emotion_sharing
   - iSAT
+  - process
+  - emotion_dynamics
+  - attractors
+  - positive_emotions
+  - nervous_system
+  - dyadic
+  - agency
+  - team
+  - teams
+  - groups
+  - stress
+  - attention
+  - decision_making
+  - problem_solving
+  - complexity
+  - bifurcation
+  - information
+  - systems
+  - conflict
+  - anxiety
+  - cooperation
+  - collaboration
+  - stability
+  - methodology
+  - theory
+  - interpersonal_coordination
 ---
 
 [https://doi.org/10.3389/fpsyg.2015.00806](https://doi.org/10.3389/fpsyg.2015.00806)
