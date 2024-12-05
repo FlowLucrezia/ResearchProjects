@@ -1,0 +1,2 @@
+
+[Fusaroli, R., Bjørndahl, J. S., Roepstoff, A., & Tylén, K. (2015). A Heart for Interaction: Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task. arXiv preprint arXiv:1504.05750.](https://pure.au.dk/ws/portalfiles/portal/96219349/pdf)
