@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/FYP/TO READ.md",
+                "file": "PAPERS/Social_Interaction/Cooperation/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO READ"
+              "title": "Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communicative in",
+                "query": "tag:#HR AND tag:#iSAT  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,37 +188,39 @@
   },
   "active": "04fbb06c27717709",
   "lastOpenFiles": [
-    "PAPERS/ADD TAGS + SORT/Layered Dynamics and System Effectiveness of Human-Autonomy Teams Under Degraded Conditions.md",
+    "PAPERS/Affect/Psychophysiology/Engaged or Frustrated_Disambiguating Emotional State in Search.md",
+    "PAPERS/Social_Interaction/Cooperation/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
+    "PAPERS/Social_Interaction/Cooperation/Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling.md",
     "PROJECTS/FYP/TO READ.md",
-    "PAPERS/ADD TAGS + SORT/Exploring Dynamic Influences on Trust in Human-Autonomy Teaming_An Entropy and Event Layer Analysis.md",
-    "PAPERS/Social_Interaction/Teams/Communicative influence_A novel measure of team dynamics that integrates team cognition theory with collaborative problem solving assessment.md",
-    "PAPERS/ADD TAGS + SORT/Getting Along With Autonomous Teammates_Understanding the Socio-Emotional and Teaming Aspects of Trust in Human-Autonomy Teams.md",
-    "PAPERS/ADD TAGS + SORT/Physio-Behavioral Coupling in a Cooperative Team Task_ Contributors and Relations.md",
-    "PAPERS/ADD TAGS + SORT/A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task.md",
-    "PAPERS/ADD TAGS + SORT/Team Coordination Dynamics.md",
+    "PAPERS/Social_Interaction/Cooperation/A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom.md",
     "PAPERS/ADD TAGS + SORT/Team coordination and effectiveness in human-autonomy teaming.md",
-    "PAPERS/ADD TAGS + SORT/Measuring patterns in team interaction sequences using a discrete recurrence approach.md",
-    "PAPERS/ADD TAGS + SORT/Emergent Complexity Matching in Interpersonal Coordination_Local Dynamics and Global Variability.md",
-    "PAPERS/ADD TAGS + SORT/Experimental control of scaling behavior_what is not fractal.md",
-    "PAPERS/ADD TAGS + SORT/Complexity matching and coordination in individual and dyadic performance.md",
-    "PROJECTS/FYP/Images/Pasted image 20241205153416.png",
-    "PROJECTS/FYP/Images",
-    "PAPERS/ADD TAGS + SORT/Statistical properties of Multiscale Regression Analysis_Simulation and application to human postural control.md",
-    "PROJECTS/FYP/Images/Pasted image 20241205153530.png",
-    "PROJECTS/FYP/Images/Pasted image 20241205153518.png",
-    "PAPERS/Social_Interaction/Teams/Examining Human-Autonomy Team Interaction and Explicable Behavior in a Dynamic LEGO Construction Task.md",
-    "PAPERS/ADD TAGS + SORT/Examining human-autonomy team interaction and explicable behavior in a dynamic LEGO construction task.md",
-    "PAPERS/ADD TAGS + SORT/Distinguishing driving behavior using the dynamical systems analysis (DSA) toolbox_Implications for trust in automation.md",
-    "PAPERS/ADD TAGS + SORT/Modeling the complex dynamics of teamwork from team cognition to neurophysiology.md",
-    "PAPERS/ADD TAGS + SORT/From physics to social interactions_Scientific unification via dynamics.md",
-    "PROJECTS/iSAT/Analyses/Procedure.md",
+    "PAPERS/ADD TAGS + SORT/Team Coordination Dynamics.md",
+    "PAPERS/ADD TAGS + SORT/Getting Along With Autonomous Teammates_Understanding the Socio-Emotional and Teaming Aspects of Trust in Human-Autonomy Teams.md",
+    "PAPERS/ADD TAGS + SORT/Exploring Dynamic Influences on Trust in Human-Autonomy Teaming_An Entropy and Event Layer Analysis.md",
+    "PAPERS/ADD TAGS + SORT/A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task.md",
+    "PROJECTS/Masters_Thesis/Contextual Background.md",
+    "PROJECTS/Masters_Thesis/Methodology.md",
+    "PROJECTS/Masters_Thesis/Citation Dump.md",
+    "PROJECTS/CAS/Project 1 Zotero Dump.md",
+    "PROJECTS/CAS/Description v1.md",
+    "PROJECTS/Masters_Thesis/Reading Strategies & Metacognition.md",
+    "PROJECTS/Masters_Thesis/Reading Process Measures.md",
+    "PROJECTS/Masters_Thesis/Interaction Dominance & Fractality.md",
     "PROJECTS/iSAT/Original Proposal.md",
     "PROJECTS/iSAT/Review of iSAT Literature (original).md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Emotional synchrony and covariation of behavioral_physiological reactions between interlocutors.md",
-    "PROJECTS/CAS/Netlogo.canvas",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Signal Decomposition into Tonic and Phasic components.md",
+    "PROJECTS/iSAT/Analyses/EDA_GSR/Outlier Detection for EDA.md",
+    "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
+    "PROJECTS/Research Topics.canvas",
     "PROJECTS/CAS/CAS Fundamentals Project.md",
-    "PROJECTS/CAS/Project Description.md",
-    "PROJECTS/CAS/Project 1 Zotero Dump.md",
+    "PROJECTS/FYP/Relationships to be explored.md",
+    "PAPERS/Reading/Strategy/Eye movement analyses indicate the underlying reading strategy in the recovery of lexical readers.md",
+    "PROJECTS/FYP/Images/Pasted image 20241205153416.png",
+    "PROJECTS/FYP/Images",
+    "PROJECTS/FYP/Images/Pasted image 20241205153530.png",
+    "PROJECTS/FYP/Images/Pasted image 20241205153518.png",
+    "PROJECTS/CAS/Netlogo.canvas",
     "PROJECTS/CAS/Images/Pasted image 20241124140306.png",
     "PROJECTS/CAS/Images/Pasted image 20241124132627.png",
     "PROJECTS/CAS/Images/Pasted image 20241124134513.png",
@@ -226,8 +229,6 @@
     "PROJECTS/CAS/Images",
     "PROJECTS/CAS/Images/Pasted image 20241124140009.png",
     "PROJECTS/CAS/Images/Pasted image 20241124140232.png",
-    "PROJECTS/Research Topics.canvas",
-    "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
     "PAPERS/Development/Childhood",

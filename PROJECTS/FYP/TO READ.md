@@ -1,4 +1,9 @@
 
+### Heart Rate Coupling (etc)
+- [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
+- [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
+- 
+
 ## Amazeen Lab
 - [[From physics to social interactions_Scientific unification via dynamics]]
 - [[Modeling the complex dynamics of teamwork from team cognition to neurophysiology]]
