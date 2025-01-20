@@ -1,4 +1,12 @@
 
+## Synchronization
+- trend synchrony
+	- e.g., determining whether mothers and children tend to show a common linear (or quadratic, cubic, etc.) change in HR across an experimental task 
+- concurrent synchrony
+	- e.g., identifying the degree of common, moment-to-moment physiology between partners
+- **lagged synchrony**
+	- extent to which one partner’s physiology predicts the other’s future physiology (controlling for each partner’s own physiology at the previous time point)
+
 ## Cardiac Activity
 - Autonomic NS
 	- SNS vs PSNS distinction

@@ -1,9 +1,28 @@
 
-### Heart Rate Coupling (etc)
-- [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
-- [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
-- 
 
+### REVIEWS
+- [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
+- [[Interpersonal autonomic physiology_A systematic review of the literature]]
+
+### Methods
+- [[PAPERS/ADD TAGS + SORT/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance|A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance]]
+	- MvDFA
+
+### Heart Rate Coupling (etc)
+- [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
+	- CRQA
+- [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
+	- Weighted Coherence
+- [[Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction]]
+	- Dynamic Time Warping
+- [[Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task]]
+	- MdRQA
+- [[Interpersonal physiological synchrony predicts group cohesion]]
+	- MdRQA
+- [[Intragroup emotions_Physiological linkage and social presence]]
+	- cross-correlation
+- [[What multimodal data can tell us about the students’ regulation of their learning process]]
+	- cross-correlation
 ## Amazeen Lab
 - [[From physics to social interactions_Scientific unification via dynamics]]
 - [[Modeling the complex dynamics of teamwork from team cognition to neurophysiology]]

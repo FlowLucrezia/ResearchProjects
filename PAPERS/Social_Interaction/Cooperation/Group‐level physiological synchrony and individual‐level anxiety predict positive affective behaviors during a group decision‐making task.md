@@ -29,6 +29,12 @@ DOI: 10.1111/psyp.13857
 
 [Gordon, I., Wallot, S., & Berson, Y. (2021). Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task. _Psychophysiology_, _58_(9), e13857.](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/psyp.13857)
 
+## Key Notes
+- Effects of physiological synchrony on positive affective behavior were particularly strong at the group level but nonsignificant at the individual and dyadic levels
+- Heart rate and electrodermal synchronization showed opposite effects on group members' display of affective behavior
+- group-level EDA synchrony was a negative predictor of affective synchrony, whereas group-level BPM synchrony was a positive predictor of affective behavior
+- Trait anxiety moderated the relationship between physiological synchrony and affective behavior, perhaps due to social uncertainty, while social phobia did not have a moderating effect
+## Methods
 ### Physiological Measures
 
 > An electrocardiogram (ECG) was obtained for every participant using a modified lead II configuration. The impedance cardiogram, which provides respiratory data for the analysis of IBI, was obtained using the standard tetrapolar electrode system (Sherwood et al., 1990). Electrodermal activity (measured in microsiemens [μS]) was collected via two disposable Ag-AgCl electrodes, both placed on the palm of the participant's nondominant hand. EDA values were outputted from the MindWare EDA analysis software as the mean skin conductance level recorded at 2 Hz. All recorders for the physiological signals are transmitted synchronously and wirelessly to a laptop computer in the control room adjacent to the lab room, with a sampling rate of 500 Hz.
