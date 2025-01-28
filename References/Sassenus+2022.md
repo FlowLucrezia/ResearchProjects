@@ -3,3 +3,4 @@
 [[People/Steffi Sassenus]] [[People/Piet Van Den Bossche]] [[People/Karolien Poels]] 
 # When stress becomes shared: exploring the emergence of team stress (2022)
 
+[[When stress becomes shared_exploring the emergence of team stress]]

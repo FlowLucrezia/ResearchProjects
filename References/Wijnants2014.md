@@ -3,3 +3,4 @@
 [[People/Maarten L. Wijnants]] 
 # A Review of Theoretical Perspectives in Cognitive Science on the Presence of 1 / f Scaling in Coordinated Physiological and Cognitive Processes (2014)
 
+[[A Review of Theoretical Perspectives in Cognitive Science on the Presence of 1_f Scaling in Coordinated Physiological and Cognitive Processes]]

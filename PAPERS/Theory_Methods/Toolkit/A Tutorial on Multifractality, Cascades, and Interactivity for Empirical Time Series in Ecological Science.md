@@ -17,6 +17,7 @@ tags:
   - MASTER_THESIS
   - crossover
   - DFA
+  - report
 ---
 10.1080/10407413.2013.753804
 

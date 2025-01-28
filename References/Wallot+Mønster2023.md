@@ -4,4 +4,3 @@
 # Multidimensional Joint Recurrence Quantification Analysis: detecting coupling between time series of different dimensionalities (2023)
 
 Comment: Working paper
-

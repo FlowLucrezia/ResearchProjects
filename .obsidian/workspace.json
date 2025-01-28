@@ -24,20 +24,21 @@
             }
           },
           {
-            "id": "9d8461719a868216",
+            "id": "065339de67d19f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance.md",
+                "file": "PAPERS/ADD TAGS + SORT/From physics to social interactions_Scientific unification via dynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance"
+              "title": "From physics to social interactions_Scientific unification via dynamics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,34 +202,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04fbb06c27717709",
+  "active": "065339de67d19f72",
   "lastOpenFiles": [
-    "PAPERS/ADD TAGS + SORT/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance.md",
-    "PAPERS/ADD TAGS + SORT/Physiological synchrony revealed by delayed coincidence count_application to a cooperative complex environment.md",
-    "PAPERS/ADD TAGS + SORT/On Measuring and Modeling Physiological Synchrony in Dyads.md",
-    "PROJECTS/FYP/Physiological synchrony, entrainment, and coordination.md",
-    "PROJECTS/FYP/TO READ.md",
-    "PAPERS/Social_Interaction/Cooperation/Group‐level physiological synchrony and individual‐level anxiety predict positive affective behaviors during a group decision‐making task.md",
-    "PAPERS/ADD TAGS + SORT/Intragroup emotions_Physiological linkage and social presence.md",
-    "PAPERS/ADD TAGS + SORT/Physiological linkage to an interaction partner is negatively associated with stability in sympathetic nervous system responding.md",
-    "PAPERS/Social_Interaction/Teams/Multifractal Analysis of Heart Rate Dynamics as a Predictor of Teammate Trust in Human-Machine Teams.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal physiological synchrony predicts group cohesion.md",
-    "PAPERS/Learning/Engagement/What multimodal data can tell us about the students’ regulation of their learning process.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling.md",
-    "PAPERS/Social_Interaction/Cooperation/Deep structures of collaboration_Physiological correlates of collective intelligence and group satisfaction.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic physiology_A systematic review of the literature.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
-    "PROJECTS/iSAT/Original Proposal.md",
-    "PROJECTS/iSAT/Research Questions.md",
-    "PROJECTS/FYP/Relationships to be explored.md",
-    "PAPERS/Affect/Psychophysiology/Heart rate variability (HRV) as a way to understand associations between the autonomic nervous system (ANS) and affective states_A critical review of the literature.md",
-    "PAPERS/Affect/Psychophysiology/Engaged or Frustrated_Disambiguating Emotional State in Search.md",
-    "PAPERS/Affect/Psychophysiology/Heart rate variability and self-control—A meta-analysis.md",
-    "PAPERS/Social_Interaction/Cooperation/A collaborative learning design for promoting and analyzing adaptive motivation and emotion regulation in the science classroom.md",
-    "PAPERS/ADD TAGS + SORT/Team coordination and effectiveness in human-autonomy teaming.md",
-    "PAPERS/ADD TAGS + SORT/Team Coordination Dynamics.md",
     "PAPERS/ADD TAGS + SORT/Getting Along With Autonomous Teammates_Understanding the Socio-Emotional and Teaming Aspects of Trust in Human-Autonomy Teams.md",
+    "PAPERS/ADD TAGS + SORT/Intragroup emotions_Physiological linkage and social presence.md",
+    "PROJECTS/FYP/TO READ.md",
+    "References/Ramseyer2020.md",
+    "References/Riley+Turvey2002.md",
+    "References/Rindermann+Ceci2009.md",
+    "References/Robbins+Costa2017.md",
+    "References/Rohlfing+2016.md",
+    "References/Rojas+2022.md",
+    "References/Sarasso+2020.md",
+    "References/Sassenus+2022.md",
+    "References/Satama+Huopalainen2022.md",
+    "References/Schindler+2017.md",
+    "References/Schinkel+2007.md",
+    "References/Schleim+Schleim2022.md",
+    "References/Schmeisser+2001.md",
+    "References/Schloesser+2019.md",
+    "References/Schmit+2006.md",
+    "References/Sepúlveda-Pedro2023.md",
+    "References/Sharifi+2019.md",
+    "References/Sheets-Johnstone2022.md",
+    "References/Silvia+Nusbaum2011.md",
+    "References/Silvia2005.md",
+    "References/Smith+Graybiel2013.md",
+    "References/Smith2012.md",
+    "References/Sokunbi+2014.md",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
     "PROJECTS/Research Topics.canvas",
     "PROJECTS/FYP/Images/Pasted image 20241205153416.png",

@@ -3,3 +3,4 @@
 [[People/Henderien Steenbeek]] [[People/Sabine Van Vondel]] [[People/Paul Van Geert]] 
 # The Socially Situated Dynamics of Children’s Learning Processes in Classrooms: What Do We Learn from a Complex Dynamic Systems Approach? (2017)
 
+[[The Socially Situated Dynamics of Children's Learning Processes in Classrooms_What Do We Learn from a Complex Dynamic Systems Approach]]

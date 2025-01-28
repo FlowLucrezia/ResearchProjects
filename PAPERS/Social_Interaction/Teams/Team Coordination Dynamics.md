@@ -1,0 +1,33 @@
+---
+tags:
+  - interaction
+  - team
+  - teams
+  - cooperation
+  - adaptation
+  - theory
+  - report
+  - coordination
+  - roles
+  - dynamics
+  - attractors
+  - learning
+  - exploratory
+  - iSAT
+  - stability
+  - flexibility
+  - team_composition
+  - coordination_dynamics
+  - Hurst
+  - experiment
+  - feedback
+  - variability
+  - interpersonal_coordination
+  - groups
+  - lyapunov_exponent
+  - methodology
+  - AMI
+  - FYP
+---
+
+[Gorman, J. C., Amazeen, P. G., & Cooke, N. J. (2010). Team coordination dynamics. Nonlinear dynamics, psychology, and life sciences, 14(3), 265.](http://www.comp-si.org/workshop-14-files/Amazeen_Nonlinear%20Dynamics%20Psych%20Life%20Sciences%202010.pdf)

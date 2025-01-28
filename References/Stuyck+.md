@@ -3,3 +3,4 @@
 [[People/Hans Stuyck]] [[People/Febe Demeyer]] [[People/Christo Bratanov]] [[People/Axel Cleeremans]] 
 # Insight and non-insight problem solving: A heart rate variability study
 
+[[Insight and non-insight problem solving_A heart rate variability study]]

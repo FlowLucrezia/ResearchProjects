@@ -5,7 +5,7 @@
 - [[Interpersonal autonomic physiology_A systematic review of the literature]]
 
 ### Methods
-- [[PAPERS/ADD TAGS + SORT/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance|A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance]]
+- [[A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance|A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance]]
 	- MvDFA
 
 ### Heart Rate Coupling (etc)
@@ -21,6 +21,9 @@
 	- MdRQA
 - [[Intragroup emotions_Physiological linkage and social presence]]
 	- cross-correlation
+- [[Physiological Linkage of Dyadic Gaming Experience]]
+	- Weighted coherence
+	- IBI cross-correlation
 - [[What multimodal data can tell us about the students’ regulation of their learning process]]
 	- cross-correlation
 ## Amazeen Lab
