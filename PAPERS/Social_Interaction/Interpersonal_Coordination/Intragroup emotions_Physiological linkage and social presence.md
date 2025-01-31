@@ -1,3 +1,29 @@
+---
+tags:
+  - dyadic
+  - physiology
+  - synchronization
+  - groups
+  - emotion
+  - emotion_sharing
+  - emotion_dynamics
+  - contagion
+  - communication
+  - interaction
+  - interpersonal_synchrony
+  - interpersonal_coordination
+  - HR
+  - affect
+  - engagement
+  - attention
+  - rapport
+  - valence
+  - arousal
+  - text
+  - cross-correlation
+  - affiliation
+  - coupling
+---
 
 [Järvelä, S., Kätsyri, J., Ravaja, N., Chanel, G., & Henttonen, P. (2016). Intragroup emotions: Physiological linkage and social presence. _Frontiers in psychology_, _7_, 105.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00105/full)
 

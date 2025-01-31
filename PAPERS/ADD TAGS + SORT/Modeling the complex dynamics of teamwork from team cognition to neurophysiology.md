@@ -1,2 +1,0 @@
-
-Cooke, N. J., Amazeen, P. G., Gorman, J. C., Guastello, S. J., Likens, A., & Stevens, R. (2012, September). Modeling the complex dynamics of teamwork from team cognition to neurophysiology. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 56, No. 1, pp. 183-187). Sage CA: Los Angeles, CA: SAGE Publications.

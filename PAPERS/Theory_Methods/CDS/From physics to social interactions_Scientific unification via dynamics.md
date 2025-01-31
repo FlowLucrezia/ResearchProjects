@@ -18,6 +18,23 @@ tags:
   - interaction
   - interpersonal_coordination
   - motor_control
+  - iSAT
+  - FYP
+  - MFDFA
+  - MFCWT
+  - coordination_dynamics
+  - EEG
+  - adaptation
+  - flexibility
+  - process
+  - emergence
+  - entropy
+  - interpersonal_synchrony
+  - MRA
+  - CRQA
+  - JRQA
+  - complexity
+  - structure
 ---
 
 [Amazeen, P. G. (2018). From physics to social interactions: Scientific unification via dynamics. _Cognitive Systems Research_, _52_, 640-657.](https://pdf.sciencedirectassets.com/272183/1-s2.0-S1389041718X00047/1-s2.0-S1389041718301128/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGYaCXVzLWVhc3QtMSJGMEQCIG%2FsqeKohS4uA7XIs0QJnCI4j5%2FjJsGZNouUQyuxBVIfAiAVfQ%2BD7n1oaNYRsTcg8IrD78J3SKWsQd3nSOzWOVf6lyqzBQgfEAUaDDA1OTAwMzU0Njg2NSIM%2FCxVTgu1zP1a5fcrKpAFveUCkSuDgCmMeLak8GYWiqMCIPlgDHo8zykevYSbqEWeFOBVRUbt7YK3ZSuQeuR7BwyRwSETFnnGjrPLyWKShA%2BTW17hYOnqyN70KYYwbjf%2BeziJjfIqq5SnXtr0FGOM7XcAclG6fi8ZT0ICIqKGtroRlaVhr7WvbYZ9%2FYUgPpKEjZ2Da9XGqMjCrZ8MfvdTQMBQfcvL%2F2dWX4VDSzL62kxWzEyBKKUTwJCi3jHYb%2BfC8nASRewZpV2t%2F3A0B9B%2BfMDsT3EdVMVLc1sewN%2BN%2FzBcJhSRwE9cdBE1q1ZE2bNsZ2kjMSXDbvSpsKwkKev3ugriuOeDgN9Z47ZPHlARFTLeFHn%2F0P2y3JvAIbHxGRlbB1xfqq43nsaNrsNepOKKKUj3g8cf8W9N5WTlYiAp66lG5EkrXBI7R7UGue3tTfgAjrCUzbEm1OQZxD53ZKsQoYc5qj456KpyosXzmT%2FO%2F4qZ%2Baq0TyEsOXV%2Bf%2BTPYlZQjKoo%2B%2BKCJ%2FBK2mtbE0%2FrL%2FkC7v0IraNtEtUSC6xKver13g%2FoTeGk9s%2Fd7y7eu6MyXesLs2aiF2qwC8Gnn7fVntrGde0e%2F40pxsTWndovYaWzRJCdhqFlpDgP8Aid42am%2BCyK9AWBcl24piXX9yo1V5h8Xv%2BJoCgXxRyaukFNNl%2Bk1vKVCQIuzX0JGt0M8yvXaVr8O7Wt62Fh%2F8kCCsePeBfFQMt%2Bl3r6vjCUDA7ckP7vUUbfKgxzSZP%2BQbRFaluZFw892BJsy%2FwKH0JAbdMV%2FTTP%2BQfOj%2Fupd3bAObisdgk8yuidCz6NcX5O41Ldw91MWErrIQsxvP099q6%2F9c6KR0y0Kg9Dbky3qIyC6p%2BdPVFH8%2FnX1Wouw96oKMdg4S4w%2BLbIugY6sgE%2BJEIIQxvr%2FL%2FRC7KSoK8hkkNySCZwyD3bmfEZatTZ4GFYXohBUyhSlw0zFIHzDA7xm5WkApPHiWvwEXXo7VHlp6uNNT2khCrV8UWPhhL%2FTAN%2B03dM5Lq9NhHmBPGqkUmLa6DIyogDcZb7okxIrlmoFOgFmMeVKujzWUyzxmyAfkP5x7hvjBGj1VfRNJDbgg9fxgZoCfFrd5b3WkXCqtOlH5YYCVJd%2FXXV0jN6S8sCCzJ5&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241205T215042Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZ3NFFSDQ%2F20241205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e6a2ac8423b9b86060d8ad31d238251dfd407acf3888283a2a05d801e58d5f9d&hash=7d3aaa6d138261946c4d61a51f9f3b9b26349a1bd8551d8be90e0d2dc2630695&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1389041718301128&tid=pdf-68d65012-aa04-44b7-9a97-ca16ee012df1&sid=3d9342a44d71b5414d3a381-85138e4b42c5gxrqa&type=client)
