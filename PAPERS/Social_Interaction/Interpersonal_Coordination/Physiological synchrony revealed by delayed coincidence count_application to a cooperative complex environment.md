@@ -1,0 +1,32 @@
+---
+tags:
+  - dyadic
+  - physiology
+  - synchronization
+  - interaction
+  - interpersonal_synchrony
+  - delayed-coincidence-count
+  - complexity
+  - methodology
+  - experiment
+  - report
+  - ECG
+  - cardiac_activity
+  - communication
+  - team
+  - teams
+  - roles
+  - team_composition
+  - cooperation
+  - cross-correlation
+  - coherence
+  - CRQA
+  - dynamics
+  - difficulty
+  - task_performance
+  - entropy
+  - FYP
+  - iSAT
+---
+
+[Verdière, K. J., Albert, M., Dehais, F., & Roy, R. N. (2020). Physiological synchrony revealed by delayed coincidence count: application to a cooperative complex environment. IEEE Transactions on Human-Machine Systems, 50(5), 395-404.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9116829&casa_token=N2kr0ZuMCaAAAAAA:Jo8LcTnPUW2xi70nkWY42Ef1zyOrSPzorBdj8KO5RGY-m30tk874GJzBzZ4uZ7YtQlXwqKfE&tag=1)

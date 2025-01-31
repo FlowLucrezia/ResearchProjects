@@ -1,1 +1,23 @@
+---
+tags:
+  - HST
+  - HAT
+  - trust
+  - team
+  - teams
+  - communication
+  - dynamics
+  - experiment
+  - report
+  - iSAT
+  - entropy
+  - systems
+  - interaction
+  - synchronization
+  - cooperation
+  - methodology
+  - adaptation
+  - task_performance
+  - AI
+---
 [Yin, X., & Gorman, J. C. (2024, October). Exploring Dynamic Influences on Trust in Human-Autonomy Teaming: An Entropy and Event Layer Analysis. In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (p. 10711813241286505). Sage CA: Los Angeles, CA: SAGE Publications.](https://journals.sagepub.com/doi/full/10.1177/10711813241286505)

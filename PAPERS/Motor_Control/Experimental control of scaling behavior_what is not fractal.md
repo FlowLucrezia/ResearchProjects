@@ -1,3 +1,20 @@
+---
+tags:
+  - methodology
+  - report
+  - scaling
+  - fractal_scaling
+  - motor_control
+  - adaptation
+  - variability
+  - dynamics
+  - attention
+  - driving
+  - DFA
+  - power_law
+  - FYP
+  - Hurst
+---
 
 [Likens, A. D., Fine, J. M., Amazeen, E. L., & Amazeen, P. G. (2015). Experimental control of scaling behavior: what is not fractal?. Experimental brain research, 233, 2813-2821.](https://d1wqtxts1xzle7.cloudfront.net/46927555/Experimental_control_of_scaling_behavior20160630-19247-zmo4o-libre.pdf?1467331029=&response-content-disposition=inline%3B+filename%3DExperimental_control_of_scaling_behavior.pdf&Expires=1733441917&Signature=VsWy~Be3L8irKS4XRAfDLxOHX-e-Qy4aPMuXR2ghT2Q8cW8l1ScfnwsT7Lcm97kreX1GC~~VJ3pfA2dZKyMzT3VwoQvXp0NTkYyqmvUAU6SQoJdfCRSCbQLa5K5WPJ5fD-B3W-WYgYTor3p9pfDw0VeQFm8A7pAxs~PxjzLiD-ytuBhkSL13CKfNAL5LHPi8zgRlJplKogIbx3d69IlbrxsVctafbeQzBGFY~6ohT7k50zVJLh2p0TwtMMkxoXo3PSkFz57K2--c6FV9dLiFaHK~rQf2msUhNmCwJdOztqS-wMPW5KtV3kf-K5QOjCEQhvqBxgahbRoADKMqEpYNIQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 ### Fractal Analysis

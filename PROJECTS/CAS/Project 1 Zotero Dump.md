@@ -24,4 +24,3 @@ aliases:
 - @vanhaeringenIntegratingValenceArousal2021a
 - @vanhaeringenEmpiricalValidationAgentBased2024
 - @zhaoDyadicComputationalModel2014
-- [[Zijlstra+2021]]

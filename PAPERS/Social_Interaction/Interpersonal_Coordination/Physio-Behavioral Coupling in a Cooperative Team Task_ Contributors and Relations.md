@@ -1,2 +1,34 @@
+---
+tags:
+  - iSAT
+  - report
+  - experiment
+  - cooperation
+  - collaboration
+  - team
+  - teams
+  - task_performance
+  - coupling
+  - synchronization
+  - physiology
+  - IBI
+  - cardiac_activity
+  - team_composition
+  - dynamics
+  - CRQA
+  - cross-correlation
+  - entropy
+  - ECG
+  - coherence
+  - trust
+  - dyadic
+  - motion
+  - rapport
+  - roles
+  - postural_control
+  - interaction
+  - interpersonal_coordination
+  - FYP
+---
 
 [Strang, A. J., Funke, G. J., Russell, S. M., Dukes, A. W., & Middendorf, M. S. (2014). Physio-behavioral coupling in a cooperative team task: contributors and relations. Journal of Experimental Psychology: Human Perception and Performance, 40(1), 145.](https://www.researchgate.net/profile/Adam-Strang-3/publication/237095697_Physio-Behavioral_Coupling_in_a_Cooperative_Team_Task_Contributors_and_Relations/links/0deec5391aac5461dc000000/Physio-Behavioral-Coupling-in-a-Cooperative-Team-Task-Contributors-and-Relations.pdf)

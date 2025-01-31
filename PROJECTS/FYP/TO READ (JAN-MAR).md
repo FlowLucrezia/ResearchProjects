@@ -1,14 +1,16 @@
 
 
-### REVIEWS
+### Reviews
 - [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
 - [[Interpersonal autonomic physiology_A systematic review of the literature]]
 
 ### Methods
 - [[A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance|A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance]]
 	- MvDFA
+- [[Statistical properties of Multiscale Regression Analysis_Simulation and application to human postural control]]
+	- MRA
 
-### Heart Rate Coupling (etc)
+### Cardiac Activity Coupling (etc)
 - [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
 	- CRQA
 - [[Assessment of computer-supported collaborative processes using interpersonal physiological and eye-movement coupling]]
@@ -24,6 +26,17 @@
 - [[Physiological Linkage of Dyadic Gaming Experience]]
 	- Weighted coherence
 	- IBI cross-correlation
+- [[Physio-Behavioral Coupling in a Cooperative Team Task_ Contributors and Relations]]
+	- cross-correlation
+	- CRQA
+	- cross fuzzy entropy
+- [[Physiological synchrony revealed by delayed coincidence count_application to a cooperative complex environment]]
+	- delayed coincidence count
+	- cross-correlation
+	- CRQA
+	- weighted coherence
+- [[Synchronized arousal between performers and related spectators in a fire-walking ritual]]
+	- CRQA
 - [[What multimodal data can tell us about the students’ regulation of their learning process]]
 	- cross-correlation
 ## Amazeen Lab
