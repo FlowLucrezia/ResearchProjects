@@ -1,0 +1,2 @@
+
+Schmidt, R. C., Bienvenu, M., Fitzpatrick, P. A., & Amazeen, P. G. (1998). A comparison of intra-and interpersonal interlimb coordination: coordination breakdowns and coupling strength. Journal of Experimental Psychology: Human Perception and Performance, 24(3), 884.

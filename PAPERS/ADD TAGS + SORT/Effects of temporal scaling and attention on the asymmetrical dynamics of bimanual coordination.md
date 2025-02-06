@@ -1,0 +1,2 @@
+
+Riley, M. A., Amazeen, E. L., Amazeen, P. G., Treffner, P. J., & Turvey, M. T. (1997). Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination. Motor Control, 1(3), 263-283.

@@ -1,0 +1,39 @@
+---
+tags:
+  - symmetry_breaking
+  - symmetry
+  - laterality
+  - handedness
+  - hysteresis
+  - learning
+  - adaptation
+  - motor_control
+  - motor_skill
+  - methodology
+  - theory
+  - dynamics
+  - coordination
+  - attractors
+  - coupling
+---
+
+- [[A Dynamic Model of Human Limb Selection]]
+- [[Degree of handedness affects intermanual transfer of skill learning]]
+- [[Attention and handedness in bimanual coordination dynamics]]
+- [[Breaking the reflectional symmetry of interlimb coordination dynamics]]
+- [[Handedness and asymmetry of motor skill learning in right-handers]]
+- [[Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity]]
+- [[Laterally focused attention modulates asymmetric coupling in rhythmic interlimb coordination]]
+- [[Laterality effects in motor learning by mental practice in right-handers]]
+- [[Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand]]
+- [[Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence]]
+- [[Evidence for a dynamic-dominance hypothesis of handedness]]
+- [[Handedness and the asymmetric dynamics of bimanual rhythmic coordination]]
+- [[Symmetry, broken symmetry, and handedness in bimanual coordination dynamics]]
+- [[Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model]]
+- [[Does game pressure affect hand selection of NBA basketball players]]
+- [[Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals.]]
+- [[Intermediate motor learning as decreasing active (dynamical) degrees of freedom]]
+- [[Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties]]
+- [[Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination]]
+- [[A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength]]

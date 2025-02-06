@@ -1,14 +1,18 @@
 
-
 ### Reviews
 - [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
 - [[Interpersonal autonomic physiology_A systematic review of the literature]]
 
-### Methods
+## Methods
+### Analyses
 - [[A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance|A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance]]
 	- MvDFA
 - [[Statistical properties of Multiscale Regression Analysis_Simulation and application to human postural control]]
 	- MRA
+- [[Windowed multiscale synchrony_modeling time-varying and scale-localized interpersonal coordination dynamics]]
+	- WMS
+- [[It does not need two_Assessing physiological linkage from videos across the valence dimension]]
+	- CW/CP analysis
 
 ### Cardiac Activity Coupling (etc)
 - [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
@@ -39,7 +43,15 @@
 	- CRQA
 - [[What multimodal data can tell us about the students’ regulation of their learning process]]
 	- cross-correlation
-## Amazeen Lab
+
+### Complexity Matching
+- [[Complexity matching and coordination in individual and dyadic performance]]
+- [[Physio-Behavioral Coupling in a Cooperative Team Task_ Contributors and Relations]]
+- [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
+- [[Aligned bodies, united hearts_embodied emotional dynamics of an Islamic ritual]]
+
+## GENERAL
+### Amazeen Lab
 - [[From physics to social interactions_Scientific unification via dynamics]]
 - [[Modeling the complex dynamics of teamwork from team cognition to neurophysiology]]
 - [[Distinguishing driving behavior using the dynamical systems analysis (DSA) toolbox_Implications for trust in automation]]
@@ -48,7 +60,7 @@
 - [[Statistical properties of Multiscale Regression Analysis_Simulation and application to human postural control]]
 - [[Experimental control of scaling behavior_what is not fractal]]
 
-## Gorman Lab
+### Gorman Lab
 - [[Measuring patterns in team interaction sequences using a discrete recurrence approach]]
 - [[Team Coordination Dynamics]]
 - [[Getting Along With Autonomous Teammates_Understanding the Socio-Emotional and Teaming Aspects of Trust in Human-Autonomy Teams]]
@@ -57,9 +69,3 @@
 - [[Synerg-eye-zing_Decoding Nonlinear Gaze Dynamics Underlying Successful Collaborations in Co-located Team]]
 - [[Multifractal Analysis of Heart Rate Dynamics as a Predictor of Teammate Trust in Human-Machine Teams]]
 - [[Layered Dynamics and System Effectiveness of Human-Autonomy Teams Under Degraded Conditions]]
-## Complexity Matching
-- [[Complexity matching and coordination in individual and dyadic performance]]
-- [[Physio-Behavioral Coupling in a Cooperative Team Task_ Contributors and Relations]]
-- [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
-- [[Aligned bodies, united hearts_embodied emotional dynamics of an Islamic ritual]]
-- 

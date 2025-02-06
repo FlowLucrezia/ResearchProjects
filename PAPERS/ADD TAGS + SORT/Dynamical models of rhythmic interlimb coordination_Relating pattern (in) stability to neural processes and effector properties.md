@@ -1,0 +1,2 @@
+
+Peper, C. L. E., Daffertshofer, A., & Beek, P. J. (2004). Dynamical models of rhythmic interlimb coordination: Relating pattern (in) stability to neural processes and effector properties. Neuro-behavioral determinants of interlimb coordination: A multidisciplinary approach, 297-323.

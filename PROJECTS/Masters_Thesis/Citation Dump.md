@@ -1,3 +1,7 @@
+---
+aliases:
+  - thesiscite
+---
 
 
 Abney, D. H., Paxton, A., Dale, R., & Kello, C. T. (2015). Movement dynamics reflect a functional role for weak coupling and role structure in dyadic problem solving. _Cognitive Processing_, _16_(4), 325–332. [https://doi.org/10.1007/s10339-015-0648-2](https://doi.org/10.1007/s10339-015-0648-2)
