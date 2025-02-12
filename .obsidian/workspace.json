@@ -38,23 +38,8 @@
               "icon": "lucide-file",
               "title": "Reading List"
             }
-          },
-          {
-            "id": "b3dbac71d090c593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,34 +204,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5693b281c7fb4a5d",
+  "active": "04fbb06c27717709",
   "lastOpenFiles": [
-    "PAPERS/ADD TAGS + SORT/Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity.md",
+    "PROJECTS/Laterality/Reading List.md",
+    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
     "PAPERS/ADD TAGS + SORT/Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals..md",
+    "PAPERS/ADD TAGS + SORT/Laterally focused attention modulates asymmetric coupling in rhythmic interlimb coordination.md",
+    "PAPERS/ADD TAGS + SORT/Laterality effects in motor learning by mental practice in right-handers.md",
+    "PAPERS/ADD TAGS + SORT/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
+    "PAPERS/ADD TAGS + SORT/Intermediate motor learning as decreasing active (dynamical) degrees of freedom.md",
+    "PAPERS/ADD TAGS + SORT/Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand.md",
+    "PAPERS/ADD TAGS + SORT/Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence.md",
+    "PAPERS/ADD TAGS + SORT/Handedness and the asymmetric dynamics of bimanual rhythmic coordination.md",
+    "PAPERS/ADD TAGS + SORT/Handedness and asymmetry of motor skill learning in right-handers.md",
+    "PAPERS/ADD TAGS + SORT/Evidence for a dynamic-dominance hypothesis of handedness.md",
+    "PAPERS/ADD TAGS + SORT/Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination.md",
+    "PAPERS/ADD TAGS + SORT/Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties.md",
+    "PAPERS/ADD TAGS + SORT/Does game pressure affect hand selection of NBA basketball players.md",
+    "PAPERS/ADD TAGS + SORT/Degree of handedness affects intermanual transfer of skill learning.md",
+    "PAPERS/ADD TAGS + SORT/Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity.md",
+    "PAPERS/ADD TAGS + SORT/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
+    "PAPERS/ADD TAGS + SORT/Attention and handedness in bimanual coordination dynamics.md",
+    "PAPERS/ADD TAGS + SORT/Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model.md",
+    "PAPERS/ADD TAGS + SORT/Breaking the reflectional symmetry of interlimb coordination dynamics.md",
+    "PROJECTS/FYP/TO READ (JAN-MAR).md",
     "PAPERS/Motor_Control/Sensory-motor control of the lower back_implications for rehabilitation.md",
     "PAPERS/Motor_Control/Origins of timing errors in human sensorimotor coordination.md",
     "PAPERS/Motor_Control/Combinatory Effects of High-Intensity-Strength Training and Sensorimotor Training on Muscle Strength.md",
     "PAPERS/Motor_Control/Contemporary theories of 1_f noise in motor control.md",
-    "PAPERS/Motor_Control/Experimental control of scaling behavior_what is not fractal.md",
-    "PAPERS/Motor_Control/Symmetry, broken symmetry, and handedness in bimanual coordination dynamics.md",
-    "PAPERS/Theory_Methods/Toolkit/Windowed multiscale synchrony_modeling time-varying and scale-localized interpersonal coordination dynamics.md",
-    "PROJECTS/Laterality/Reading List.md",
-    "PROJECTS/FYP/TO READ (JAN-MAR).md",
-    "PAPERS/ADD TAGS + SORT/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
-    "PAPERS/ADD TAGS + SORT/Intermediate motor learning as decreasing active (dynamical) degrees of freedom.md",
-    "PAPERS/Theory_Methods/Toolkit/A Multivariate Method for Dynamic System Analysis_Multivariate Detrended Fluctuation Analysis Using Generalized Variance.md",
-    "PAPERS/Theory_Methods/Toolkit/Statistical properties of Multiscale Regression Analysis_Simulation and application to human postural control.md",
-    "PAPERS/ADD TAGS + SORT/Breaking the reflectional symmetry of interlimb coordination dynamics.md",
-    "PAPERS/ADD TAGS + SORT/Attention and handedness in bimanual coordination dynamics.md",
-    "PAPERS/ADD TAGS + SORT/A Dynamic Model of Human Limb Selection.md",
-    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
-    "PAPERS/ADD TAGS + SORT/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
-    "PROJECTS/CAS/CAS Fundamentals Project.md",
-    "PROJECTS/CAS/Description v1.md",
-    "PAPERS/ADD TAGS + SORT/Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties.md",
-    "PAPERS/ADD TAGS + SORT/Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination.md",
-    "PAPERS/ADD TAGS + SORT/Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model.md",
-    "PAPERS/ADD TAGS + SORT/Does game pressure affect hand selection of NBA basketball players.md",
     "PROJECTS/Laterality",
     "PROJECTS/CAS/Netlogo.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",

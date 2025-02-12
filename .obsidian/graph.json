@@ -97,18 +97,25 @@
         "a": 1,
         "rgb": 6191561
       }
+    },
+    {
+      "query": "path:\"PAPERS/ADD TAGS + SORT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 39186
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.43096885813149,
+  "nodeSizeMultiplier": 1.82093425605536,
   "lineSizeMultiplier": 0.464532871972318,
   "collapse-forces": false,
-  "centerStrength": 0.326989619377163,
-  "repelStrength": 14.4982698961938,
-  "linkStrength": 0.517301038062284,
+  "centerStrength": 0.347750865051903,
+  "repelStrength": 16.5743944636678,
+  "linkStrength": 0.437716262975779,
   "linkDistance": 236,
-  "scale": 0.05114082229358612,
-  "close": true
+  "scale": 0.036477493680349755,
+  "close": false
 }
