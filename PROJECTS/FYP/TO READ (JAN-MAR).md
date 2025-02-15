@@ -48,6 +48,10 @@ tags:
 	- WMS
 - [[It does not need two_Assessing physiological linkage from videos across the valence dimension]]
 	- CWA/CP analysis
+- [[Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation]]
+	- CWA/CWT
+- [[The relevance of the cross-wavelet transform in the analysis of human interaction – a tutorial]]
+	- CWA/CWT
 
 ### Cardiac Activity Coupling (etc)
 - [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]
@@ -78,6 +82,8 @@ tags:
 	- CRQA
 - [[What multimodal data can tell us about the students’ regulation of their learning process]]
 	- cross-correlation
+- [[Cognitive Collaboration Found in Cardiac Physiology_Study in Classroom Environment]]
+	- form of correlation?? need to look into methods more
 
 ### Complexity Matching
 - [[Complexity matching and coordination in individual and dyadic performance]]

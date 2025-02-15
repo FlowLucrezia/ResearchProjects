@@ -38,9 +38,22 @@
               "icon": "lucide-file",
               "title": "Reading List"
             }
+          },
+          {
+            "id": "d36905824866e80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAPERS/ADD TAGS + SORT/Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,12 +218,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0465ab5987fd4554",
+  "active": "04fbb06c27717709",
   "lastOpenFiles": [
-    "PROJECTS/CAS/CAS Model Description v1.md",
-    "PROJECTS/Laterality/Reading List.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
+    "PAPERS/ADD TAGS + SORT/Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation.md",
+    "PAPERS/ADD TAGS + SORT/The relevance of the cross-wavelet transform in the analysis of human interaction – a tutorial.md",
+    "PAPERS/ADD TAGS + SORT/Cognitive Collaboration Found in Cardiac Physiology_Study in Classroom Environment.md",
     "PROJECTS/FYP/TO READ (JAN-MAR).md",
+    "PROJECTS/Laterality/Reading List.md",
+    "PROJECTS/CAS/CAS Model Description v1.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
     "PAPERS/Motor_Control/Intermediate motor learning as decreasing active (dynamical) degrees of freedom.md",
     "PAPERS/Motor_Control/Handedness/Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand.md",
     "PAPERS/Motor_Control/Handedness/Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence.md",
@@ -230,10 +246,7 @@
     "PAPERS/Motor_Control/Handedness/Attention and handedness in bimanual coordination dynamics.md",
     "PAPERS/Motor_Control/Handedness/A Dynamic Model of Human Limb Selection.md",
     "PAPERS/Motor_Control/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
-    "PAPERS/Motor_Control/Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity.md",
     "PAPERS/Motor_Control/Handedness",
-    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
-    "PAPERS/Motor_Control/Sensory-motor control of the lower back_implications for rehabilitation.md",
     "PROJECTS/Laterality",
     "PROJECTS/CAS/Netlogo.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
