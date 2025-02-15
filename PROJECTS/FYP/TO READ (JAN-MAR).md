@@ -1,3 +1,38 @@
+---
+tags:
+  - FYP
+  - iSAT
+  - theory
+  - methodology
+  - CRQA
+  - RQA
+  - JRQA
+  - MdRQA
+  - physiology
+  - cardiac_activity
+  - synchronization
+  - interpersonal_synchrony
+  - coordination
+  - interpersonal_coordination
+  - coordination_dynamics
+  - cross-wavelet
+  - cross-correlation
+  - wavelet_coherence
+  - scaling
+  - fractal_scaling
+  - MRA
+  - DFA
+  - DTW
+  - coherence
+  - entropy
+  - IBI
+  - HRV
+  - HR
+  - dynamics
+  - multimodal
+  - delayed-coincidence-count
+  - cooperation
+---
 
 ### Reviews
 - [[Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis]]
@@ -12,7 +47,7 @@
 - [[Windowed multiscale synchrony_modeling time-varying and scale-localized interpersonal coordination dynamics]]
 	- WMS
 - [[It does not need two_Assessing physiological linkage from videos across the valence dimension]]
-	- CW/CP analysis
+	- CWA/CP analysis
 
 ### Cardiac Activity Coupling (etc)
 - [[A Heart for Interaction_Physiological Entrainment and Behavioral Coordination in a Collective, Creative Construction Task]]

@@ -1,0 +1,42 @@
+---
+tags:
+  - motor_skill
+  - motor_control
+  - learning
+  - DOF
+  - dynamics
+  - coordination
+  - coordination_dynamics
+  - motion
+  - adaptation
+  - temporally_distributed
+  - motor_equivalence
+  - relative_phase
+  - coordination_mode
+  - theory
+  - self_organization
+  - pendulum
+  - oscillator
+  - bifurcation
+  - lyapunov_exponent
+  - attractors
+  - HKB
+  - symmetry
+  - symmetry_breaking
+  - frequency
+  - structure
+  - rhythm
+  - complexity
+  - circular_causality
+  - noise
+  - PSR
+  - AMI
+  - variability
+  - experiment
+  - mathematics
+  - speed_accuracy
+  - bimanual
+  - flexibility
+---
+
+[Mitra, S., Amazeen, P. G., & Turvey, M. T. (1998). Intermediate motor learning as decreasing active (dynamical) degrees of freedom. Human movement science, 17(1), 17-65.](https://www.sciencedirect.com/science/article/pii/S0167945797000237)

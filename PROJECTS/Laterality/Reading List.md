@@ -32,7 +32,7 @@ tags:
 - [[Symmetry, broken symmetry, and handedness in bimanual coordination dynamics]]
 - [[Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model]]
 - [[Does game pressure affect hand selection of NBA basketball players]]
-- [[Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals.]]
+- [[Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals]]
 - [[Intermediate motor learning as decreasing active (dynamical) degrees of freedom]]
 - [[Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties]]
 - [[Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination]]

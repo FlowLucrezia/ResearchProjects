@@ -39,7 +39,8 @@
               "title": "Reading List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,34 +205,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04fbb06c27717709",
+  "active": "0465ab5987fd4554",
   "lastOpenFiles": [
+    "PROJECTS/CAS/CAS Model Description v1.md",
     "PROJECTS/Laterality/Reading List.md",
-    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
-    "PAPERS/ADD TAGS + SORT/Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals..md",
-    "PAPERS/ADD TAGS + SORT/Laterally focused attention modulates asymmetric coupling in rhythmic interlimb coordination.md",
-    "PAPERS/ADD TAGS + SORT/Laterality effects in motor learning by mental practice in right-handers.md",
-    "PAPERS/ADD TAGS + SORT/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
-    "PAPERS/ADD TAGS + SORT/Intermediate motor learning as decreasing active (dynamical) degrees of freedom.md",
-    "PAPERS/ADD TAGS + SORT/Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand.md",
-    "PAPERS/ADD TAGS + SORT/Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence.md",
-    "PAPERS/ADD TAGS + SORT/Handedness and the asymmetric dynamics of bimanual rhythmic coordination.md",
-    "PAPERS/ADD TAGS + SORT/Handedness and asymmetry of motor skill learning in right-handers.md",
-    "PAPERS/ADD TAGS + SORT/Evidence for a dynamic-dominance hypothesis of handedness.md",
-    "PAPERS/ADD TAGS + SORT/Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination.md",
-    "PAPERS/ADD TAGS + SORT/Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties.md",
-    "PAPERS/ADD TAGS + SORT/Does game pressure affect hand selection of NBA basketball players.md",
-    "PAPERS/ADD TAGS + SORT/Degree of handedness affects intermanual transfer of skill learning.md",
-    "PAPERS/ADD TAGS + SORT/Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity.md",
-    "PAPERS/ADD TAGS + SORT/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
-    "PAPERS/ADD TAGS + SORT/Attention and handedness in bimanual coordination dynamics.md",
-    "PAPERS/ADD TAGS + SORT/Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model.md",
-    "PAPERS/ADD TAGS + SORT/Breaking the reflectional symmetry of interlimb coordination dynamics.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
     "PROJECTS/FYP/TO READ (JAN-MAR).md",
+    "PAPERS/Motor_Control/Intermediate motor learning as decreasing active (dynamical) degrees of freedom.md",
+    "PAPERS/Motor_Control/Handedness/Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand.md",
+    "PAPERS/Motor_Control/Handedness/Handedness-related asymmetry in coupling strength in bimanual coordination_furthering theory and evidence.md",
+    "PAPERS/Motor_Control/Handedness/Handedness and the asymmetric dynamics of bimanual rhythmic coordination.md",
+    "PAPERS/Motor_Control/Handedness/Handedness and asymmetry of motor skill learning in right-handers.md",
+    "PAPERS/Motor_Control/Dynamical models of rhythmic interlimb coordination_Relating pattern (in) stability to neural processes and effector properties.md",
+    "PAPERS/Motor_Control/Handedness/Does game pressure affect hand selection of NBA basketball players.md",
+    "PAPERS/Motor_Control/Handedness/Degree of handedness affects intermanual transfer of skill learning.md",
+    "PAPERS/Motor_Control/Handedness/Evidence for a dynamic-dominance hypothesis of handedness.md",
+    "PAPERS/Motor_Control/Handedness/Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination.md",
+    "PAPERS/Motor_Control/Handedness/Breaking the reflectional symmetry of interlimb coordination dynamics.md",
+    "PAPERS/Motor_Control/Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model.md",
+    "PAPERS/Motor_Control/Handedness/Symmetry, broken symmetry, and handedness in bimanual coordination dynamics.md",
+    "PAPERS/Motor_Control/Handedness/Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals.md",
+    "PAPERS/Motor_Control/Handedness/Laterally focused attention modulates asymmetric coupling in rhythmic interlimb coordination.md",
+    "PAPERS/Motor_Control/Handedness/Laterality effects in motor learning by mental practice in right-handers.md",
+    "PAPERS/Motor_Control/Handedness/Attention and handedness in bimanual coordination dynamics.md",
+    "PAPERS/Motor_Control/Handedness/A Dynamic Model of Human Limb Selection.md",
+    "PAPERS/Motor_Control/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
+    "PAPERS/Motor_Control/Coordination dynamics of elliptic shape drawing_ Effects of orientation and eccentricity.md",
+    "PAPERS/Motor_Control/Handedness",
+    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
     "PAPERS/Motor_Control/Sensory-motor control of the lower back_implications for rehabilitation.md",
-    "PAPERS/Motor_Control/Origins of timing errors in human sensorimotor coordination.md",
-    "PAPERS/Motor_Control/Combinatory Effects of High-Intensity-Strength Training and Sensorimotor Training on Muscle Strength.md",
-    "PAPERS/Motor_Control/Contemporary theories of 1_f noise in motor control.md",
     "PROJECTS/Laterality",
     "PROJECTS/CAS/Netlogo.canvas",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
@@ -255,7 +257,6 @@
     "PAPERS/Untitled.canvas",
     "PAPERS/Reading/Fluency",
     "PAPERS/Affect/Personality",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination",
     "Untitled.canvas",
     "Research Topics & Literature.canvas"
   ]

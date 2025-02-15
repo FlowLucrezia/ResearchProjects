@@ -7,6 +7,14 @@ tags:
   - symmetry
   - symmetry_breaking
   - laterality
+  - grip-strength
+  - dominance
+  - theory
+  - experiment
+  - power
+  - speed_accuracy
+  - visual_rotation
+  - pursuit_rotor_test
 ---
 
 [Cho, J., Park, K. S., Kim, M., & Park, S. H. (2006). Handedness and asymmetry of motor skill learning in right-handers. Journal of Clinical Neurology, 2(2), 113-117.](https://synapse.koreamed.org/upload/synapsedata/pdfdata/0145jcn/jcn-2-113.pdf)

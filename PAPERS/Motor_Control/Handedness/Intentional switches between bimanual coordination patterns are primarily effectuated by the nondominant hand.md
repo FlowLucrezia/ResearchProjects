@@ -10,6 +10,27 @@ tags:
   - coordination_dynamics
   - dominance
   - dynamics
+  - relative_phase
+  - adaptation
+  - process
+  - coordination_mode
+  - symmetry
+  - symmetry_breaking
+  - rhythm
+  - oscillator
+  - HKB
+  - laterality
+  - handedness
+  - stability
+  - attractors
+  - coupling
+  - frequency
+  - methodology
+  - hand_movement
+  - switch
+  - variability
+  - experiment
+  - theory
 ---
 
 [de Poel, H. J., Peper, C. E., & Beek, P. J. (2006). Intentional switches between bimanual coordination patterns are primarily effectuated by the nondominant hand. Motor Control, 10(1), 7-23.](https://research.vu.nl/ws/portalfiles/portal/2130888/190536.pdf)

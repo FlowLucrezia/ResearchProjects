@@ -9,6 +9,23 @@ tags:
   - coordination
   - coordination_dynamics
   - motor_control
+  - pendulum
+  - coordination_mode
+  - frequency
+  - stability
+  - variability
+  - relative_phase
+  - experiment
+  - theory
+  - HKB
+  - coupling
+  - oscillator
+  - kinematics
+  - motion_tracking
+  - structure
+  - leader_follower
+  - dominance
+  - laterality
 ---
 
 [Treffner, P. J., & Turvey, M. T. (1995). Handedness and the asymmetric dynamics of bimanual rhythmic coordination. Journal of Experimental Psychology: Human Perception and Performance, 21(2), 318.](https://d1wqtxts1xzle7.cloudfront.net/39280134/Treffner95JEP-libre.pdf?1445198628=&response-content-disposition=inline%3B+filename%3DHandedness_and_the_asymmetric_dynamics_o.pdf&Expires=1739401729&Signature=Wvs3EtS4GXiY~UIi9FORnNKcfyGdzOgQHr7AxufaD2NeKHcy1G6e9elYtnmD~BTGqhH-TJrQsf~KVRtXSln3UuLSLqGM2sP31yWGtT-HwuFKYQwhgeoJxi4zBdOfrP7q0C4J6Tw8pcZR~Q5-C53Z52G~azL0F7ugWlroScHDKxwOGqIpxjFjFNGGWgGUlPcbe0SGAwAJnmGB4nsj-0YEQOO0YD40R-eCTa8HJQ0MdVPD7gexb6MqaCPJwDS34iX8bQCkbcqMog9dYb7Cr9gW9yBVV8sA6Rw3lXV2aSGqkVa9UYuFrDwAmoneyjPO1kzdm9vqnB~twwN6BnJH4BJEEw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
