@@ -23,6 +23,7 @@ tags:
 - Search terms for google scholar
 - Plan lit review
 - Start with ralf’s paper and model and jayci’s thesis
+	- [[A Dynamic Model of Human Limb Selection]]
 - Look at original turvey lit and dialogues
 - ask nia to send -> Dynamics of human intersegmental coordination: Theory and research.
 - Plug papers into notebook.lm or other lit review software to summarize findings and theoretical points…. Read through and annotate in obsidian

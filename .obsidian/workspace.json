@@ -40,20 +40,21 @@
             }
           },
           {
-            "id": "d36905824866e80d",
+            "id": "3320e60ad837c349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAPERS/ADD TAGS + SORT/Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation.md",
+                "file": "PAPERS/Motor_Control/Handedness/A Dynamic Model of Human Limb Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation"
+              "title": "A Dynamic Model of Human Limb Selection"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HR AND tag:#iSAT  ",
+                "query": "laterality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9ec929a0c85335db",
@@ -218,12 +220,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04fbb06c27717709",
+  "active": "3320e60ad837c349",
   "lastOpenFiles": [
+    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
     "PAPERS/ADD TAGS + SORT/Evaluating Interpersonal Synchrony_Wavelet Transform Toward an Unstructured Conversation.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Emergent Complexity Matching in Interpersonal Coordination_Local Dynamics and Global Variability.md",
+    "PAPERS/Social_Interaction/Interpersonal_Coordination/Complexity matching in dyadic conversation..md",
+    "References/Abney+2013.md",
+    "PAPERS/Fractals/Multifractal signatures of complexity matching.md",
+    "References/Delignières+2016.md",
+    "PAPERS/Theory_Methods/Toolkit/Windowed multiscale synchrony_modeling time-varying and scale-localized interpersonal coordination dynamics.md",
+    "PROJECTS/FYP/TO READ (JAN-MAR).md",
     "PAPERS/ADD TAGS + SORT/The relevance of the cross-wavelet transform in the analysis of human interaction – a tutorial.md",
     "PAPERS/ADD TAGS + SORT/Cognitive Collaboration Found in Cardiac Physiology_Study in Classroom Environment.md",
-    "PROJECTS/FYP/TO READ (JAN-MAR).md",
     "PROJECTS/Laterality/Reading List.md",
     "PROJECTS/CAS/CAS Model Description v1.md",
     "PAPERS/Social_Interaction/Interpersonal_Coordination/It does not need two_Assessing physiological linkage from videos across the valence dimension.md",
@@ -239,13 +248,6 @@
     "PAPERS/Motor_Control/Handedness/Effects of temporal scaling and attention on the asymmetrical dynamics of bimanual coordination.md",
     "PAPERS/Motor_Control/Handedness/Breaking the reflectional symmetry of interlimb coordination dynamics.md",
     "PAPERS/Motor_Control/Beyond the blank slate_routes to learning new coordination patterns depend on the intrinsic dynamics of the learner_experimental evidence and theoretical model.md",
-    "PAPERS/Motor_Control/Handedness/Symmetry, broken symmetry, and handedness in bimanual coordination dynamics.md",
-    "PAPERS/Motor_Control/Handedness/Reduced asymmetry in motor skill learning in left-handed compared to right-handed individuals.md",
-    "PAPERS/Motor_Control/Handedness/Laterally focused attention modulates asymmetric coupling in rhythmic interlimb coordination.md",
-    "PAPERS/Motor_Control/Handedness/Laterality effects in motor learning by mental practice in right-handers.md",
-    "PAPERS/Motor_Control/Handedness/Attention and handedness in bimanual coordination dynamics.md",
-    "PAPERS/Motor_Control/Handedness/A Dynamic Model of Human Limb Selection.md",
-    "PAPERS/Motor_Control/A comparison of intra-and interpersonal interlimb coordination_coordination breakdowns and coupling strength.md",
     "PAPERS/Motor_Control/Handedness",
     "PROJECTS/Laterality",
     "PROJECTS/CAS/Netlogo.canvas",
