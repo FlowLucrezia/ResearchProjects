@@ -1,2 +1,0 @@
-
-[Fujiwara, K., & Daibo, I. (2016). Evaluating interpersonal synchrony: Wavelet transform toward an unstructured conversation. Frontiers in psychology, 7, 516.](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00516/full)
