@@ -1,3 +1,27 @@
+---
+tags:
+  - feedback
+  - FYP
+  - theory
+  - valence
+  - emotion
+  - arousal
+  - synchronization
+  - interpersonal_synchrony
+  - physiology
+  - affect
+  - rapport
+  - team
+  - teams
+  - collaboration
+  - cooperation
+  - learning
+  - problem_solving
+  - iSAT
+  - AI
+  - WoZ
+  - empathy
+---
 
 1. **Feedback Valence**
 	- Positive vs Negative
@@ -39,12 +63,12 @@
 	- Team Level (aggregate)
 	- Individual Level (abs difference, variance between teammates)
 	...to what extent is it predicted by the extent of physiological synchrony
-			... MEDIATING EFFECT of AI feedback condition
-	- Greater synchrony due to positive (vs negative) feedback -->
+			... MODERATING EFFECT of AI feedback condition
+	- Greater synchrony in the case of positive (vs negative) feedback -->
 		- Greater team-level rapport with AI teammate
 		- Less difference between teammates in rapport with AI teammate
 			... consider divisiveness and competition as an explanation for effects of negative condition vs facilitation of cooperation and collaboration in positive condition
-	- Greater synchrony due to valenced (vs neutral) feedback -->
+	- Greater synchrony in the case of valenced (vs neutral) feedback -->
 		- Greater team-level rapport with AI teammate
 		- Less difference between teammates in rapport with AI teammate
 			... consider effects of enhancing engagement and interest in task with valenced condition, in turn influencing the cohesiveness between teammates in their rapport with the AI teammate, or their 'user experience'
