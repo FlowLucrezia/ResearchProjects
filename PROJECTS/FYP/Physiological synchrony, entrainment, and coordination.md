@@ -54,10 +54,13 @@ tags:
 		- e.g., identifying the degree of common, moment-to-moment physiology between partners
 	- **lagged synchrony**
 		- extent to which one partner’s physiology predicts the other’s future physiology (controlling for each partner’s own physiology at the previous time point)
-- Methodological approaches
-	- cross-correlation
-	- CRQA
-	- JRQA
+- Methodological approaches for nonstationary, noisy data (i.e, physiological series like ECG, HR)
+	- wavelet coherence
+	- cross-wavelet
+	- dynamic time warping
+	- detrended cross-correlation
+	- multiscale (lagged) regression analysis
+	- windowed multiscale synchrony
 
 ## Cardiac Activity
 - Autonomic NS
