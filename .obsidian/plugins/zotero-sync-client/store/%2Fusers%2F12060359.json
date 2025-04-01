@@ -62250,6 +62250,67 @@
       "relations": {},
       "dateAdded": "2025-03-05T21:26:11Z",
       "dateModified": "2025-03-05T21:26:11Z"
+    },
+    {
+      "key": "XK3LTRM5",
+      "version": 2919,
+      "parentItem": "H3FKI8JH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Withagen and Van Der Kamp - 2010 - Towards a new ecological conception of perceptual .pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Withagen and Van Der Kamp - 2010 - Towards a new ecological conception of perceptual .pdf",
+      "md5": null,
+      "mtime": null,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-03-25T19:19:52Z",
+      "dateModified": "2025-03-25T19:19:56Z"
+    },
+    {
+      "key": "H3FKI8JH",
+      "version": 2919,
+      "itemType": "journalArticle",
+      "title": "Towards a new ecological conception of perceptual information: Lessons from a developmental systems perspective",
+      "creators": [
+        {"creatorType": "author", "firstName": "Rob", "lastName": "Withagen"},
+        {
+          "creatorType": "author",
+          "firstName": "John",
+          "lastName": "Van Der Kamp"
+        }
+      ],
+      "abstractNote": "Over the last decades or so, empirical studies of perception, action, learning, and development have revealed that participants vary in what variable they detect and often rely on nonspecifying variables. This casts doubt on the Gibsonian conception of information as speciﬁcation. It is argued that a recent ecological conception of information has solved important problems, but insufﬁciently explains what determines the object of perception. Drawing on recent work on developmental systems, we sketch the outlines of an alternative conception of perceptual information. It is argued that perceptual information does not reside in the ambient arrays; rather, perceptual information is a relational property of patterns in the array and perceptual processes. What a pattern in the ambient ﬂow informs about depends on the perceiver who uses it. We explore the implications of this alternative conception of information for the ecological approach to perception and action.",
+      "publicationTitle": "Human Movement Science",
+      "volume": "29",
+      "issue": "1",
+      "pages": "149-163",
+      "date": "02/2010",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Human Movement Science",
+      "language": "en",
+      "DOI": "10.1016/j.humov.2009.09.003",
+      "ISSN": "01679457",
+      "shortTitle": "Towards a new ecological conception of perceptual information",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167945709000967",
+      "accessDate": "2025-03-25T19:19:55Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": ["IQPKSRC6"],
+      "relations": {},
+      "dateAdded": "2025-03-25T19:19:55Z",
+      "dateModified": "2025-03-25T19:19:55Z"
     }
   ],
   "collections": [
@@ -62443,5 +62504,5 @@
       "relations": {}
     }
   ],
-  "version": 2918
+  "version": 2920
 }
