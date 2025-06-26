@@ -24,17 +24,19 @@
             }
           },
           {
-            "id": "94a05ae14ee4b2bd",
+            "id": "117aa52df8fcf41c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Anxiety/Self-Esteem, Anxiety, and Dyadic Problem-Solving in Adolescents with and without Autism Spectrum Disorder.md",
+                "file": "PROJECTS/Interpersonal_Personality/Team Personality Literature.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Self-Esteem, Anxiety, and Dyadic Problem-Solving in Adolescents with and without Autism Spectrum Disorder"
+              "title": "Team Personality Literature"
             }
           }
         ],
@@ -143,10 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/CAS/Netlogo.canvas"
+                "file": "PROJECTS/Interpersonal_Personality/Team Personality Literature.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Netlogo"
+              "title": "Outline of Team Personality Literature"
             }
           },
           {
@@ -205,37 +210,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94a05ae14ee4b2bd",
+  "active": "5693b281c7fb4a5d",
   "lastOpenFiles": [
-    "PROJECTS/Anxiety/Untitled.md",
+    "PROJECTS/FYP/TO READ (JAN-MAR).md",
+    "PROJECTS/FYP/Primary Relationships.md",
+    "PROJECTS/FYP/Physiological synchrony, entrainment, and coordination.md",
+    "PROJECTS/Interpersonal_Personality/Team Personality Literature.md",
+    "PAPERS/ADD TAGS + SORT/Personality processes and intra-group dynamics in sport teams.md",
+    "PAPERS/ADD TAGS + SORT/Toward a dynamic multilevel theory of team personality.md",
+    "PAPERS/ADD TAGS + SORT/The emergence of personality_Dynamic foundations of individual variation.md",
+    "PAPERS/ADD TAGS + SORT/The interacting partner as the immediate environment_Personality, interpersonal dynamics, and bodily synchronization.md",
+    "PAPERS/ADD TAGS + SORT/Personality expression in body motion dynamics_An enactive, embodied, and complex systems perspective.md",
+    "PAPERS/ADD TAGS + SORT/A dynamic systems approach to personality_The Personality Dynamics (PersDyn) model.md",
+    "PAPERS/ADD TAGS + SORT/Finding order in the flow of personality_Dynamical systems techniques for measuring personality coherence and change.md",
+    "PROJECTS/Masters_Thesis/Citation Dump.md",
+    "PROJECTS/Interpersonal_Personality",
+    "PROJECTS/Masters_Thesis/Contextual Background.md",
+    "PROJECTS/Masters_Thesis/Interaction Dominance & Fractality.md",
+    "PROJECTS/Masters_Thesis/Reading Strategies & Metacognition.md",
+    "PROJECTS/Masters_Thesis/Methodology.md",
+    "PROJECTS/Masters_Thesis/Reading Process Measures.md",
     "PROJECTS/Anxiety/Self-Esteem, Anxiety, and Dyadic Problem-Solving in Adolescents with and without Autism Spectrum Disorder.md",
     "PROJECTS/Anxiety/OG Proposal (CDD).md",
+    "PAPERS/Reading/Comprehension/Expectations on Hierarchical Scales of Discourse_Multifractality Predicts Both Short- and Long-Range Effects of Violating Gender Expectations in Text Reading.md",
+    "References/Booth+2018.md",
+    "PROJECTS/CAS/CAS Fundamentals Project.md",
+    "PROJECTS/Anxiety/Untitled.md",
     "PROJECTS/Anxiety",
-    "PROJECTS/FYP/TO READ (JAN-MAR).md",
     "PAPERS/Social_Interaction/Charisma/Centrality and charisma_Comparing how leader networks and attributions affect team performance..md",
     "PAPERS/Social_Interaction/Charisma/A meta-analytic review and future research agenda of charismatic leadership.md",
     "PROJECTS/Rizz/Rizz List.md",
     "PROJECTS/Rizz",
     "PROJECTS/CAS/Netlogo.canvas",
-    "PROJECTS/FYP/Primary Relationships.md",
-    "PROJECTS/FYP/Physiological synchrony, entrainment, and coordination.md",
-    "PROJECTS/iSAT/Teams/Defining agents & teams.md",
-    "PROJECTS/iSAT/Research Questions.md",
-    "PROJECTS/iSAT/Review of iSAT Literature (original).md",
-    "PROJECTS/iSAT/Original Proposal.md",
-    "PROJECTS/Laterality/Reading List.md",
-    "PROJECTS/Laterality/Laterality, Learning, & Hysteresis.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic nervous system synchrony and its association to relationship and performance–a systematic review and meta-analysis.md",
-    "PAPERS/Social_Interaction/Interpersonal_Coordination/Interpersonal autonomic physiology_A systematic review of the literature.md",
-    "References/Ihlen+Vereijken2013.md",
-    "References/Hasselman2023.md",
-    "References/Haus+Micheli2012.md",
-    "References/Hausdorff+1999.md",
-    "References/Hausdorff2007.md",
-    "ADMINISTRATIVE/templates/note paper link.md",
-    "ADMINISTRATIVE/templates/Note Header.md",
-    "ADMINISTRATIVE/templates/Zotero Integration Code.md",
-    "2025-03-09.md",
     "PAPERS/Motor_Control/Handedness",
     "PROJECTS/Laterality",
     "PROJECTS/iSAT/Analyses/Data Processing Workflow.canvas",
@@ -255,7 +261,6 @@
     "PAPERS/Health/Mental_Health",
     "PAPERS/Health/ADHD",
     "PAPERS/Development/Childhood",
-    "PAPERS/Health",
     "PAPERS/Untitled.canvas",
     "Untitled.canvas",
     "Research Topics & Literature.canvas"

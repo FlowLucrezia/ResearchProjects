@@ -1,0 +1,2 @@
+
+Arellano-Véliz, N. A., Cox, R. F., Jeronimus, B. F., Castillo, R. D., & Kunnen, E. S. (2024). Personality expression in body motion dynamics: An enactive, embodied, and complex systems perspective. Journal of Research in Personality, 110, 104495.

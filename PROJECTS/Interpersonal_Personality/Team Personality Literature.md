@@ -1,0 +1,7 @@
+- Michaels, J. L., Vallacher, R. R., & Nowak, A. (2021). Finding order in the flow of personality: Dynamical systems techniques for measuring personality coherence and change. In The handbook of personality dynamics and processes (pp. 985-1011). Academic Press.
+- Sosnowska, J., Kuppens, P., De Fruyt, F., & Hofmans, J. (2019). A dynamic systems approach to personality: The Personality Dynamics (PersDyn) model. Personality and individual differences, 144, 11-18.
+- Arellano-Véliz, N. A., Cox, R. F., Jeronimus, B. F., Castillo, R. D., & Kunnen, E. S. (2024). Personality expression in body motion dynamics: An enactive, embodied, and complex systems perspective. Journal of Research in Personality, 110, 104495.
+- Arellano‐Véliz, N. A., Jeronimus, B. F., Kunnen, E. S., & Cox, R. F. (2024). The interacting partner as the immediate environment: Personality, interpersonal dynamics, and bodily synchronization. Journal of Personality, 92(1), 180-201.
+- Nowak, A., Vallacher, R. R., & Zochowski, M. (2005). The emergence of personality: Dynamic foundations of individual variation. Developmental review, 25(3-4), 351-385.
+- Gardner, S. D., & Quigley, N. R. (2015). Toward a dynamic multilevel theory of team personality. Organizational Psychology Review, 5(4), 364-384.
+- Beauchamp, M. R., Jackson, B., & Lavallee, D. (2007). Personality processes and intra-group dynamics in sport teams. In Group dynamics in exercise and sport psychology (pp. 43-60). Routledge.

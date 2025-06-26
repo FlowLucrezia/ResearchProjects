@@ -1,0 +1,2 @@
+
+Sosnowska, J., Kuppens, P., De Fruyt, F., & Hofmans, J. (2019). A dynamic systems approach to personality: The Personality Dynamics (PersDyn) model. Personality and individual differences, 144, 11-18.

@@ -1,0 +1,2 @@
+
+Arellano‐Véliz, N. A., Jeronimus, B. F., Kunnen, E. S., & Cox, R. F. (2024). The interacting partner as the immediate environment: Personality, interpersonal dynamics, and bodily synchronization. Journal of Personality, 92(1), 180-201.

@@ -1,0 +1,2 @@
+
+Michaels, J. L., Vallacher, R. R., & Nowak, A. (2021). Finding order in the flow of personality: Dynamical systems techniques for measuring personality coherence and change. In The handbook of personality dynamics and processes (pp. 985-1011). Academic Press.
